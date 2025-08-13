@@ -28,7 +28,17 @@ jobs:
       - name: Generate summary
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python miner_news.py
+        run: |
+          echo "Iniciando o script..."
+          python miner_news.py
+          echo "Script terminado. Verificando arquivos:"
+          ls -la
+          if [ -f resumo-mineracao.txt ]; then
+            echo "Arquivo criado! Conteúdo:"
+            cat resumo-mineracao.txt
+          else
+            echo "Arquivo NÃO criado!"
+          fi
 
       - name: Commit & push if changed
         run: |
@@ -36,3 +46,4 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add resumo-mineracao.txt
           git diff --quiet && echo "Sem mudanças para commitar." || (git commit -m "Atualiza resumo de mineração [skip ci]" && git push)
+          echo "Commit terminado."

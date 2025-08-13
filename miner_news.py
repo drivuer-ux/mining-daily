@@ -1,19 +1,17 @@
 #!/usr/bin/env python3
-import os, sys
+import os, sys, time, json, textwrap
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
 import requests
 import feedparser
 
-TZ = ZoneInfo("America/Bahia")  # Fuso horário local
+TZ = ZoneInfo("America/Bahia")  # seu fuso
 UA = {"User-Agent": "Mozilla/5.0 (+news-bot)"}
 
-# Feeds Google News (PT-BR/BR) para mineração, setor mineral e comércio exterior
+# Feeds Google News (PT-BR/BR) p/ mineração "setor mineral" e "cripto"
 FEEDS = [
-    "https://news.google.com/rss/search?q=minera%C3%A7%C3%A3o&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-    "https://news.google.com/rss/search?q=%22setor+mineral%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-    "https://news.google.com/rss/search?q=%22ind%C3%BAstria+mineral%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-    "https://news.google.com/rss/search?q=%22com%C3%A9rcio+exterior%22+minera%C3%A7%C3%A3o&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "https://news.google.com/rss/search?q=minera%C3%A7%C3%A3o+setor+mineral&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "https://news.google.com/rss/search?q=minera%C3%A7%C3%A3o+bitcoin+OU+criptomoedas&hl=pt-BR&gl=BR&ceid=BR:pt-419",
 ]
 
 def is_yesterday(dt_utc, tz=TZ):
@@ -29,7 +27,7 @@ def load_items():
             link = getattr(e, "link", "")
             if not link or link in seen:
                 continue
-            # Pega a data de publicação
+            # published -> datetime
             dt = None
             for attr in ("published_parsed", "updated_parsed"):
                 t = getattr(e, attr, None)
@@ -43,20 +41,17 @@ def load_items():
                 source = getattr(getattr(e, "source", {}), "title", "") or getattr(e, "source", "")
                 items.append({"title": title, "link": link, "source": source, "dt": dt})
                 seen.add(link)
-    # Ordena por data/hora
+    # ordena por hora
     items.sort(key=lambda x: x["dt"])
     return items
 
 def call_openai(headlines_text, openai_api_key):
     prompt = f"""
-Você é um analista especializado no setor mineral.
-A seguir há manchetes de ontem (Bahia/BR) sobre mineração, setor mineral e comércio exterior.
+Você é um analista que escreve para executivos. A seguir há manchetes de ontem (Bahia/BR) sobre mineração (setor mineral e cripto). 
 1) Produza um resumo em PT-BR, direto ao ponto, com 5–10 tópicos do que IMPORTA (sem floreio).
 2) Separe seção 'Principais manchetes' listando 8–15 títulos curtos com fonte.
 3) Termine com 'Links-chave' e inclua 3–5 URLs mais relevantes.
-Use a data de ontem e evite duplicatas.
-
-Manchetes:
+Use a data de ontem e evite duplicatas. Manchetes:
 ---
 {headlines_text}
 ---
@@ -68,7 +63,7 @@ Manchetes:
     payload = {
         "model": "gpt-4o-mini",
         "messages": [
-            {"role": "system", "content": "Você resume notícias do setor mineral de forma clara e objetiva."},
+            {"role": "system", "content": "Você resume notícias de forma clara e objetiva."},
             {"role": "user", "content": prompt},
         ],
         "temperature": 0.3,
@@ -88,7 +83,7 @@ def main():
     yday = (datetime.now(TZ).date() - timedelta(days=1)).strftime("%d/%m/%Y")
 
     if not items:
-        # Fallback: se nada de ontem, pega os 10 mais recentes do 1º feed
+        # fallback: se nada de ontem, pega os 10 mais recentes do 1º feed
         fp = feedparser.parse(FEEDS[0])
         alt = []
         for e in fp.entries[:10]:
@@ -98,8 +93,28 @@ def main():
             alt.append({"title": title, "link": link, "source": source, "dt": datetime.now(timezone.utc)})
         items = alt
 
-    # Monta texto para enviar ao GPT
+    # monta texto de manchetes para o prompt
     lines = []
     for it in items:
         src = f" — {it['source']}" if it.get("source") else ""
-        lines.append(f"• {it['title']}
+        lines.append(f"• {it['title']}{src} — {it['link']}")
+    headlines_text = "\n".join(lines)
+
+    try:
+        summary = call_openai(headlines_text, openai_api_key)
+    except Exception as e:
+        summary = "Não foi possível gerar o resumo hoje. Erro: " + str(e)
+
+    now_ba = datetime.now(TZ).strftime("%d/%m/%Y %H:%M")
+    out = []
+    out.append(f"Resumo diário de mineração — {yday}")
+    out.append(f"(Gerado em {now_ba} BRT)\n")
+    out.append(summary)
+    out.append("\n— Fonte automatizada via Google News (PT-BR/BR).")
+    text = "\n".join(out).strip() + "\n"
+
+    with open("resumo-mineracao.txt", "w", encoding="utf-8") as f:
+        f.write(text)
+
+if __name__ == "__main__":
+    main()

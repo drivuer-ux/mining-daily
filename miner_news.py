@@ -23,6 +23,7 @@ def load_items():
     seen = set()
     for url in FEEDS:
         fp = feedparser.parse(url)
+        print(f"Feed {url} retornou {len(fp.entries)} entradas")
         for e in fp.entries:
             link = getattr(e, "link", "")
             if not link or link in seen:
@@ -41,13 +42,13 @@ def load_items():
                 source = getattr(getattr(e, "source", {}), "title", "") or getattr(e, "source", "")
                 items.append({"title": title, "link": link, "source": source, "dt": dt})
                 seen.add(link)
-    # ordena por hora
+    print(f"Manchetes encontradas: {len(items)}")
     items.sort(key=lambda x: x["dt"])
     return items
 
 def call_openai(headlines_text, openai_api_key):
     prompt = f"""
-Você é um analista que escreve para executivos. A seguir há manchetes de ontem (Bahia/BR) sobre mineração (setor mineral e cripto). 
+Você é um analista que escreve para executivos. A seguir há manchetes de ontem no mundo sobre mineração (setor mineral). 
 1) Produza um resumo em PT-BR, direto ao ponto, com 5–10 tópicos do que IMPORTA (sem floreio).
 2) Separe seção 'Principais manchetes' listando 8–15 títulos curtos com fonte.
 3) Termine com 'Links-chave' e inclua 3–5 URLs mais relevantes.
@@ -81,6 +82,7 @@ def main():
 
     items = load_items()
     yday = (datetime.now(TZ).date() - timedelta(days=1)).strftime("%d/%m/%Y")
+    print(f"Procurando manchetes de {yday}, total de items: {len(items)}")
 
     if not items:
         # fallback: se nada de ontem, pega os 10 mais recentes do 1º feed
@@ -92,6 +94,7 @@ def main():
             source = getattr(getattr(e, "source", {}), "title", "") or getattr(e, "source", "")
             alt.append({"title": title, "link": link, "source": source, "dt": datetime.now(timezone.utc)})
         items = alt
+        print("Usando fallback: 10 itens mais recentes")
 
     # monta texto de manchetes para o prompt
     lines = []
@@ -99,11 +102,14 @@ def main():
         src = f" — {it['source']}" if it.get("source") else ""
         lines.append(f"• {it['title']}{src} — {it['link']}")
     headlines_text = "\n".join(lines)
+    print(f"Texto enviado à API: {headlines_text[:200]}...")  # Mostra os primeiros 200 caracteres
 
     try:
         summary = call_openai(headlines_text, openai_api_key)
+        print(f"Resumo gerado: {summary[:200]}...")
     except Exception as e:
         summary = "Não foi possível gerar o resumo hoje. Erro: " + str(e)
+        print(f"Erro na API: {str(e)}")
 
     now_ba = datetime.now(TZ).strftime("%d/%m/%Y %H:%M")
     out = []
@@ -112,9 +118,11 @@ def main():
     out.append(summary)
     out.append("\n— Fonte automatizada via Google News (PT-BR/BR).")
     text = "\n".join(out).strip() + "\n"
+    print(f"Texto final a ser salvo: {text[:200]}...")
 
     with open("resumo-mineracao.txt", "w", encoding="utf-8") as f:
         f.write(text)
+        print("Arquivo salvo com sucesso!")
 
 if __name__ == "__main__":
     main()

@@ -8,7 +8,6 @@ import feedparser
 TZ = ZoneInfo("America/Bahia")  # seu fuso
 UA = {"User-Agent": "Mozilla/5.0 (+news-bot)"}
 
-# Feeds Google News (PT-BR/BR) p/ mineração "setor mineral" e "cripto"
 FEEDS = [
     "https://news.google.com/rss/search?q=minera%C3%A7%C3%A3o+setor+mineral&hl=pt-BR&gl=BR&ceid=BR:pt-419",
     "https://news.google.com/rss/search?q=minera%C3%A7%C3%A3o+bitcoin+OU+criptomoedas&hl=pt-BR&gl=BR&ceid=BR:pt-419",
@@ -28,7 +27,6 @@ def load_items():
             link = getattr(e, "link", "")
             if not link or link in seen:
                 continue
-            # published -> datetime
             dt = None
             for attr in ("published_parsed", "updated_parsed"):
                 t = getattr(e, attr, None)
@@ -46,9 +44,8 @@ def load_items():
     items.sort(key=lambda x: x["dt"])
     return items
 
-def call_openai(headlines_text, openai_api_key):
-
-prompt = f"""
+def call_openai(headlines_text, yday_date, openai_api_key):
+    prompt = f"""
 Você é um analista que escreve para executivos. 
 A seguir estão manchetes coletadas APENAS da data {yday_date}, no contexto de mineração (setor mineral, não incluir criptoativos).
 
@@ -89,12 +86,11 @@ def main():
         print("Faltou OPENAI_API_KEY no ambiente.", file=sys.stderr)
         sys.exit(1)
 
+    yday_date = (datetime.now(TZ).date() - timedelta(days=1)).strftime("%d/%m/%Y")
     items = load_items()
-    yday = (datetime.now(TZ).date() - timedelta(days=1)).strftime("%d/%m/%Y")
-    print(f"Procurando manchetes de {yday}, total de items: {len(items)}")
+    print(f"Procurando manchetes de {yday_date}, total de items: {len(items)}")
 
     if not items:
-        # fallback: se nada de ontem, pega os 10 mais recentes do 1º feed
         fp = feedparser.parse(FEEDS[0])
         alt = []
         for e in fp.entries[:10]:
@@ -105,27 +101,27 @@ def main():
         items = alt
         print("Usando fallback: 10 itens mais recentes")
 
-    # monta texto de manchetes para o prompt
     lines = []
     for it in items:
         src = f" — {it['source']}" if it.get("source") else ""
         lines.append(f"• {it['title']}{src} — {it['link']}")
     headlines_text = "\n".join(lines)
-    print(f"Texto enviado à API: {headlines_text[:200]}...")  # Mostra os primeiros 200 caracteres
+    print(f"Texto enviado à API: {headlines_text[:200]}...")
 
     try:
-        summary = call_openai(headlines_text, openai_api_key)
+        summary = call_openai(headlines_text, yday_date, openai_api_key)
         print(f"Resumo gerado: {summary[:200]}...")
     except Exception as e:
         summary = "Não foi possível gerar o resumo hoje. Erro: " + str(e)
         print(f"Erro na API: {str(e)}")
 
     now_ba = datetime.now(TZ).strftime("%d/%m/%Y %H:%M")
-    out = []
-    out.append(f"Resumo diário de mineração — {yday}")
-    out.append(f"(Gerado em {now_ba} BRT)\n")
-    out.append(summary)
-    out.append("\n— Fonte automatizada via Google News (PT-BR/BR).")
+    out = [
+        f"Resumo diário de mineração — {yday_date}",
+        f"(Gerado em {now_ba} BRT)\n",
+        summary,
+        "\n— Fonte automatizada via Google News (PT-BR/BR)."
+    ]
     text = "\n".join(out).strip() + "\n"
     print(f"Texto final a ser salvo: {text[:200]}...")
 

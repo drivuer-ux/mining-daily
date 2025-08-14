@@ -57,6 +57,7 @@ Tarefas:
 3) Na seção "Links-chave", inclua apenas 3–5 URLs mais relevantes e atuais.
 4) Ignore completamente qualquer manchete que não seja de {yday_date} ou que seja de anos anteriores, mesmo que pareça relevante.
 5) Use {yday_date} como data de referência no título e no conteúdo.
+6) Confirme que gerou no mínimo 3 notícias
 
 Manchetes:
 ---

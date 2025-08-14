@@ -47,12 +47,26 @@ def load_items():
     return items
 
 def call_openai(headlines_text, openai_api_key):
-    prompt = f"""
-Você é um analista que escreve para executivos. A seguir há manchetes de ontem no mundo sobre mineração (setor mineral). 
-1) Produza um resumo em PT-BR, direto ao ponto, com 5–10 tópicos do que IMPORTA (sem floreio).
-2) Separe seção 'Principais manchetes' listando 8–15 títulos curtos com fonte.
-3) Termine com 'Links-chave' e inclua 3–5 URLs mais relevantes.
-Use a data de ontem e evite duplicatas. Manchetes:
+from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
+
+TZ = ZoneInfo("America/Bahia")
+yday_date = (datetime.now(TZ).date() - timedelta(days=1)).strftime("%d/%m/%Y")
+
+prompt = f"""
+Você é um analista que escreve para executivos. 
+A seguir estão manchetes coletadas APENAS da data {yday_date}, no contexto de mineração (setor mineral, não incluir criptoativos).
+
+Tarefas:
+1) Produza um resumo em português do Brasil (PT-BR), direto ao ponto, com 5–10 tópicos do que realmente IMPORTA, sem floreio, sem opinião e sem redundância.
+2) Na seção "Principais manchetes", liste de 8 a 15 notícias.  
+   - Para cada notícia, escreva o título seguido da fonte entre parênteses.  
+   - Logo abaixo, insira um parágrafo com 4 a 8 linhas explicando o conteúdo da notícia de forma clara e objetiva.  
+3) Na seção "Links-chave", inclua apenas 3–5 URLs mais relevantes e atuais.
+4) Ignore completamente qualquer manchete que não seja de {yday_date} ou que seja de anos anteriores, mesmo que pareça relevante.
+5) Use {yday_date} como data de referência no título e no conteúdo.
+
+Manchetes:
 ---
 {headlines_text}
 ---

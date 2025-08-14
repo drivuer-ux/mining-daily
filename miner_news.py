@@ -47,11 +47,6 @@ def load_items():
     return items
 
 def call_openai(headlines_text, openai_api_key):
-from datetime import datetime, timedelta
-from zoneinfo import ZoneInfo
-
-TZ = ZoneInfo("America/Bahia")
-yday_date = (datetime.now(TZ).date() - timedelta(days=1)).strftime("%d/%m/%Y")
 
 prompt = f"""
 Você é um analista que escreve para executivos. 

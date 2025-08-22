@@ -1,37 +1,39 @@
-Resumo diário de mineração — 20/08/2025
-(Gerado em 21/08/2025 07:43 BRT)
+Resumo diário de mineração — 21/08/2025
+(Gerado em 22/08/2025 07:42 BRT)
 
-### Resumo das Notícias de Mineração - 20/08/2025
+### Resumo das Notícias de Mineração - 21/08/2025
 
-1. A ANM divulgou uma lista provisória de municípios que poderão receber royalties da mineração.
-2. A Plataforma Minera Brasil foi lançada para aumentar a transparência na mineração e apoiar municípios extrativistas.
-3. Cidades mineradoras se reuniram para discutir a modernização do Marco Regulatório da Mineração.
-4. Um estudo aponta que a mineração gera mais ônus do que bônus para os municípios.
-5. O CT Mineral está promovendo a prospecção de projetos de inovação no setor mineral.
-6. A evolução da mineração foi abordada em anuários da ANM, destacando tendências e dados recentes.
-7. José Fernando Júnior foi confirmado como diretor da Agência Nacional de Mineração.
+1. **Debate sobre Marco Regulatório Municipal**: Gestores de cidades mineradoras discutem a importância de um marco regulatório que possa melhorar a gestão e os benefícios da mineração nas comunidades.
+2. **Repasse da CFEM em Alagoas**: O estado de Alagoas recebeu mais de R$ 60 mil do repasse da Compensação Financeira pela Exploração de Recursos Minerais (CFEM), que será utilizado para investimentos no setor mineral.
+3. **II Encontro Nacional do MAM**: Minas Gerais se prepara para o II Encontro Nacional do Movimento pela Mineração (MAM), onde serão apresentadas denúncias e propostas sobre a mineração no Brasil.
+4. **Debate em Rondônia**: O presidente da Assembleia Legislativa de Rondônia se reuniu com a Agência Nacional de Mineração (ANM) para discutir pautas relevantes para o setor mineral no estado.
+5. **Investimento em mineradora de ouro**: Fernando Maggi, sócio de uma grande empresa do agronegócio, anunciou investimentos em uma mineradora de ouro em Mato Grosso.
+6. **Disputa por minerais críticos**: O Brasil se posiciona entre os EUA e a China na competição por minerais críticos, destacando a importância estratégica do setor mineral para a economia nacional.
 
 ### Principais Manchetes
 
-- **ANM divulga lista provisória de municípios aptos a receber royalties da mineração** (Brasil 61)  
-  A Agência Nacional de Mineração (ANM) publicou uma lista preliminar de municípios que estão qualificados para receber royalties oriundos da atividade mineradora. Essa medida visa garantir que as comunidades locais se beneficiem economicamente da exploração mineral em suas regiões.
+1. **Gestores de cidades mineradoras debatem o Marco Regulatório Municipal** (realnews.com.br)  
+   Gestores de cidades que dependem da mineração se reuniram para discutir a criação de um marco regulatório que visa melhorar a gestão dos recursos minerais e os benefícios para as comunidades locais. A proposta busca alinhar interesses municipais com as diretrizes nacionais.
 
-- **Plataforma Minera Brasil dá transparência à mineração e apoio a municípios extrativistas** (Diário do Comércio)  
-  A nova Plataforma Minera Brasil foi lançada com o objetivo de aumentar a transparência nas operações de mineração e oferecer suporte a municípios que dependem da atividade extrativista. A plataforma permitirá um melhor acompanhamento das atividades mineradoras e suas implicações sociais e econômicas.
+2. **Alagoas recebe mais de R$ 60 mil de repasse da CFEM e reforça investimentos na mineração** (Cadaminuto)  
+   O estado de Alagoas recebeu um repasse significativo da CFEM, que será utilizado para fortalecer investimentos em projetos de mineração. Este recurso é crucial para o desenvolvimento de infraestrutura e serviços nas áreas afetadas pela atividade mineradora.
 
-- **Cidades mineradoras se reúnem e discutem modernização do Marco Regulatório da Mineração** (Rádio Itatiaia)  
-  Representantes de diversas cidades mineradoras se reuniram para debater a necessidade de modernizar o Marco Regulatório da Mineração. O objetivo é adaptar as legislações às novas realidades do setor e promover um desenvolvimento mais sustentável e equilibrado.
+3. **MG será destaque no II Encontro Nacional do MAM com denúncias e propostas sobre mineração** (Brasil de Fato)  
+   Minas Gerais se prepara para sediar o II Encontro Nacional do Movimento pela Mineração (MAM), onde serão discutidas denúncias relacionadas à mineração e propostas para melhorar a regulamentação e a responsabilidade social das empresas do setor.
 
-- **Mineração gera mais ônus do que bônus aos municípios, diz Amig** (Diário do Comércio)  
-  Um estudo realizado pela Associação Mineira de Municípios (Amig) concluiu que a mineração tem gerado mais custos do que benefícios para as cidades. Os dados sugerem que os impactos negativos, como degradação ambiental e problemas sociais, superam os ganhos financeiros obtidos com royalties.
+4. **Presidente da Assembleia Legislativa debate pautas do setor mineral em Rondônia com ANM** (Tudo Rondônia)  
+   O presidente da Assembleia Legislativa de Rondônia se encontrou com representantes da ANM para discutir questões pertinentes ao setor mineral, incluindo regulamentações e desafios enfrentados pelas mineradoras no estado.
 
-- **CT Mineral fortalece prospecção de projetos de inovação** (IFRN)  
-  O Centro de Tecnologia Mineral (CT Mineral) está intensificando seus esforços para identificar e desenvolver projetos inovadores no setor mineral. Essa iniciativa visa modernizar a mineração e torná-la mais eficiente e sustentável.
+5. **Fernando Maggi, sócio de gigante do agro, investe em mineradora de ouro em MT** (AgroOlhar)  
+   Fernando Maggi anunciou um investimento em uma mineradora de ouro em Mato Grosso, destacando a crescente intersecção entre o agronegócio e o setor mineral no Brasil. O investimento visa aumentar a produção e a competitividade da mineradora.
+
+6. **O xadrez da mineração: Brasil entre EUA e China na disputa por minerais críticos** (Comex do Brasil)  
+   O Brasil se posiciona estrategicamente entre os EUA e a China na disputa por minerais críticos, essenciais para diversas indústrias. A notícia destaca a importância do setor mineral para a segurança econômica e tecnológica do país.
 
 ### Links-chave
 
-1. [ANM - Lista de Municípios para Royalties](https://news.google.com/rss/articles/CBMitwFBVV95cUxNMVl6bVp3WjI4YnpQMWg2YXEwRHJFRTZKRENRR2NwelY2OE5mSzBqaEZ1azRSUlZHY0IxUXQ2Y0hTUktFVE1BeVI3ZjBNWTQzcVEta083WDVxVm1aakJsVkQ3M0ZRenRkLWQ0YjAyc0o4SnF2TU51bnVPdFNXUmZ1R3NlV1A3WER2eUNrek1XRG5QWFBLRm5pNTdhaGM3YnZJdXV1ZFY1ejU4djNLSUJzcnZRZUVxY0U?oc=5)
-2. [Plataforma Minera Brasil](https://news.google.com/rss/articles/CBMilAFBVV95cUxPRk9Vdkd6bXJocjlZLWlnOE9xWDU0T240MG84bVBZU3BoTUROUWJ3WVFPNGh1RjFPaDVjejRoM1pLUDNCZVpGYTl6WWQwaEx2bjlnay1fMFFYUC1sZi1wNTNjVk9kVWxJUExBeUxEUy1Db3prb1ZIbHVjMXh3Ml9jeTZuS1BGdFBYYnlpSWlvaFRIMkx0?oc=5)
-3. [Modernização do Marco Regulatório da Mineração](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbnNRbkVjZkF5cjV4ZE5uQm9wXzRPbXpmbjQ2M1QtVWNkVWFRTjVHZ2hwNE9vaTFwOThMb2owZVVDN3p3YmExQUNaN3hTZVk2Y2dUeGoxRklUZ1hhbnVjOWFJQXpQUmRzZ252Um9WU2dBYkJ6dXVrOG5lVjYzaE8zVnVoNlRnbTd3azJwa21fOWNUclRwdUs2QlFJR0lWXzhEcndMeGZIa0hkQVozM0lsdGkxdEZzUTA2NTVzb3paamJrZw?oc=5)
+1. [realnews.com.br](https://news.google.com/rss/articles/CBMimgFBVV95cUxQRldsY2w5Z0UySmV1WU5PSFdOZ055QTdpSFNKTFByRGVVZnp6T3dhaDA1U3lwMmJ2OEZyOTVJREpkanc3ei1MaFExMXh1UGczdFVjX1cwMFpsZ19wTU5DY3gyLTVCQjlTZ1loSTVCSkJQb3BpdXdWdU90RjQ2T1BqUC1NQ3dOZ2RkLU0wZy1KQUJWaWdmd0w1RXhB?oc=5)
+2. [Cadaminuto](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNmJHeU01dDh1WlZXUld1cmJhTFJvR0tFVldjMTZXVFhoelVaelVzTWtZYlRvX0R3V2NESW5IV2N6NE10eEpwTUF1emZDdjhMWnV1WU9qNjRBMVRsMWVQam1Mc044aDE1Y19GNjFKbzdBanZZNU9EWDJORHJSU3hlOWxNUmF6dnJEOWdyaTNWbG0zcVk1OWNwbVMwR0twWm9MRzFBelY1T09jZmFfYlQ5Szg5VzViMnhndTB4VzVteTMtUXdvR1VPQUJHNHBXVWVPclE?oc=5)
+3. [Brasil de Fato](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSHBrU3pUTVA5THFrYk1EY2k1RDQ0enFzNVlIZXFNUUU5aWo0bXFmU0EweGw0N20wUWUybmpMUFBKemRMTmF5M2k2cU5hU0VNTWZsTFdkbTFuTm91WGpaLU4weHhaeWFWcno3MWF4VTIwVGwxRzAtUko0dnhzRExsVUpuM3FoTUFlbUNQUEV6SnhmM1RoaXRCV2tPRFZiZzE1eWVfdVZrbUozTlRHUXlaZWwyMWIzY0V3NmNfZ2E1Z1Z6T3RwR3pTejFYX0xwQQ?oc=5)
 
 — Fonte automatizada via Google News (PT-BR/BR).

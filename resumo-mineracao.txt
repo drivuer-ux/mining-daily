@@ -1,39 +1,40 @@
-Resumo diário de mineração — 21/08/2025
-(Gerado em 22/08/2025 07:42 BRT)
+Resumo diário de mineração — 22/08/2025
+(Gerado em 23/08/2025 07:39 BRT)
 
-### Resumo das Notícias de Mineração - 21/08/2025
+### Resumo das Notícias de Mineração - 22/08/2025
 
-1. **Debate sobre Marco Regulatório Municipal**: Gestores de cidades mineradoras discutem a importância de um marco regulatório que possa melhorar a gestão e os benefícios da mineração nas comunidades.
-2. **Repasse da CFEM em Alagoas**: O estado de Alagoas recebeu mais de R$ 60 mil do repasse da Compensação Financeira pela Exploração de Recursos Minerais (CFEM), que será utilizado para investimentos no setor mineral.
-3. **II Encontro Nacional do MAM**: Minas Gerais se prepara para o II Encontro Nacional do Movimento pela Mineração (MAM), onde serão apresentadas denúncias e propostas sobre a mineração no Brasil.
-4. **Debate em Rondônia**: O presidente da Assembleia Legislativa de Rondônia se reuniu com a Agência Nacional de Mineração (ANM) para discutir pautas relevantes para o setor mineral no estado.
-5. **Investimento em mineradora de ouro**: Fernando Maggi, sócio de uma grande empresa do agronegócio, anunciou investimentos em uma mineradora de ouro em Mato Grosso.
-6. **Disputa por minerais críticos**: O Brasil se posiciona entre os EUA e a China na competição por minerais críticos, destacando a importância estratégica do setor mineral para a economia nacional.
+1. **Plataforma de Monitoramento de Royalties**: O governo lançou uma nova plataforma para monitorar e evitar a sonegação de royalties por parte das mineradoras.
+2. **Importância da Mineração na Transição Energética**: Carlos Borel, vice-presidente da CBPM, destacou que a mineração é essencial para a transição energética.
+3. **Inovação em Geociências**: A MineMind se posiciona como um agente pioneiro em inteligência artificial aplicada às geociências e mineração.
+4. **Gestão de Dados Minerários**: A AMIG Brasil lançou uma plataforma para melhorar a gestão de dados em municípios mineradores.
+5. **Celebração de Práticas Sustentáveis**: A Mineração Paragominas comemorou cinco anos de uso de Tailings Dry Backfill, uma prática sustentável na mineração.
+6. **Lucro Social do SGB**: O Serviço Geológico do Brasil (SGB) reportou um lucro social de R$ 1,8 bilhão em 2024.
+7. **Novo Concurso na ANM**: A Agência Nacional de Mineração (ANM) anunciou o resultado de um concurso para 180 novos servidores.
+8. **Prêmio de Jornalismo Sustentável**: A CBPM e parceiros lançaram um prêmio para incentivar a cobertura jornalística sobre mineração sustentável.
 
 ### Principais Manchetes
 
-1. **Gestores de cidades mineradoras debatem o Marco Regulatório Municipal** (realnews.com.br)  
-   Gestores de cidades que dependem da mineração se reuniram para discutir a criação de um marco regulatório que visa melhorar a gestão dos recursos minerais e os benefícios para as comunidades locais. A proposta busca alinhar interesses municipais com as diretrizes nacionais.
+1. **Governo cria plataforma para evitar que mineradoras continuem sonegando royalties** (Folha de S.Paulo)  
+   O governo brasileiro lançou uma nova plataforma digital com o objetivo de monitorar e coibir a sonegação de royalties por mineradoras. A iniciativa visa aumentar a transparência e garantir que os recursos sejam devidamente revertidos para as comunidades afetadas pela mineração.
 
-2. **Alagoas recebe mais de R$ 60 mil de repasse da CFEM e reforça investimentos na mineração** (Cadaminuto)  
-   O estado de Alagoas recebeu um repasse significativo da CFEM, que será utilizado para fortalecer investimentos em projetos de mineração. Este recurso é crucial para o desenvolvimento de infraestrutura e serviços nas áreas afetadas pela atividade mineradora.
+2. **“Não há transição energética sem a mineração”, afirma Carlos Borel, vice-presidente da CBPM** (Classe Politica)  
+   Carlos Borel, vice-presidente da Companhia Baiana de Pesquisa Mineral (CBPM), enfatizou a importância da mineração para a transição energética. Ele argumentou que os minerais são fundamentais para a produção de tecnologias sustentáveis e energias renováveis, como baterias e painéis solares.
 
-3. **MG será destaque no II Encontro Nacional do MAM com denúncias e propostas sobre mineração** (Brasil de Fato)  
-   Minas Gerais se prepara para sediar o II Encontro Nacional do Movimento pela Mineração (MAM), onde serão discutidas denúncias relacionadas à mineração e propostas para melhorar a regulamentação e a responsabilidade social das empresas do setor.
+3. **MineMind transforma setor como agente pioneiro de IA especializado em geociências e mineração** (Inforchannel)  
+   A MineMind se destacou no setor mineral ao introduzir soluções de inteligência artificial focadas em geociências. A empresa visa otimizar processos de exploração e extração, aumentando a eficiência e a sustentabilidade das operações mineradoras.
 
-4. **Presidente da Assembleia Legislativa debate pautas do setor mineral em Rondônia com ANM** (Tudo Rondônia)  
-   O presidente da Assembleia Legislativa de Rondônia se encontrou com representantes da ANM para discutir questões pertinentes ao setor mineral, incluindo regulamentações e desafios enfrentados pelas mineradoras no estado.
+4. **MUNICÍPIOS MINERADORES | AMIG Brasil lança plataforma para gestão de dados minerários** (Brasil Mineral)  
+   A AMIG Brasil lançou uma nova plataforma que permitirá aos municípios mineradores gerenciar dados de forma mais eficaz. A ferramenta busca facilitar o acesso a informações relevantes e promover a transparência nas operações mineradoras.
 
-5. **Fernando Maggi, sócio de gigante do agro, investe em mineradora de ouro em MT** (AgroOlhar)  
-   Fernando Maggi anunciou um investimento em uma mineradora de ouro em Mato Grosso, destacando a crescente intersecção entre o agronegócio e o setor mineral no Brasil. O investimento visa aumentar a produção e a competitividade da mineradora.
-
-6. **O xadrez da mineração: Brasil entre EUA e China na disputa por minerais críticos** (Comex do Brasil)  
-   O Brasil se posiciona estrategicamente entre os EUA e a China na disputa por minerais críticos, essenciais para diversas indústrias. A notícia destaca a importância do setor mineral para a segurança econômica e tecnológica do país.
+5. **REJEITOS | Mineração Paragominas celebra cinco anos de Tailings Dry Backfill** (Brasil Mineral)  
+   A Mineração Paragominas comemorou cinco anos da implementação da técnica de Tailings Dry Backfill, que visa reduzir o impacto ambiental da mineração. A prática tem se mostrado eficaz na gestão de rejeitos, contribuindo para a sustentabilidade do setor.
 
 ### Links-chave
 
-1. [realnews.com.br](https://news.google.com/rss/articles/CBMimgFBVV95cUxQRldsY2w5Z0UySmV1WU5PSFdOZ055QTdpSFNKTFByRGVVZnp6T3dhaDA1U3lwMmJ2OEZyOTVJREpkanc3ei1MaFExMXh1UGczdFVjX1cwMFpsZ19wTU5DY3gyLTVCQjlTZ1loSTVCSkJQb3BpdXdWdU90RjQ2T1BqUC1NQ3dOZ2RkLU0wZy1KQUJWaWdmd0w1RXhB?oc=5)
-2. [Cadaminuto](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNmJHeU01dDh1WlZXUld1cmJhTFJvR0tFVldjMTZXVFhoelVaelVzTWtZYlRvX0R3V2NESW5IV2N6NE10eEpwTUF1emZDdjhMWnV1WU9qNjRBMVRsMWVQam1Mc044aDE1Y19GNjFKbzdBanZZNU9EWDJORHJSU3hlOWxNUmF6dnJEOWdyaTNWbG0zcVk1OWNwbVMwR0twWm9MRzFBelY1T09jZmFfYlQ5Szg5VzViMnhndTB4VzVteTMtUXdvR1VPQUJHNHBXVWVPclE?oc=5)
-3. [Brasil de Fato](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSHBrU3pUTVA5THFrYk1EY2k1RDQ0enFzNVlIZXFNUUU5aWo0bXFmU0EweGw0N20wUWUybmpMUFBKemRMTmF5M2k2cU5hU0VNTWZsTFdkbTFuTm91WGpaLU4weHhaeWFWcno3MWF4VTIwVGwxRzAtUko0dnhzRExsVUpuM3FoTUFlbUNQUEV6SnhmM1RoaXRCV2tPRFZiZzE1eWVfdVZrbUozTlRHUXlaZWwyMWIzY0V3NmNfZ2E1Z1Z6T3RwR3pTejFYX0xwQQ?oc=5)
+1. [Governo cria plataforma para evitar que mineradoras continuem sonegando royalties - Folha de S.Paulo](https://news.google.com/rss/articles/CBMizgFBVV95cUxNR1VPQUphR2w1U2MtRTBhRXA1d3FxN29mNktybWw2ejVweVhFbWt1NC1kX1IwM0plVFR1RTdiSS1TVk1FUVdfOTVtRjQ1MmMyZnBSLXBUWDFLTDJQSDlYQXBxTUtya014M3plN29tcEIwR0RydnFpcjhNX0VvNHNWUkFaS1YwV2hFUHZMTnZPcVJidXpKalpVQVhFODdBRFdXRVBxNjUwU1dQakZuRjdGemdCbGJjMzJTeEJYdTFmTTZpNmoxLU5iWGxjeWZFd9IB0wFBVV95cUxQMC02aC1rVFdReldtbHdQcUdhVXdyYmxXdmNCWUxRQmJaN2R6UnVJNExHVXM5LXlSUmhmc3lsVS1uQmJvUk05YnVod0JaU3FnY1dTNFR4dU1qTFByN2lIaE1hR0ZWUGVqNkZjZjBVUGJOeVpHaW04TVNkRXd5dVhkQ1JENzl1M0dUY0tOcmRvalpoRDk1RHI1TXc2aTNfTHdnb3Y4NTZLTUk0NjV4V0ZjS3NVRlgxTGpsU3ExYkJLUnFRdkc5Y2NOVGFKNVdUcjYwam5v?oc=5)
+
+2. [MineMind transforma setor como agente pioneiro de IA especializado em geociências e mineração - Inforchannel](https://news.google.com/rss/articles/CBMizgFBVV95cUxPYUxYbWp0ZjlhdU41UlZNaHdBVXVDdHo4blZ5Zkh6SlJ6VzkzNElPeTdfV19YM3ZqMjdnQURMOFlMNkRNRnNBTWU5a0NRRjY3TlA3WHZocXNBeUdJdmhsUkNhNkhHZkVRQl8wN0NMQlpfSEk2TFYxeEVQSFBZNHhDSHBsM2p5NXByZ1h1YS14THRkWWNsa2NCUG0zNFFKRFMtS0RMbTRoVmRGR1IzRV8tLW4zd05LbTI3b000c3MzTE56Sk1qdlk4TDgyb2NqUQ?oc=5)
+
+3. [MUNICÍPIOS MINERADORES | AMIG Brasil lança plataforma para gestão de dados minerários - Brasil Mineral](https://news.google.com/rss/articles/CBMipAFBVV95cUxNSURsc3czVVJ5Y3V3UXdxYWNQZE9JYWRyTFBOa1JLS0x5T01zeGhJWkVfQ1JSUlZsRXFkak9XdE15bkZDVTBlUUJHczJpOUZ3d2g4dlVWOVBUSHdIMnc0SjN5akNUblBiUml3YkFJS0pYNU9rVkRURVlGYkF5ZDhNZ1Ftb01TSmctT1JrZWtmcEFHMmgyOFZzU09jdmI1S2N3V2ZLWg?oc=5)
 
 — Fonte automatizada via Google News (PT-BR/BR).

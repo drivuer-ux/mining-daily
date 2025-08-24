@@ -1,40 +1,31 @@
-Resumo diário de mineração — 22/08/2025
-(Gerado em 23/08/2025 07:39 BRT)
+Resumo diário de mineração — 23/08/2025
+(Gerado em 24/08/2025 07:39 BRT)
 
-### Resumo das Notícias de Mineração - 22/08/2025
+### Resumo das Notícias - 23/08/2025
 
-1. **Plataforma de Monitoramento de Royalties**: O governo lançou uma nova plataforma para monitorar e evitar a sonegação de royalties por parte das mineradoras.
-2. **Importância da Mineração na Transição Energética**: Carlos Borel, vice-presidente da CBPM, destacou que a mineração é essencial para a transição energética.
-3. **Inovação em Geociências**: A MineMind se posiciona como um agente pioneiro em inteligência artificial aplicada às geociências e mineração.
-4. **Gestão de Dados Minerários**: A AMIG Brasil lançou uma plataforma para melhorar a gestão de dados em municípios mineradores.
-5. **Celebração de Práticas Sustentáveis**: A Mineração Paragominas comemorou cinco anos de uso de Tailings Dry Backfill, uma prática sustentável na mineração.
-6. **Lucro Social do SGB**: O Serviço Geológico do Brasil (SGB) reportou um lucro social de R$ 1,8 bilhão em 2024.
-7. **Novo Concurso na ANM**: A Agência Nacional de Mineração (ANM) anunciou o resultado de um concurso para 180 novos servidores.
-8. **Prêmio de Jornalismo Sustentável**: A CBPM e parceiros lançaram um prêmio para incentivar a cobertura jornalística sobre mineração sustentável.
+1. A mineração de recursos estratégicos para a transição energética enfrenta novos desafios, incluindo questões ambientais e sociais.
+2. O Brasil se posiciona entre os EUA e a China na disputa por minerais críticos, destacando a importância geopolítica do setor mineral.
+3. Parauapebas é identificado como um polo minerador essencial no Brasil, contribuindo significativamente para a economia local e nacional.
+4. As empresas mineradoras estão sendo pressionadas a adotar práticas mais sustentáveis e responsáveis.
+5. O aumento da demanda por minerais essenciais para tecnologias limpas está transformando o cenário da mineração global.
 
 ### Principais Manchetes
 
-1. **Governo cria plataforma para evitar que mineradoras continuem sonegando royalties** (Folha de S.Paulo)  
-   O governo brasileiro lançou uma nova plataforma digital com o objetivo de monitorar e coibir a sonegação de royalties por mineradoras. A iniciativa visa aumentar a transparência e garantir que os recursos sejam devidamente revertidos para as comunidades afetadas pela mineração.
+- **Mineração de recursos estratégicos para transição energética impõe novos desafios** (Brasil de Fato)  
+  A reportagem discute os novos desafios enfrentados pela mineração de recursos estratégicos, como lítio e cobalto, essenciais para a transição energética. Questões ambientais, sociais e a necessidade de regulamentação mais rigorosa são destacados como fatores críticos que as empresas devem considerar para garantir a sustentabilidade do setor.
 
-2. **“Não há transição energética sem a mineração”, afirma Carlos Borel, vice-presidente da CBPM** (Classe Politica)  
-   Carlos Borel, vice-presidente da Companhia Baiana de Pesquisa Mineral (CBPM), enfatizou a importância da mineração para a transição energética. Ele argumentou que os minerais são fundamentais para a produção de tecnologias sustentáveis e energias renováveis, como baterias e painéis solares.
+- **O xadrez da mineração: Brasil entre EUA e China na disputa por minerais críticos** (Fator Brasil)  
+  O Brasil é analisado como um jogador estratégico na disputa global por minerais críticos, especialmente entre os EUA e a China. A matéria explora como a geopolítica influencia a mineração no país e a importância de garantir a segurança de suprimentos para tecnologias emergentes, como baterias e energias renováveis.
 
-3. **MineMind transforma setor como agente pioneiro de IA especializado em geociências e mineração** (Inforchannel)  
-   A MineMind se destacou no setor mineral ao introduzir soluções de inteligência artificial focadas em geociências. A empresa visa otimizar processos de exploração e extração, aumentando a eficiência e a sustentabilidade das operações mineradoras.
-
-4. **MUNICÍPIOS MINERADORES | AMIG Brasil lança plataforma para gestão de dados minerários** (Brasil Mineral)  
-   A AMIG Brasil lançou uma nova plataforma que permitirá aos municípios mineradores gerenciar dados de forma mais eficaz. A ferramenta busca facilitar o acesso a informações relevantes e promover a transparência nas operações mineradoras.
-
-5. **REJEITOS | Mineração Paragominas celebra cinco anos de Tailings Dry Backfill** (Brasil Mineral)  
-   A Mineração Paragominas comemorou cinco anos da implementação da técnica de Tailings Dry Backfill, que visa reduzir o impacto ambiental da mineração. A prática tem se mostrado eficaz na gestão de rejeitos, contribuindo para a sustentabilidade do setor.
+- **Parauapebas: O polo minerador do Brasil** (Correio Braziliense)  
+  Parauapebas é destacado como um dos principais polos mineradores do Brasil, com um papel vital na economia local. A cidade é conhecida pela extração de minério de ferro e enfrenta desafios relacionados ao crescimento urbano e à sustentabilidade ambiental, refletindo a complexidade do setor mineral no país.
 
 ### Links-chave
 
-1. [Governo cria plataforma para evitar que mineradoras continuem sonegando royalties - Folha de S.Paulo](https://news.google.com/rss/articles/CBMizgFBVV95cUxNR1VPQUphR2w1U2MtRTBhRXA1d3FxN29mNktybWw2ejVweVhFbWt1NC1kX1IwM0plVFR1RTdiSS1TVk1FUVdfOTVtRjQ1MmMyZnBSLXBUWDFLTDJQSDlYQXBxTUtya014M3plN29tcEIwR0RydnFpcjhNX0VvNHNWUkFaS1YwV2hFUHZMTnZPcVJidXpKalpVQVhFODdBRFdXRVBxNjUwU1dQakZuRjdGemdCbGJjMzJTeEJYdTFmTTZpNmoxLU5iWGxjeWZFd9IB0wFBVV95cUxQMC02aC1rVFdReldtbHdQcUdhVXdyYmxXdmNCWUxRQmJaN2R6UnVJNExHVXM5LXlSUmhmc3lsVS1uQmJvUk05YnVod0JaU3FnY1dTNFR4dU1qTFByN2lIaE1hR0ZWUGVqNkZjZjBVUGJOeVpHaW04TVNkRXd5dVhkQ1JENzl1M0dUY0tOcmRvalpoRDk1RHI1TXc2aTNfTHdnb3Y4NTZLTUk0NjV4V0ZjS3NVRlgxTGpsU3ExYkJLUnFRdkc5Y2NOVGFKNVdUcjYwam5v?oc=5)
+1. [Brasil de Fato - Mineração de recursos estratégicos para transição energética impõe novos desafios](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTDdONTd5NDBpZnAtcU14YWo3b0lYTXJVa3k5RE1BYUxjTHlLeXlzakprdUtWVFUzcjdoTklLVy02OUxMNVl6S0JXOFRHUnJ4QWhuaURqYW1UM0VubnkyVTd0ZHFCMmNRc2hXb3oxT3BVdktnSDFKYU1abTVMbWRqX3JKaFFJTHdTTnhneHJDV0FNanhld2pvc01DUjVzQ18yb3hLSXp1OVA4dWVCdWkxYV9DQzZsUHVqeVRlbDlrSVZPQlA0?oc=5)
 
-2. [MineMind transforma setor como agente pioneiro de IA especializado em geociências e mineração - Inforchannel](https://news.google.com/rss/articles/CBMizgFBVV95cUxPYUxYbWp0ZjlhdU41UlZNaHdBVXVDdHo4blZ5Zkh6SlJ6VzkzNElPeTdfV19YM3ZqMjdnQURMOFlMNkRNRnNBTWU5a0NRRjY3TlA3WHZocXNBeUdJdmhsUkNhNkhHZkVRQl8wN0NMQlpfSEk2TFYxeEVQSFBZNHhDSHBsM2p5NXByZ1h1YS14THRkWWNsa2NCUG0zNFFKRFMtS0RMbTRoVmRGR1IzRV8tLW4zd05LbTI3b000c3MzTE56Sk1qdlk4TDgyb2NqUQ?oc=5)
+2. [Fator Brasil - O xadrez da mineração: Brasil entre EUA e China na disputa por minerais críticos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVE0yT3FobWkxeXFRNnNOYjktcm5lcTRHVW9WZnh6aXBPN0RhbDJ2eFJhZ1FUcmtOc0VwM1NJT2hGVmpwUVpWMUlQeGhaOUNqUW9NRXhrS2JSVlFUR3J4aFRIcktCUUt5S0J1enhtWG9WTDJrUFhTeFZrQUxtZlZHbUd6QUxqYUI5cFVhYXdYRjV1eVpyOTlHUERaU0EtZkpUWTVCSjRybThxWUhHRlVyUko3dDhqZ3pzZVFaVzRpR09fdGQzaWVJSg?oc=5)
 
-3. [MUNICÍPIOS MINERADORES | AMIG Brasil lança plataforma para gestão de dados minerários - Brasil Mineral](https://news.google.com/rss/articles/CBMipAFBVV95cUxNSURsc3czVVJ5Y3V3UXdxYWNQZE9JYWRyTFBOa1JLS0x5T01zeGhJWkVfQ1JSUlZsRXFkak9XdE15bkZDVTBlUUJHczJpOUZ3d2g4dlVWOVBUSHdIMnc0SjN5akNUblBiUml3YkFJS0pYNU9rVkRURVlGYkF5ZDhNZ1Ftb01TSmctT1JrZWtmcEFHMmgyOFZzU09jdmI1S2N3V2ZLWg?oc=5)
+3. [Correio Braziliense - Parauapebas: O polo minerador do Brasil](https://news.google.com/rss/articles/CBMimAFBVV95cUxPOUlVS01Fci02NUY1LUt2RmZpWFFKTnVvTWtaWF91TElYeXY4dU5XZFRJcjNwZlhLTzhNMU50VVJNV0tqRlJjRnotZkp2MExlMlJzZ3Vfendsc3pFM2YxRzFlc2kzMkVyVmZwc3RJQ3BDRU5nQWhUc1Yya2pGWFllSWNkWWNzWkYtN0QyZ0tZU2trQVYzYk9BYw?oc=5)
 
 — Fonte automatizada via Google News (PT-BR/BR).

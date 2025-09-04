@@ -1,41 +1,46 @@
-Resumo diário de mineração — 02/09/2025
-(Gerado em 03/09/2025 07:37 BRT)
+Resumo diário de mineração — 03/09/2025
+(Gerado em 04/09/2025 07:38 BRT)
 
-### Resumo das Notícias de Mineração - 02/09/2025
+### Resumo das Notícias de Mineração - 03/09/2025
 
-1. **Patrocínio possui a maior reserva de titânio do mundo**: Um levantamento oficial confirmou que a cidade de Patrocínio, em Minas Gerais, detém a maior reserva de titânio do planeta, o que pode impulsionar a economia local e atrair investimentos.
-
-2. **Mercosul estabelece plano para mineração estratégica**: Os países do Mercosul definiram um plano conjunto focado na mineração estratégica e na transição energética, visando aumentar a colaboração e a eficiência no setor mineral.
-
-3. **Acordo entre Serviço Geológico do Brasil e Centro de Tecnologia Mineral**: Um novo acordo foi firmado para garantir a soberania na produção de minerais estratégicos, promovendo a pesquisa e o desenvolvimento tecnológico no setor.
-
-4. **Divisão para minerais críticos no Brasil**: O governo brasileiro criou uma nova divisão dedicada à gestão de minerais críticos e estratégicos, com o objetivo de fortalecer a produção e a segurança de suprimentos.
-
-5. **Crise no setor mineral de Minas Gerais**: Minas Gerais enfrenta uma crise que ameaça a sustentabilidade do setor mineral, com impactos significativos na economia local e na geração de empregos.
+1. A mineração no Brasil gerou 5.085 novas vagas de emprego nos últimos seis meses, totalizando 226 mil empregos diretos.
+2. O setor faturou R$ 48 bilhões no primeiro semestre de 2025.
+3. Um novo relatório destaca falhas financeiras na transição energética, revelando bilhões em financiamento para mineração de alto risco.
+4. O Brasil lançou uma nova plataforma para aumentar o controle e a transparência na mineração.
+5. Goiás se projeta como referência mundial na mineração de terras raras, segundo o secretário Joel Sant’Anna.
+6. A Samarco reafirmou seu compromisso com a sustentabilidade durante o CBMINA 2025.
+7. O estado do Ceará promoveu um encontro para discutir inovação e sustentabilidade no setor mineral.
+8. O ministro de Minas e Energia, Silveira, se reuniu com mineradoras para discutir novos investimentos e fortalecer o diálogo no setor.
 
 ### Principais Manchetes
 
-1. **MINERAÇÃO: PATROCÍNIO TEM A MAIOR RESERVA DE TITÂNIO DO MUNDO, APONTA LEVANTAMENTO OFICIAL** (Jornal de Patrocínio)  
-   Um estudo recente revelou que Patrocínio, em Minas Gerais, possui a maior reserva de titânio do mundo. Essa descoberta pode transformar a região em um polo de mineração, atraindo investimentos e gerando empregos.
+1. **Em seis meses, mineração gera cinco mil novas vagas e atinge 226 mil empregos diretos no país** (Rádio Itatiaia)  
+   A mineração brasileira criou 5.085 novas vagas de emprego nos últimos seis meses, elevando o total para 226 mil empregos diretos. O setor continua a mostrar crescimento significativo, refletindo sua importância para a economia nacional.
 
-2. **Mercosul define plano conjunto para mineração estratégica e transição energética** (Cenário Energia)  
-   Os países do Mercosul se reuniram para estabelecer um plano que visa integrar esforços na mineração estratégica e na transição energética, buscando aumentar a eficiência e a colaboração entre os membros.
+2. **Expondo as falhas financeiras na (in)justa transição energética: novo relatório revela bilhões em financiamento de mineração de alto risco** (Observatório da Mineração)  
+   Um novo relatório critica a transição energética, apontando que bilhões de dólares estão sendo direcionados para projetos de mineração de alto risco. O estudo destaca a necessidade de maior responsabilidade financeira e ambiental no setor.
 
-3. **SERVIÇO GEOLÓGICO DO BRASIL E O CENTRO DE TECNOLOGIA MINERAL FAZEM ACORDO PARA SOBERANIA NA PRODUÇÃO DE MINERAIS ESTRATÉGICOS** (Petronotícias)  
-   Um acordo foi firmado entre o Serviço Geológico do Brasil e o Centro de Tecnologia Mineral para garantir a soberania na produção de minerais estratégicos, promovendo inovação e desenvolvimento sustentável na mineração.
+3. **Brasil amplia controle e transparência na mineração com nova plataforma** (Decision Report)  
+   O governo brasileiro lançou uma nova plataforma digital para aumentar o controle e a transparência na mineração. A iniciativa visa melhorar a gestão dos recursos minerais e garantir práticas mais sustentáveis.
 
-4. **Brasil cria divisão para minerais críticos estratégicos** (Rede 98)  
-   O governo brasileiro anunciou a criação de uma nova divisão focada em minerais críticos, com o intuito de fortalecer a produção e garantir a segurança de suprimentos essenciais para a indústria.
+4. **Mineração brasileira cria 5.085 vagas de emprego em seis meses e fatura R$ 48 bilhões no primeiro semestre de 2025** (CPG Click Petróleo e Gás)  
+   O setor mineral faturou R$ 48 bilhões no primeiro semestre de 2025, com a criação de mais de 5 mil empregos. Esses números indicam um crescimento robusto e a resiliência da indústria em meio a desafios econômicos.
 
-5. **A crise que ameaça o coração mineral de Minas Gerais** (O Antagonista)  
-   Minas Gerais enfrenta uma crise no setor mineral, que pode comprometer a sustentabilidade da indústria e impactar negativamente a economia local, gerando preocupações sobre o futuro da mineração na região.
+5. **Samarco reafirma retomada gradual, segura e comprometida com a sustentabilidade durante o CBMINA 2025** (Samarco Mineração)  
+   Durante o CBMINA 2025, a Samarco destacou seu compromisso com a sustentabilidade e a retomada gradual de suas operações. A empresa busca alinhar suas práticas às exigências ambientais e sociais contemporâneas.
+
+6. **Goiás será referência mundial na mineração de terras raras, projeta Joel Sant’Anna** (Tribuna do Planalto)  
+   O secretário de Estado, Joel Sant’Anna, afirmou que Goiás está se posicionando para se tornar uma referência global na mineração de terras raras, destacando o potencial econômico e estratégico da região.
+
+7. **FIEC promove 5º Encontro Estadual de Mineração e 1º Seminário de Minerais Estratégicos para debater inovação, sustentabilidade e futuro do setor no Ceará** (FIEC)  
+   A Federação das Indústrias do Estado do Ceará organizou um encontro para discutir inovações e a sustentabilidade no setor mineral, reunindo especialistas e representantes da indústria para debater o futuro do setor.
+
+8. **Silveira recebe mineradoras e especialistas para discutir novos investimentos no setor** (Agência iNFRA)  
+   O ministro Silveira se reuniu com representantes de mineradoras e especialistas para discutir novos investimentos no setor mineral, buscando fortalecer a colaboração entre o governo e a indústria.
 
 ### Links-chave
-
-1. [Jornal de Patrocínio - Reserva de Titânio](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTGJvTFpGRGhBSS12MDlsbU9Pd1dvM2ZZSk9USGN5ZjYyRjNGb0RoVmtPenV2QlpzeTFIem80cUZPVE02V0RRRkM3WlJHa2trcGg3Um9Sblp4UnEtRDZwY3NKNVZHR1R4ZnlaaWpSTGt2U0lkUWxYMzNFa2JGc00xV0pHeU14OUZ3NERPeUlvMk41cWU5bEt3Rl9Wc2x4el90YnM3Q0FfVlJYYTRKUU8xVmNMUE51bFBfLU9SRmFWZlM?oc=5)
-
-2. [Cenário Energia - Plano do Mercosul](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMFRjcGdheTFybnpLbFNnSkVUWWFNY3lSMlViX2NuUm1OaXNMLXB0YkRTZkZmSy01bTdrX3Fxa0M2bEw3RGRxY2VaemQzZEczdWhPcVZ4TlltU1JiNVlhQzlGa3FZdWRfMDJKQjJfVGpiWU8zOEQtZVR3Z08xQlUyVms1azMwSG1mWXBJU3FzMnVJcVB5VzJfVzZHaDM3VjM5eGpmUW1lVG90RU5abWVkaVFxLUNQZFY5dHhFRjlUZ9IBvwFBVV95cUxOMFRjcGdheTFybnpLbFNnSkVUWWFNY3lSMlViX2NuUm1OaXNMLXB0YkRTZkZmSy01bTdrX3Fxa0M2bEw3RGRxY2VaemQzZEczdWhPcVZ4TlltU1JiNVlhQzlGa3FZdWRfMDJKQjJfVGpiWU8zOEQtZVR3Z08xQlUyVms1azMwSG1mWXBJU3FzMnVJcVB5VzJfVzZHaDM3VjM5eGpmUW1lVG90RU5abWVkaVFxLUNQZFY5dHhFRjlUZw?oc=5)
-
-3. [Petronotícias - Acordo de Soberania](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRmQ5OHEtLUs0V0tSc01qdmMwMHBCVy1GRzNoU1BPNUJpTXV5eHI0dG1BUTd3RVVWbVBjUnFwY0hPeDFPWjF4R09Zd1p4UXQtUjVvZUYyekV0NFF1WUZwWWszNDZkaTQzRG12Smo3Q1VCd05WQS1hemhIUHZNNm4yVG1PbDhoMk5EUUFmWHlPTUNjaU50ODRMUHkxSzU4emRESGpFcUU2ZnBiY05WX3gyWjFwaDZ5REdTcXBiUDl3UU1GNWE4YzBpUzhoeVk0eG1QS2N6bGxyb2NES2pOZVE?oc=5)
+- [Rádio Itatiaia](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ2pNeHo0SGQ4cXlGLW1IbGJqVTVTMnZaWkEtdVR3N2RrcFZrWXBIWGJ3WWkwNDU4WWZCXzZPcUVxMzNud3IyWmoxZHY5R1B6WXI5Q2xjUW5yVUM4cnJVYkhlMTl5UjBROTBkdWZwZ3IwRC1MWG8yUjEydnlNckEzdDRXc1VKZkU2TjZhT0VsYzRBTTAtNTJETkRhV2F1NVFXOW83NERCXzdGMUlxbkdWYzN4ZGh5Qy02UFRyajAxaXlRN0FhOG5IZE5FU0Jpb05l?oc=5)
+- [Observatório da Mineração](https://news.google.com/rss/articles/CBMihgJBVV95cUxOQm1KQzFLSW9IZlAybnBRTjFSbEU3NE1MLVBmQ0R3QXBRNE41N25YQjhadFJRM3NrblhiQzdxTXBMb2RPeVl2ZFNfNm1hNUhjVW92aW5zMS01NkZ2aEt6UlRDSy1WZmxiU0FueU5tRUM0VE95ODJfdmhCMnBsaFNPSVE3dFpPdFBIWThkTjBHZFlTZE9DMFdQMHB5bmtPRDlFV29zakhmZWcxX3h5MERVdDN4aGdDemR0Yms4WEFobmlkd21JeU9rRm9Icnd1aDFkYTJ3MlY1dXhjdEljVWVGUHAwOGdvZ0lXUFRxTGc1WTRGWEJLY2NwNGRhdHUxZlpmOXRwakpn?oc=5)
+- [Decision Report](https://news.google.com/rss/articles/CBMipAFBVV95cUxPeENhZ3JqckEyeUxNQU1CSG1QV0xIMjVxSlFTSkE2NkJDejNqemMyOG9faXVEMlh3Tm1rUUJ1empib01lR2R1X01pVEdPOXdSeG9Oek9mcUItVldLd3d4NGZLUV94MVJQTkF0RmRLV3hENW5CNTFrT3VVOEt1NVVac3YtTXhlb1JvcFZMZDh3dlhuMmI2Mjc0X0Q0bUhxemEwS1NmeQ?oc=5)
 
 — Fonte automatizada via Google News (PT-BR/BR).

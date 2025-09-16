@@ -1,25 +1,42 @@
-Resumo diário de mineração — 14/09/2025
-(Gerado em 15/09/2025 07:20 BRT)
+Resumo diário de mineração — 15/09/2025
+(Gerado em 16/09/2025 07:19 BRT)
 
-### Resumo das Notícias de 14/09/2025
+### Resumo das notícias de mineração - 15/09/2025
 
-1. A mineração é reconhecida como essencial na transição energética global, contribuindo para a produção de materiais críticos.
-2. Um projeto inovador de filtro feito a partir de rejeitos de mineração foi premiado no 2³ Hackathon da Jornada COP+.
-3. A demanda por minerais essenciais, como lítio e cobre, continua a crescer devido à expansão das energias renováveis.
-4. Iniciativas sustentáveis na mineração estão ganhando destaque, com foco na redução de impactos ambientais.
-5. A colaboração entre empresas de mineração e startups está impulsionando inovações tecnológicas no setor.
+1. **Mineração do futuro**: O setor está se transformando com operações remotas, redução de emissões e maior integração tecnológica.
+2. **COP30 e mineração paraense**: A mineração no Pará se prepara para a COP30, destacando sua importância ambiental e econômica.
+3. **Evento de mineração na Bahia**: O IBRAM escolheu Salvador como sede do maior evento de mineração do Brasil, visando promover inovações e discussões no setor.
+4. **Nova declaração fiscal**: A ANM apresentará uma nova declaração fiscal que ampliará o controle no setor mineral, com um webinar programado para detalhar as mudanças.
+5. **Movimentação financeira em Minas Gerais**: O setor de grafita em Minas Gerais movimentou R$ 412 milhões, evidenciando a relevância econômica do mineral.
+6. **Estratégia do MME**: O Ministério de Minas e Energia destacou uma nova estratégia para fortalecer o setor de minerais críticos no Brasil.
+7. **Congresso Técnico da Mineração Paraense**: O evento reforçou o papel estratégico da mineração no Pará em relação à COP30.
 
-### Principais Manchetes
+### Principais manchetes
 
-1. **Mineração se torna peça-chave na transição energética global** (Rádio Itatiaia)  
-   A mineração está sendo cada vez mais reconhecida como um setor crucial para a transição energética, especialmente na produção de minerais essenciais para tecnologias de energia renovável, como baterias e turbinas eólicas. Especialistas destacam que a extração responsável e sustentável desses recursos é fundamental para atender à crescente demanda global.
+1. **Mineração do futuro: operações remotas, redução de emissões e maior integração tecnológica** (Rádio Itatiaia)  
+   O setor mineral está passando por uma transformação significativa, com a adoção de operações remotas e tecnologias que visam reduzir as emissões de carbono. Essa mudança é impulsionada pela necessidade de sustentabilidade e eficiência operacional.
 
-2. **Projeto de filtro feito de rejeitos da mineração é o grande vencedor do 2³ Hackathon da Jornada COP+** (diariodopara.com.br)  
-   Um projeto inovador que utiliza rejeitos da mineração para criar filtros foi premiado no 2³ Hackathon da Jornada COP+. A iniciativa visa transformar resíduos em soluções sustentáveis, contribuindo para a mitigação dos impactos ambientais da mineração e promovendo a economia circular. O projeto foi elogiado por sua viabilidade e potencial de aplicação em larga escala.
+2. **Mineração paraense na rota da COP30** (Portal Guarany Júnior)  
+   A mineração no estado do Pará está se preparando para a Conferência das Partes (COP30), destacando seu papel na sustentabilidade e na economia local. O evento é uma oportunidade para discutir práticas mineradoras que respeitam o meio ambiente.
+
+3. **Por que o IBRAM escolheu a capital baiana para sediar o maior evento de mineração do Brasil** (A TARDE)  
+   Salvador foi escolhida como sede do maior evento de mineração do Brasil, promovido pelo IBRAM. A escolha reflete a importância da Bahia no setor e busca fomentar discussões sobre inovações e desafios enfrentados pela indústria.
+
+4. **Nova declaração fiscal amplia controle no setor mineral e será apresentada em webinar da ANM** (Serpro)  
+   A Agência Nacional de Mineração (ANM) anunciou uma nova declaração fiscal que visa aumentar o controle sobre o setor mineral. Um webinar será realizado para explicar as mudanças e suas implicações para as empresas do setor.
+
+5. **Grafita movimenta R$ 412 milhões em Minas Gerais** (Rádio Itatiaia)  
+   O setor de grafita em Minas Gerais teve um desempenho financeiro expressivo, movimentando R$ 412 milhões. Esse resultado destaca a importância econômica do mineral e seu papel no mercado nacional.
+
+6. **MME destaca estratégia para fortalecer o setor de minerais críticos** (Ministério de Minas e Energia - GOV.BR)  
+   O Ministério de Minas e Energia apresentou uma nova estratégia para fortalecer o setor de minerais críticos, visando garantir a segurança do suprimento e a competitividade do Brasil no mercado global.
+
+7. **III Congresso Técnico da Mineração Paraense reforça papel estratégico do setor rumo à COP30** (Portal Obidense)  
+   O III Congresso Técnico da Mineração Paraense enfatizou a importância do setor mineral na agenda ambiental, especialmente em relação à COP30, promovendo discussões sobre práticas sustentáveis e inovações.
 
 ### Links-chave
-
-- [Rádio Itatiaia - Mineração e transição energética](https://news.google.com/rss/articles/CBMipgFBVV95cUxPdlVxTDVSWkxTTWRZVkdOWDlZV3RuSHZaQjNmWHBvY3FQYWNEU1R5elFYSmdBTVJqOUlWS201Q2ExRVZPNW9pQ2tTbXNKcEhPQzZBVUsyUlVxRXY5WGdkN3FCX09lWlNrLW5xYW5xSE01dW9LcEhDRmt4Mll6RkwxM184b2wySy1qQ01Ua2lKdU1iQWlVWkwzMkdFWHZsZTNON3M0RHBR?oc=5)
-- [Diário do Pará - Hackathon COP+](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOd0lUdGxua195V1RWS0M2N3AwMllyWGZ1UWRPcXBaNnBHVFU3TndiS2ZjeEpiQ3JoQTZXWDMwM2lvZUp0WW1VQjVtOUtPUU8zLXhxN19PcERSbzNQNXpiczR1cHhXb0phdUNQMUY2RlMwaU1xdHF2dFdGZzdIcThNU3ZlSDYwNmRxZU9ZUnZ6c19lNU81czlEZFpGcGltbmJWa0ZSamQ4REpNM0s2WGJBWFZzNmpnMXJGMmd6MDZocEJiaHdLaWs3dUF4NGVNcW9od19nNDFDUlk?oc=5)
+- [Mineração do futuro: operações remotas, redução de emissões e maior integração tecnológica](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFZDXzlGbFNfTGFUMHFkNzJhWGpmY183ZG85LUhpdXF4MzNESTlaSmJSelJ5eWRuSUZQNmk5VlJBaWd1Vmo0ekJUT0VGZk5zWlpmWE9UbnZsM05UYnBNbVJzc2tHU3JmUlFtZGVxOTVUdTByRTBldkJubGtPRXAtLTE4Qm1Vb3p3YmQwbjExRlNfZmxZSi1UM3lGWFJZQ2pzbDRWSVNHR3lEY2pZR1A0UVlrNFRYS3FzaFhiQTNyeW1qUlBWb210R2Q3aw?oc=5)
+- [Mineração paraense na rota da COP30](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSkFmOG1Gd1VWbG5HejRVWmQyVmp3MGUtbS11bjY1TVluR2NXZjQwSHdnZlNrNEQ0T2hac2hMck95TVJCUmI2VGdmZ3M0SUlnMDBtWkEzakI1d3lnUmF5dHZRVjRvem9FZjlYNnVIZFRyWlZSbF9GZjVuRzkxMHJYbnlkMWJRWnM?oc=5)
+- [Nova declaração fiscal amplia controle no setor mineral e será apresentada em webinar da ANM](https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZYnRuV2RXVnNrblRNTW1xblk0UU5LMEcxUmxVRThnam9hbTVsdVZ6LUxlSl9hNWNPMUNYQ0laVVFjMlhXdm5zNWhJZWI2X0pRcFVTTThFd0JiQU03bDJpN09JNl8yblNDM2lNcUQ0dUg1SjA?oc=5)
 
 — Fonte automatizada via Google News (PT-BR/BR).

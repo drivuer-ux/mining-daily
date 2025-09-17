@@ -1,42 +1,49 @@
-Resumo diário de mineração — 15/09/2025
-(Gerado em 16/09/2025 07:19 BRT)
+Resumo diário de mineração — 16/09/2025
+(Gerado em 17/09/2025 07:19 BRT)
 
-### Resumo das notícias de mineração - 15/09/2025
+### Resumo das Notícias de Mineração - 16/09/2025
 
-1. **Mineração do futuro**: O setor está se transformando com operações remotas, redução de emissões e maior integração tecnológica.
-2. **COP30 e mineração paraense**: A mineração no Pará se prepara para a COP30, destacando sua importância ambiental e econômica.
-3. **Evento de mineração na Bahia**: O IBRAM escolheu Salvador como sede do maior evento de mineração do Brasil, visando promover inovações e discussões no setor.
-4. **Nova declaração fiscal**: A ANM apresentará uma nova declaração fiscal que ampliará o controle no setor mineral, com um webinar programado para detalhar as mudanças.
-5. **Movimentação financeira em Minas Gerais**: O setor de grafita em Minas Gerais movimentou R$ 412 milhões, evidenciando a relevância econômica do mineral.
-6. **Estratégia do MME**: O Ministério de Minas e Energia destacou uma nova estratégia para fortalecer o setor de minerais críticos no Brasil.
-7. **Congresso Técnico da Mineração Paraense**: O evento reforçou o papel estratégico da mineração no Pará em relação à COP30.
+1. O Brasil está desenvolvendo estratégias para fortalecer o setor de minerais críticos, visando aumentar a competitividade e a sustentabilidade.
+2. Mineradoras destacam que a sustentabilidade é uma preocupação constante, refletindo um compromisso com práticas responsáveis.
+3. A Equinox Gold iniciou a primeira extração de ouro na mina Valentine, marcando um avanço significativo em suas operações.
+4. O Serviço Geológico do Brasil (SGB) e a Secretaria do Meio Ambiente do Rio Grande do Sul (Sema-RS) vão estudar o potencial mineral do estado.
+5. O Brasil possui riquezas minerais inexploradas, com um potencial significativo para transformar a economia.
+6. O governo brasileiro está focado na fiscalização de apenas 19 das 45 mil minas existentes no país, levantando preocupações sobre a regulamentação do setor.
+7. Goiás tem mais de 7 mil autorizações de pesquisa de minérios em vigor, segundo a Agência Nacional de Mineração (ANM).
+8. Uma cratera de um vulcão brasileiro revelou jazidas de terras raras, atraindo interesse de mineradoras estrangeiras.
+9. Uma nova plataforma de fiscalização promete aumentar a transparência no setor mineral.
+10. A mineração sustentável no Piauí foi destacada em uma revista científica, evidenciando práticas inovadoras na área.
 
-### Principais manchetes
+### Principais Manchetes
 
-1. **Mineração do futuro: operações remotas, redução de emissões e maior integração tecnológica** (Rádio Itatiaia)  
-   O setor mineral está passando por uma transformação significativa, com a adoção de operações remotas e tecnologias que visam reduzir as emissões de carbono. Essa mudança é impulsionada pela necessidade de sustentabilidade e eficiência operacional.
+1. **Brasil prepara estratégias para fortalecer setor de minerais críticos** (BNamericas)  
+   O governo brasileiro está elaborando estratégias para fortalecer o setor de minerais críticos, com foco na competitividade e na sustentabilidade. A iniciativa visa garantir que o Brasil se posicione como um líder na produção de minerais essenciais para a economia global.
 
-2. **Mineração paraense na rota da COP30** (Portal Guarany Júnior)  
-   A mineração no estado do Pará está se preparando para a Conferência das Partes (COP30), destacando seu papel na sustentabilidade e na economia local. O evento é uma oportunidade para discutir práticas mineradoras que respeitam o meio ambiente.
+2. **Mineradoras afirmam que sustentabilidade é preocupação permanente do setor** (Rádio Itatiaia)  
+   Representantes de mineradoras afirmaram que a sustentabilidade é uma prioridade contínua no setor. As empresas estão implementando práticas que visam minimizar impactos ambientais e promover a responsabilidade social, refletindo um compromisso com o desenvolvimento sustentável.
 
-3. **Por que o IBRAM escolheu a capital baiana para sediar o maior evento de mineração do Brasil** (A TARDE)  
-   Salvador foi escolhida como sede do maior evento de mineração do Brasil, promovido pelo IBRAM. A escolha reflete a importância da Bahia no setor e busca fomentar discussões sobre inovações e desafios enfrentados pela indústria.
+3. **OURO | Equinox Gold faz primeira extração na mina Valentine** (Brasil Mineral)  
+   A Equinox Gold anunciou a primeira extração de ouro na mina Valentine, localizada no Canadá. Este marco representa um avanço significativo para a empresa, que busca expandir suas operações e aumentar a produção de ouro.
 
-4. **Nova declaração fiscal amplia controle no setor mineral e será apresentada em webinar da ANM** (Serpro)  
-   A Agência Nacional de Mineração (ANM) anunciou uma nova declaração fiscal que visa aumentar o controle sobre o setor mineral. Um webinar será realizado para explicar as mudanças e suas implicações para as empresas do setor.
+4. **RIO GRANDE DO SUL | SGB e Sema-RS vão estudar potencial mineral gaúcho** (Brasil Mineral)  
+   O Serviço Geológico do Brasil (SGB) e a Secretaria do Meio Ambiente do Rio Grande do Sul (Sema-RS) firmaram uma parceria para estudar o potencial mineral do estado. O objetivo é identificar e explorar recursos minerais de forma sustentável.
 
-5. **Grafita movimenta R$ 412 milhões em Minas Gerais** (Rádio Itatiaia)  
-   O setor de grafita em Minas Gerais teve um desempenho financeiro expressivo, movimentando R$ 412 milhões. Esse resultado destaca a importância econômica do mineral e seu papel no mercado nacional.
+5. **Estado brasileiro esconde riquezas minerais inexploradas** (O Antagonista)  
+   Um relatório revela que o Brasil possui vastas riquezas minerais inexploradas, que poderiam transformar a economia do país. Especialistas alertam para a necessidade de investimentos e regulamentações adequadas para explorar esses recursos.
 
-6. **MME destaca estratégia para fortalecer o setor de minerais críticos** (Ministério de Minas e Energia - GOV.BR)  
-   O Ministério de Minas e Energia apresentou uma nova estratégia para fortalecer o setor de minerais críticos, visando garantir a segurança do suprimento e a competitividade do Brasil no mercado global.
+6. **Governo só fiscaliza planos para fechar 19 das 45 mil minas do país** (ICL Notícias)  
+   O governo brasileiro está focado em fiscalizar apenas 19 das 45 mil minas existentes, levantando preocupações sobre a eficácia da regulamentação e a segurança ambiental no setor mineral.
 
-7. **III Congresso Técnico da Mineração Paraense reforça papel estratégico do setor rumo à COP30** (Portal Obidense)  
-   O III Congresso Técnico da Mineração Paraense enfatizou a importância do setor mineral na agenda ambiental, especialmente em relação à COP30, promovendo discussões sobre práticas sustentáveis e inovações.
+7. **Goiás tem mais de 7 mil autorizações de pesquisa de minérios em vigor, diz ANM** (Jornal Opção)  
+   A Agência Nacional de Mineração (ANM) informou que Goiás possui mais de 7 mil autorizações de pesquisa de minérios ativas. Isso indica um aumento no interesse por exploração mineral na região.
+
+8. **Cratera de vulcão brasileiro esconde jazida de terras raras e atrai mineradoras estrangeiras** (Gazeta do Povo)  
+   A descoberta de jazidas de terras raras em uma cratera de vulcão no Brasil está atraindo a atenção de mineradoras internacionais. Esses recursos são essenciais para diversas indústrias, incluindo tecnologia e energia.
 
 ### Links-chave
-- [Mineração do futuro: operações remotas, redução de emissões e maior integração tecnológica](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFZDXzlGbFNfTGFUMHFkNzJhWGpmY183ZG85LUhpdXF4MzNESTlaSmJSelJ5eWRuSUZQNmk5VlJBaWd1Vmo0ekJUT0VGZk5zWlpmWE9UbnZsM05UYnBNbVJzc2tHU3JmUlFtZGVxOTVUdTByRTBldkJubGtPRXAtLTE4Qm1Vb3p3YmQwbjExRlNfZmxZSi1UM3lGWFJZQ2pzbDRWSVNHR3lEY2pZR1A0UVlrNFRYS3FzaFhiQTNyeW1qUlBWb210R2Q3aw?oc=5)
-- [Mineração paraense na rota da COP30](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSkFmOG1Gd1VWbG5HejRVWmQyVmp3MGUtbS11bjY1TVluR2NXZjQwSHdnZlNrNEQ0T2hac2hMck95TVJCUmI2VGdmZ3M0SUlnMDBtWkEzakI1d3lnUmF5dHZRVjRvem9FZjlYNnVIZFRyWlZSbF9GZjVuRzkxMHJYbnlkMWJRWnM?oc=5)
-- [Nova declaração fiscal amplia controle no setor mineral e será apresentada em webinar da ANM](https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZYnRuV2RXVnNrblRNTW1xblk0UU5LMEcxUmxVRThnam9hbTVsdVZ6LUxlSl9hNWNPMUNYQ0laVVFjMlhXdm5zNWhJZWI2X0pRcFVTTThFd0JiQU03bDJpN09JNl8yblNDM2lNcUQ0dUg1SjA?oc=5)
+
+- [Brasil prepara estratégias para fortalecer setor de minerais críticos - BNamericas](https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXdLTGEwaXc1ZGVzWWQ1ZnQ1ZWhuSDdVRTdJQWhnMkVIRXJiOWg3VU0yeS1fclBoaFZlcFR3WThualBFWEdaZFNsdU9fQklUUVdBWk1TVGcxVDdXeEhHbC1lYjhXZkdBWUtUc1NaRG9CQU1xdEZKUGYzS3gzSVNZRnVOWlJ6NVA4WFlMMVdQeTlIUHZWajhUcURpcjF5eGlReWMzeTVKajJ5RnFL?oc=5)
+- [Mineradoras afirmam que sustentabilidade é preocupação permanente do setor - Rádio Itatiaia](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUXFRYkFRMG5FYnJJc1V1Ri1ZMl83TnpSUXAyVjdHM1BXS0pCMW9tY2p4ejVYQmNvTHlWaFNlclJleFpJaEM0cHRiNXAzXzdpcUQyWFdFbmdjLWtPRlg5UG9zQWZESktCakRCNEJnQThMVkhZbUJPdVhJRFI5a0hsTENGbkV2SUVVMGt4NmwwOTJXa25Hd3d1dnFkVkF2a096X1ZrdFBiaER4bGRKNWNmTkVpbTRza0l4?oc=5)
+- [OURO | Equinox Gold faz primeira extração na mina Valentine - Brasil Mineral](https://news.google.com/rss/articles/CBMilAFBVV95cUxQS3BXY3F4MklzS1FSb05VWGZGeHRpdGhuYVRDYTV4YVljc3dKZllTSEg1eEpQc3VzNV9IdHh6ZUxlSkRaZmRHck44d3J0cEV2V2F1SmJSLUlkbXBFUnlKMUlDay1RZWcxdk9iMnc3SG9HZ0NENzhISWN1WURIN2JzR0l4bW5YUGlmM1RHNnFmQVkzTmpm?oc=5)
 
 — Fonte automatizada via Google News (PT-BR/BR).

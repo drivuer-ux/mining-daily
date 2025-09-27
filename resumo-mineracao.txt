@@ -1,35 +1,48 @@
-Resumo diário de mineração — 25/09/2025
-(Gerado em 26/09/2025 07:19 BRT)
+Resumo diário de mineração — 26/09/2025
+(Gerado em 27/09/2025 07:17 BRT)
 
-### Resumo das Notícias de Mineração - 25/09/2025
+### Resumo das Notícias de Mineração - 26/09/2025
 
-1. **Investimentos no Setor**: O setor mineral brasileiro deve investir mais de R$ 364 bilhões até 2029, com Minas Gerais liderando os aportes.
-2. **Sustentabilidade na Amazônia**: O setor mineral da Amazônia se prepara para apresentar suas práticas sustentáveis na COP 30.
-3. **Desafios de Agregação de Valor**: Discussões sobre a necessidade de agregar valor aos produtos minerais, abrangendo desde o ferro até o lítio.
-4. **Impactos Econômicos**: Representantes de cidades mineradoras relatam os impactos da mineração na economia local e na qualidade de vida da população.
-5. **Legislação Atualizada**: Há uma demanda por atualização das legislações relacionadas à mineração subterrânea para refletir a realidade atual do setor.
+1. Goiás inicia consulta pública para o Plano Estadual de Recursos Minerais, visando a participação da sociedade na gestão mineral.
+2. ONG envolvida na Operação Rejeito financiou estudo que reduziu em mais de 50% a Área de Proteção Ambiental (APA) no Jequitinhonha, beneficiando mineradoras de lítio.
+3. A Agência Nacional de Mineração (ANM) recebeu autorização para nomear 216 aprovados em concurso, fortalecendo sua equipe.
+4. O Fórum Brasileiro pelo Ouro Responsável promove iniciativas de mineração sustentável e rastreabilidade do ouro.
+5. O Brasil se une a uma coalizão global para o controle do comércio de ouro, visando maior transparência e responsabilidade.
+6. A digitalização de processos na gestão mineral alcançou 80%, marcando um avanço significativo na eficiência do setor.
+7. O Ministério de Minas e Energia (MME) nomeou 216 servidores aprovados em concurso público, reforçando a estrutura do setor.
+8. O Ministério Público Federal (MPF) instaurou processos contra barragens em Mato Grosso, visando a segurança e a proteção ambiental.
+9. A Companhia Baiana de Pesquisa Mineral (CBPM) busca fortalecer parcerias com a França para promover a mineração sustentável.
 
 ### Principais Manchetes
 
-1. **Perspectivas do setor mineral envolvem terras raras e exportação de ferro no RN** (Tribuna do Norte)  
-   O setor mineral do Rio Grande do Norte está focado em expandir a exportação de ferro e o desenvolvimento de terras raras, destacando a importância dessas commodities para a economia local e nacional.
+1. **Goiás abre consulta pública para Plano Estadual de Recursos Minerais** (Diário de Goiás)  
+   Goiás lançou uma consulta pública para o desenvolvimento do Plano Estadual de Recursos Minerais, permitindo que a sociedade participe ativamente na formulação de políticas e diretrizes para a gestão mineral no estado.
 
-2. **Setor mineral da Amazônia quer mostrar na COP 30 que é sustentável** (Brasil 61)  
-   Representantes do setor mineral na Amazônia se preparam para a COP 30, com o objetivo de demonstrar suas iniciativas em sustentabilidade e práticas responsáveis na mineração, buscando melhorar a imagem do setor.
+2. **ONG citada na Operação Rejeito pagou estudo que reduziu mais de 50% de APA no Jequitinhonha, favorecendo mineradoras de lítio** (Observatório da Mineração)  
+   Uma ONG mencionada na Operação Rejeito financiou um estudo que levou à diminuição significativa da Área de Proteção Ambiental no Jequitinhonha, o que beneficiou empresas mineradoras de lítio, levantando preocupações sobre a proteção ambiental na região.
 
-3. **Do ferro ao lítio: o desafio de agregar valor na mineração** (Diário do Comércio)  
-   A discussão gira em torno da necessidade de agregar valor aos produtos minerais, com foco em como o Brasil pode melhorar sua posição no mercado global, especialmente em relação ao lítio, um mineral estratégico.
+3. **Agência Nacional de Mineração recebe autorização do MGI para nomear 216 pessoas aprovadas em concurso** (MINUTO MT)  
+   A ANM recebeu autorização do Ministério da Gestão e Inovação para nomear 216 candidatos aprovados em concurso público, o que deve fortalecer a capacidade de atuação da agência na supervisão e regulação do setor mineral.
 
-4. **Mineração investirá mais de R$ 364 bilhões no Brasil até 2029; MG lidera aportes** (O TEMPO)  
-   Um estudo revela que o setor mineral brasileiro planeja investimentos significativos até 2029, com Minas Gerais se destacando como o estado que mais receberá recursos, o que pode impulsionar a economia local.
+4. **Fórum Brasileiro pelo Ouro Responsável fortalece mineração sustentável** (CPG Click Petróleo e Gás)  
+   O Fórum Brasileiro pelo Ouro Responsável está promovendo práticas de mineração sustentável, incluindo rastreabilidade do ouro, combate ao mercúrio e governança transparente, com o objetivo de melhorar a responsabilidade social e ambiental do setor.
 
-5. **Representantes de cidades mineradoras relatam impactos da atividade na economia e na qualidade de vida** (Blog do Silva Lima)  
-   Em um encontro, representantes de cidades que dependem da mineração discutiram os impactos econômicos e sociais da atividade, ressaltando tanto os benefícios quanto os desafios enfrentados pelas comunidades locais.
+5. **METAIS | Brasil integra coalizão global para controle do comércio de ouro** (Brasil Mineral)  
+   O Brasil se juntou a uma coalizão internacional que visa o controle do comércio de ouro, buscando aumentar a transparência e a responsabilidade nas cadeias de suprimento, além de combater a mineração ilegal.
+
+6. **Digitalização de processos alcança 80% e marca virada histórica na gestão mineral** (Agência Nacional de Mineração)  
+   A ANM anunciou que a digitalização de seus processos atingiu 80%, representando uma mudança significativa na gestão mineral, com melhorias na eficiência e na transparência das operações.
+
+7. **ANM | MME nomeia 216 servidores aprovados em concurso público** (Brasil Mineral)  
+   O MME confirmou a nomeação de 216 novos servidores aprovados em concurso, o que deve contribuir para a melhoria da gestão e fiscalização no setor mineral.
+
+8. **REJEITOS | MPF instaura dois processos contra barragens em Mato Grosso** (Brasil Mineral)  
+   O Ministério Público Federal abriu dois processos relacionados à segurança de barragens em Mato Grosso, visando garantir a proteção ambiental e a segurança das comunidades locais.
 
 ### Links-chave
 
-- [Perspectivas do setor mineral envolvem terras raras e exportação de ferro no RN - Tribuna do Norte](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmNybEVEZllKZ284UExidWRoeW5mZWFOOXZnQzJJNTRzWXhTbmlNUzdrYmh0MTYtbzVRdjdSMWc1ZFBnc0NZUUZPRFRfOFFhZ0RRallWZVVQXzlNenFDUzNVUzZRT1FnV2Q3VHhFajdZOThOUjNvSkFrUVFFcG50MGNWUE9nNDZnY2lJVk84cDZmVVZ2X3dMRDRuVV80MVFoajZJbzdBZTRGTEpvR1lXOVkydUEtdlNFX1Iw?oc=5)
-- [Setor mineral da Amazônia quer mostrar na COP 30 que é sustentável - Brasil 61](https://news.google.com/rss/articles/CBMiogFBVV95cUxNaGh1U29jYm8yeE9QelBXS25ZYnd6NWxqUi1SNEtnbm9hckNyTlB2aUp4OGF2cEd2U2k2Tmw3eDJGYkdPQnZtVEFHdFZBbDBTRVBUZTlJSWlQRG44Um9QTGE0bG1RaXJMVEZjVEloVXdCV3VwLVdTWGlsT2xSb2x2S0dnc1k3VjZCZU5NYjhFR0ZiR3Z5UTVlaFpEY09QN1RFZHfSAacBQVVfeXFMTUx0QXdNT3JFYTJQVkZMeEVma0llcGx5c1Y3dV9QMl8teWo2cnZ1aFRENHp4ajU2RmtUeVVMMXUtTGpORHNnQ2tfbDZZb2RKYURoaGY4aEhXT1h4ME42S3daQ3FiQk5kaTd3bGQxSFlBTVpfRTNibWw5RGM3YTZVUlJIM3VxcjFXUngzM1Z2YkRsbExrNjk4M2R1Q3JGc2Jmby1SM2J0NkE?oc=5)
-- [Mineração investirá mais de R$ 364 bilhões no Brasil até 2029; MG lidera aportes - O TEMPO](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUnhCY2VuNGF0aFFVQk02VEIzR1FxeXJSNGpqREJ2Q3I5UkdUeVUtUXZIUGJYNmpqdDk0S003UG9pZVloSG1HRGh2TUc1UmZHTGxiSk1ObFdYQlFYUnNPdzVJVVNsTUVtaGhnWk1ESDRaNWVLTlNhUURTVUN6MXp5VkpjMW9zSGpDSUJaV01rVV85X0RlNlZqclVtQlhjRnVOX0FpZktRMVNnV05uYVp4UWQyN1dsWjRvSnhGalZJTkc?oc=5)
+- [Goiás abre consulta pública para Plano Estadual de Recursos Minerais](https://news.google.com/rss/articles/CBMiqAFBVV95cUxObFZrbkdZbE9OM2tJc3F3TUxBYWhWWldmM2czM1QyWmJ6NHY0N2k4c2VLOFJhTlNqdjBlaW10VEFrWFo4OWFQRWQ2MkliWlNQZTE0eGJWaW9YWDFkck9rT2NWUkFZbHdsMWJrbjBKRFV1Sm1LaDB6eU1qM3htX3VQWTJqQzlBRUNLVUpLNDJDMGVOTFdmRF9hMlcyaXpOa0oxeFVDUnI0aUrSAa4BQVVfeXFMTTQyQkpobExwZjhUWXBOcFpZQUZfVGpIVk5CQjZOa2VheWRRanlhR24yZmRibWNrc0YtbUU4S3ZLWnh3LWpCVUVnQ1ZoY1FJdDJwd2RjendiYWRIOV9YTDJVLU0ya0ZiOWxuaVhlRndIWVROakhqRTdGaWVTWnBxakREOEw2Zkg1QTFyUEt6MUcxczhZczRHaEYzc0I3R3JsRUlaYXB0TEhzbVB0TjJR?oc=5)
+- [ONG citada na Operação Rejeito pagou estudo que reduziu mais de 50% de APA no Jequitinhonha](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMllXODBENTFYbEUzdFp4TWJRRmIyMG0tNXhzQ1FCM1c5MG4waEFVM0k0ZmlvZDQxYkY1b0c4cW9VTEZqWjM1RndYTzFMaEdnQVEtZlNwOW85aUpDT3FVR3c4Q3A2SkhkLWM4SFVLbE92dGdvN2ZlRTJKS0lFaTBlY1d3NldETXJZU0M1czUwcVdvRi1rSW1iWHpmYV85T29CeGY3OTBPbU9GelFRdFl0VVhIdnVacTc5ZHljU3lmVGdYOGZCNGJ0aVhQVFdZeHBrWXBfY2VXWHpRUVpZV19FaWtpZ1lOSUdnTDU1UW9oRmpNTW94ZUE?oc=5)
+- [Digitalização de processos alcança 80% e marca virada histórica na gestão mineral](https://news.google.com/rss/articles/CBMixgFBVV95cUxNa2RqeVdNcmVCM0w2ZkFLWWFFV1dodTVjdlRTNks2TVVPelY3WjI1RjVQYWxWQ2t2X21pMS1Wb0lBbmtTdWVOejZfZjloRDY2Z2xnQjdKa211Qngtem55c0RZTHlQbGU1anZ5VTJjX3FUSTd2NTNoQUxQd0FrdW5fVWNIbnZjNjlCQTJEdFo3LXhnWk9wUDFkc0JpY1dIaW1jMWViYldMaW5sQ09IQnQzWGIxUFVYWFZpUDFXb19Tem04TnpINFE?oc=5)
 
 — Fonte automatizada via Google News (PT-BR/BR).

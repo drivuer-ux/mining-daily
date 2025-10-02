@@ -1,39 +1,49 @@
-Resumo diário de mineração — 30/09/2025
-(Gerado em 01/10/2025 07:20 BRT)
+Resumo diário de mineração — 01/10/2025
+(Gerado em 02/10/2025 07:18 BRT)
 
-### Resumo das Notícias - 30/09/2025
+### Resumo das Notícias de Mineração - 01/10/2025
 
-1. **Evento Global em Salvador**: Salvador sedia um evento internacional focado em inovação e sustentabilidade no setor mineral.
-2. **Investimentos na Bahia**: O estado da Bahia investe em pesquisa para promover uma mineração sustentável e inclusiva, abrangendo diversos minerais como vanádio e níquel.
-3. **Debate sobre Matriz Energética**: O Summit Minas e Energia discute estratégias para a matriz energética e mineral do Brasil, abordando desafios e oportunidades.
-4. **Produção de Bauxita**: A maior mina de bauxita a céu aberto do mundo produz 30 milhões de toneladas anualmente, essencial para o alumínio no Brasil e no exterior.
-5. **Inovação na Mineração**: A Bahia investe em inovação e pesquisa para fortalecer a produção mineral sustentável.
-6. **Avanços em Transparência**: O Protocolo Digital no setor mineral completa seis anos, melhorando a transparência e agilidade dos processos.
-7. **Sonegação Fiscal em MG**: Sindicatos denunciam sonegação bilionária na mineração em Minas Gerais, com perdas significativas para o estado.
-8. **Reservas de Minerais Críticos**: O Brasil possui 10% das reservas mundiais de minerais críticos, mas enfrenta desafios na produção e corre o risco de perder mercado para China e EUA.
-9. **Transformação da CBPM**: A Assembleia Legislativa da Bahia aprova projeto que transforma a CBPM em Companhia de Produção Mineral, abrindo novas oportunidades de negócios.
+1. Seminário em Minas Gerais discute práticas de mineração sustentável, com foco na preservação ambiental.
+2. Ouro e ferro buscam inclusão na nova política nacional de minerais críticos, visando fortalecer sua posição no mercado.
+3. Nova legislação transforma a Companhia Baiana de Pesquisa Mineral (CBPM), promovendo a Bahia como referência em mineração sustentável.
+4. Acordo entre Serviço Geológico do Brasil e Companhia Brasileira de Lítio visa impulsionar a exploração mineral sustentável em Minas Gerais.
+5. Sindifisco denuncia que mineradoras em Minas Gerais deixam de pagar R$ 11,3 bilhões em impostos anualmente.
+6. Sonegação fiscal na mineração em Minas Gerais é estimada em R$ 2,2 bilhões por ano, segundo dados do Sindifisco.
+7. Câmara dos Deputados aprova projeto de lei que estabelece uma política nacional para minerais estratégicos.
 
 ### Principais Manchetes
 
-1. **Salvador recebe evento global do setor mineral focado em inovação e sustentabilidade** (Jornal Correio)  
-   Salvador é o palco de um evento internacional que reúne especialistas e líderes do setor mineral para discutir inovações e práticas sustentáveis. O evento visa promover a troca de conhecimentos e experiências entre os participantes, destacando a importância da sustentabilidade na mineração.
+- **Ouro Verde: Seminário discute mineração sustentável em Minas** (O TEMPO)  
+  O seminário realizado em Minas Gerais abordou a importância da mineração sustentável, reunindo especialistas e representantes do setor. O evento destacou práticas que minimizam os impactos ambientais e promovem a responsabilidade social nas atividades mineradoras.
 
-2. **Do vanádio ao níquel: BA investe em pesquisa para alavancar mineração sustentável e inclusiva** (G1)  
-   O governo da Bahia está investindo em pesquisas para desenvolver uma mineração mais sustentável e inclusiva, com foco em minerais estratégicos como vanádio e níquel. A iniciativa busca não apenas aumentar a produção, mas também garantir que as práticas mineradoras respeitem o meio ambiente e as comunidades locais.
+- **Ouro e ferro querem espaço na política nacional de minerais críticos** (CNN Brasil)  
+  As indústrias de ouro e ferro estão pressionando para serem incluídas na nova política nacional de minerais críticos. O objetivo é garantir que esses recursos sejam reconhecidos como essenciais para a economia brasileira, especialmente em um contexto de crescente demanda global.
 
-3. **Summit Minas e Energia debate os rumos estratégicos da matriz energética e mineral do Brasil** (FIEMG)  
-   O Summit Minas e Energia reúne especialistas para discutir o futuro da matriz energética e mineral do Brasil. O evento aborda a necessidade de inovação e adaptação do setor para enfrentar os desafios atuais, como a transição energética e a sustentabilidade.
+- **Nova lei transforma CBPM e posiciona Bahia na vanguarda da mineração sustentável** (Estadão Blue Studio)  
+  A nova legislação aprovada para a Companhia Baiana de Pesquisa Mineral (CBPM) visa modernizar a gestão e promover práticas de mineração sustentável. A medida posiciona a Bahia como um líder na implementação de políticas que equilibram exploração mineral e preservação ambiental.
 
-4. **Maior mina de bauxita a céu aberto do planeta produz 30 milhões de toneladas por ano** (CPG Click Petróleo e Gás)  
-   A maior mina de bauxita a céu aberto do mundo, localizada no Brasil, tem uma produção anual de 30 milhões de toneladas. Essa mina é crucial para o fornecimento de alumínio tanto para o mercado interno quanto para exportação, destacando a importância do setor mineral para a economia brasileira.
+- **Vale do Jequitinhonha ganha destaque nacional com acordo entre Serviço Geológico do Brasil e Companhia Brasileira de Lítio** (CPG Click Petróleo e Gás)  
+  Um novo acordo entre o Serviço Geológico do Brasil e a Companhia Brasileira de Lítio busca impulsionar a exploração mineral sustentável na região do Vale do Jequitinhonha, destacando a importância do lítio para a transição energética e a economia local.
 
-5. **Protocolo Digital completa seis anos com avanços em transparência e agilidade no setor mineral** (GOV.BR)  
-   O Protocolo Digital, implementado no setor mineral, celebra seis anos de funcionamento, com melhorias significativas em transparência e eficiência nos processos. A digitalização tem facilitado o acesso à informação e a agilidade na tramitação de documentos.
+- **Mineradoras deixam de pagar R$ 11,3 bilhões em impostos por ano em Minas, aponta Sindifisco** (Portal Impactto)  
+  Um relatório do Sindifisco revela que as mineradoras em Minas Gerais não estão contribuindo com R$ 11,3 bilhões em impostos anualmente, o que levanta preocupações sobre a sonegação fiscal e a necessidade de uma maior fiscalização no setor.
+
+- **Sindifisco-MG denuncia sonegação de R$ 2,2 bi ao ano em Minas Gerais** (Folha do Povo Itatiaiuçu)  
+  A entidade Sindifisco-MG denunciou que a sonegação fiscal no setor de mineração em Minas Gerais é estimada em R$ 2,2 bilhões por ano, indicando a urgência de medidas para combater essa prática e garantir a arrecadação de tributos.
+
+- **Câmara aprova PL que cria política nacional de minerais estratégicos** (Brasil Mineral)  
+  A Câmara dos Deputados aprovou um projeto de lei que estabelece uma política nacional para minerais estratégicos, visando regulamentar a exploração e garantir a segurança do suprimento desses recursos essenciais para o desenvolvimento econômico do país.
 
 ### Links-chave
 
-- [Jornal Correio](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSVU3TlBpcC1YVktRN3d0Ni1TZVVxbGw3ZGN4SmdMQUdYN0czYy11VHowcUxOTXNaVEM5dU1lY0U1Rjg1TWhHaFl0RXhyVE9SY2hGeG5vWmNaZDA0Vlg5NVEzaG1iZDlVZVh1cU5aT1M1RndJcWlXZFdxYUNBcTZGUGxrdWx3Q1lBNDU5anhvSkRZOUoxY3FBUTFyUkFta0trSExGRXV6bEdtNzBSR0FUVUZZa21fSGkwTUtmLS1oSFVSdzRwdjFPZE5ON3NKaTZWQWw1cXpB?oc=5)
-- [G1](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWdLSUYzS0dMQ2U4UERlQ2NuT1RlQkJpdHpWbzBrMlJybS1CWGdvUElQQ3JwMDVBRWVVaFhJOGxvcmhlemRYN1VtSFFfc3ZpZS1uaTJLNndBRXpBa3E2RDNQY0pfM0xXVFNHSVpYTHVUeFZpVmZsckhSMjNkNkU0ZV8tS04tZjdaWThreS1GcjQ0cHB0eXRXSDdfRTNDOE0tLTlnQkhoVUVSTmxJdkF0YW1aZXMxLXA4N1REaW9NMzNnb2FIcGtrWNIB1wFBVV95cUxPOE9SSXFXVl9kT1dlcm1jaEFZc3NWcXBXNFo5VTdRU3Z1N1NEQXBRXzhhQ3dBNWVwSHZCTmU1ek5qODBlelowY3lwYUpvelNIUUhCY1VfZGdXN3lqZ1Y0bkV3eFRMNXViVlFPaU1yQ3I5MlhVSEFZYV9yc21rN2VLVnZYLXlOeHp2VXdVTEo3MzYyRk8zMk1ZM0VxbE9OcTNTTkRjOUxMdEJwMkVfTXFuTUdYamp3X0VSVmN2Rzd0STJQQkJmT2E5dHZpem90TVF0ZnlGb3lVaw?oc=5)
-- [FIEMG](https://news.google.com/rss/articles/CBMimAJBVV95cUxOUFRwWnVMdmZmOWExWkdfSmw4YnU3dGI5bzZlMlM0Vm40bGNUWnlCeXctazZZd0dmVWUtTmowUjMydDViNERfMkxIR3NzTDBuNExveEY1eVhDVi1NZ19pUm9hVWN1dlN6c3dPQlBiektkZFFaNTQxNzFSZVB1YVFTODNEVkU5NjhOMEc1N1AzV3d3Q3JhRXJOdjRvVUppcVN3a0c0d3RCdE4yX0FJWVpSUmt0MXBpWlY1UVZsSHBsdFY1ZjFBUE5wOE13RkJVRXE3dllDWTNTUmdMVXdhS2ZmS2UwUVltalB5ZHpjbmpWMUNQb2M1c2NkZ1NMbTlnZGx1WDk5ZlM3Z0V3cjFTZlhndXZfdk1lNHNl?oc=5)
+1. [O TEMPO - Seminário discute mineração sustentável em Minas](https://news.google.com/rss/articles/CBMizAFBVV95cUxPV1B1NmkxVWRqMnJMLUxRUVlZaWotc3UxUmpsMnNMQk43M3FNR0Z2N1hnektVd0VCS2swM3BMemhSbVQ1MGlhWGg1Q1BkeWtSb0t1ZFA0dEMydUNuLTVwQ1dkQW84UVhXVEloZWZmbUJMakJ6OUhfQjdUaC1xVlZXUXN5N2xCZjBuLUZta1UtblBUZFhmQkpFR0JFZkxkNXpYX1YtaFhYbEMxSmJSNFE5UlF2SFl6UFU1LVJ3WUFGaWU1OS00WFBRX0VvM0s?oc=5)
+
+2. [CNN Brasil - Ouro e ferro querem espaço na política nacional de minerais críticos](https://news.google.com/rss/articles/CBMivgFBVV95cUxQbFFrQS1MOGZkeGVURXR2enZ5QjJFbGk5bzJ6SnBGdHRfNWItUVdqSEZTWXJIOVpFYWNjV3p4WFQwYVkzMFM4NDhzeng3bTZtYkhwVVJkMlFWYmw3NDlWRnQtcnJZZnYxREIwcHpieF9xQlo1TTdkamRnODUzbjBxdHU1VnRYWU9CM2pBbFA1MWdobl9iY3k1T2gyV1g4SVVvenljV2pJYnVmc3B3c1A2UExrRDJYR3hGbE9xLUFB?oc=5)
+
+3. [Estadão Blue Studio - Nova lei transforma CBPM](https://news.google.com/rss/articles/CBMivgFBVV95cUxObTJnYTN0djg2UkxuaF95bWwyZUhsaDVDQVhjeS15VV92dDRqY0NZSjcyckNGaW5SYTROdGZkbWtZcG56b1A0TjJ0bjBZMVJEbGt2SkIwWXBuQWhLbS1NUjlhTzhxaGlGOHNLY2pyWEtvQmFOVUk2WXQ0eVd2WWFTV3Z4VzE3N2xVRWFjeUVfUDBNX0wyQS15NnlhMThmbjR3cHJ4dFlMeWc0RVBYdFphdGFMWFlSMHQzMFlvLUNB?oc=5)
+
+4. [CPG Click Petróleo e Gás - Acordo entre Serviço Geológico do Brasil e Companhia Brasileira de Lítio](https://news.google.com/rss/articles/CBMiwgJBVV95cUxNV3FUbmFyZjFIVjN2RjdKX2YyS1ZFbnBDOGQ3dE1DdHhFMXMtNWpvdENhS3dKY1pwNWtwZ2JfeWV6M0hkQUROOGZQQ0NkVFg2NGRrWXJnTmwyR2ZOSUswRGNqTW0wLUVNX1g0QUJkSEZrRjlCNi11RjVxZ183R0U2MnE0SGRPd3lZQ0VIUEZlYUFhX2xXS1RSbllNTXRETkp3UkFzZU9rVXJQZ1U1cFRaenhGUDlBMGRmTWUzTkJvb1Jhd0lvdDIxRXdTMEJuTWw4c0xvTFFwT1BabTBSY0phMTMyeVctdDVrUGZlTUlISFhDZ2pFbFY3VHRjelVNTl9EeGg3ZVlLN1VySDJqNmlkMVpVdnNIWDVKdy1oZ2FJRmxUWmFNWjY0c1ZIcG0xWVlFdkJNTkc3TXNBeWc5QVdpMUZR?oc=5)
+
+5. [Portal Impactto - Mineradoras deixam de pagar R$ 11,3 bilhões em impostos](https://news.google.com/rss/articles/CBMizAFBVV95cUxNYUk4cGozR1JvS2NuRndBTUU0aFJIR1VjZVpWQThTR2VuRzVPTldGTFdieDVMWjBxODFaNlAwT1RXVnlVNzV1OTh2bTRZcGpxQnJ4MEVrZTBXT3pROUFTUHEyMjJwNTlfeWZadklubV80VktNRUNTcV9MXzg0Z1VINGs0cmtyZkJmNjExR2hzeEVVTGJpazYzMDlHMzM2c2FCZVlGOEppWHJTSnBvaXNJYld6a3liQnU3QzJsQk96T2RObThsWlNiR2lnSm0?oc=5)
 
 — Fonte automatizada via Google News (PT-BR/BR).

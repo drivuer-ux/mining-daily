@@ -1,39 +1,41 @@
-Resumo diário de mineração — 08/10/2025
-(Gerado em 09/10/2025 07:20 BRT)
+Resumo diário de mineração — 09/10/2025
+(Gerado em 10/10/2025 07:20 BRT)
 
-### Resumo de Notícias - 08/10/2025
+### Resumo das Notícias de Mineração - 09/10/2025
 
-1. Comunidades afetadas pelo complexo Minas-Rio da Anglo American denunciam violações, enquanto a mineradora intensifica sua propaganda sobre sustentabilidade.
-2. A reforma tributária em andamento no Brasil terá impactos significativos sobre as empresas do setor mineral, alterando a carga tributária e as obrigações fiscais.
-3. A Agência Nacional de Mineração (ANM) anunciou um plano para reforçar a fiscalização mineral com mais pessoal e tecnologia, visando aumentar a eficiência e a conformidade no setor.
-4. O governo brasileiro está preparando um decreto que estabelecerá um cronograma para o Plano Nacional de Mineração, com foco em desenvolvimento sustentável e regulamentação.
-5. O TCU promoveu um seminário para discutir a Compensação Financeira pela Exploração de Recursos Minerais (CFEM), abordando sua importância e desafios.
-6. O Rio Grande do Sul é destacado por seu potencial na extração mineral, com 146 pedidos de lavra e pesquisa, incluindo ouro e terras raras.
-7. A Exposibram 2025, um dos principais eventos do setor mineral, está prevista para reunir 30 mil participantes em Salvador.
-8. Debates sobre a transição energética justa estão em andamento, com foco na integração do setor mineral nas novas diretrizes energéticas.
+1. **Royalties da Mineração**: A ANM repassou R$ 504 milhões a municípios produtores, fortalecendo a economia local e promovendo sustentabilidade financeira.
+2. **Descarbonização na Logística**: A Cedro e Gás Verde estão implementando inovações para descarbonizar a logística de mineração, utilizando caminhões a GNV.
+3. **EXPOSIBRAM 2025**: O evento em Salvador destaca o papel do Nordeste no setor mineral brasileiro, promovendo networking e inovações.
+4. **Seminário em Bahia**: A Bahia sediou um seminário nacional focado em soluções sustentáveis para a mineração, reforçando sua importância no setor.
+5. **Aura Minerals**: A empresa inaugurou a operação comercial em Borborema, ampliando suas atividades no Brasil.
+6. **Compromisso Ambiental**: O Ibram anunciou que mineradoras se comprometem a reduzir 90% das emissões até 2050.
+7. **Política de Minerais Críticos**: Especialistas defendem a necessidade de uma política para financiar projetos de minerais críticos no Brasil.
+8. **Relatório da ONU**: A ONU pediu investimentos responsáveis em minerais de transição energética, destacando a importância da sustentabilidade.
 
 ### Principais Manchetes
 
-1. **Comunidades atingidas pelo complexo Minas-Rio da Anglo American denunciam violações enquanto mineradora amplia propaganda “sustentável”** (Observatório da Mineração)  
-   Comunidades locais estão levantando preocupações sobre violações de direitos e impactos ambientais causados pela Anglo American, que, por sua vez, tem intensificado suas campanhas de marketing sobre práticas sustentáveis. As denúncias incluem questões de saúde e segurança, além de danos ao meio ambiente.
+1. **Royalties da mineração impulsionam economia local: repasse de R$ 504 milhões da ANM fortalece municípios produtores e garante maior sustentabilidade financeira** (CPG Click Petróleo e Gás)  
+   A Agência Nacional de Mineração (ANM) anunciou um repasse de R$ 504 milhões para municípios que dependem da mineração, o que deve fortalecer a economia local e garantir maior sustentabilidade financeira para essas regiões.
 
-2. **Reforma Tributária vai impactar empresas do setor de mineração** (Brasil 61)  
-   A reforma tributária em discussão no Brasil promete alterar a estrutura fiscal das empresas mineradoras, o que pode resultar em aumento de custos operacionais e mudanças nas obrigações fiscais. Especialistas alertam que isso pode afetar a competitividade do setor no mercado global.
+2. **Cedro e Gás Verde inovam com descarbonização da logística de mineração** (ISTOÉ Independente)  
+   A Cedro e Gás Verde estão desenvolvendo um projeto inovador para descarbonizar a logística de mineração, utilizando caminhões movidos a Gás Natural Veicular (GNV), visando reduzir a pegada de carbono do setor.
 
-3. **ANM promete fiscalização mineral efetiva com reforço de pessoal e tecnologia** (Conexão In)  
-   A Agência Nacional de Mineração anunciou um plano para aumentar a fiscalização no setor mineral, com a contratação de novos funcionários e a implementação de tecnologias avançadas. O objetivo é melhorar a conformidade e a segurança nas operações mineradoras.
+3. **EXPOSIBRAM 2025 chega a Salvador e reforça o protagonismo do Nordeste no Brasil** (ISTOÉ Independente)  
+   A EXPOSIBRAM 2025, um dos principais eventos do setor mineral, está ocorrendo em Salvador, destacando o papel do Nordeste como um centro importante para a mineração no Brasil, com foco em inovações e parcerias.
 
-4. **Governo prepara decreto com cronograma do Plano Nacional de Mineração** (Agência iNFRA)  
-   O governo federal está elaborando um decreto que definirá um cronograma para a implementação do Plano Nacional de Mineração, que visa promover a exploração sustentável de recursos minerais e garantir a regulamentação adequada do setor.
+4. **Bahia se destaca mais uma vez na mineração e recebe seminário nacional com foco em soluções sustentáveis** (Classe Politica)  
+   A Bahia foi palco de um seminário nacional que discutiu soluções sustentáveis para a mineração, reafirmando sua posição de destaque no setor e promovendo práticas que visam a preservação ambiental.
 
-5. **Agência de Comunicação - TCU promove seminário para discutir CFEM** (Estadão Blue Studio)  
-   O Tribunal de Contas da União (TCU) organizou um seminário para discutir a Compensação Financeira pela Exploração de Recursos Minerais (CFEM), abordando sua importância para a arrecadação pública e os desafios enfrentados na sua implementação.
+5. **Aura Minerals inaugura operação comercial em Borborema** (Brasil Mineral)  
+   A Aura Minerals anunciou a inauguração de sua operação comercial na mina de Borborema, o que representa um avanço significativo em suas atividades de mineração no Brasil, contribuindo para a economia local.
+
+6. **Mineradoras vão reduzir 90% das emissões até 2050, diz Ibram** (Agência iNFRA)  
+   O Instituto Brasileiro de Mineração (Ibram) revelou que as mineradoras se comprometeram a reduzir suas emissões de gases de efeito estufa em 90% até 2050, como parte de um esforço maior para a sustentabilidade ambiental.
 
 ### Links-chave
-- [Observatório da Mineração](https://news.google.com/rss/articles/CBMigwJBVV95cUxNNFVpTm1sUjlzNGgwdVpQMDNMc0x6ZFRseGZDMTlvalVsVmcxVkJxS2xiUHFybjF5LTdJN05FemtZckdmenl3V1FrYVpxRlhNOGp5WFliOURlbWVHRzJ3SGp6d1A2RDFwUktsUUdNaWVJU1RxWEFyQTduMktWNlUwSGc0c0wxREhTbmJJNXIzTnNmTXN4eF9PYW5YRW9UQmxYQl85UllESlVXNDljalFyR2hEZE92YjlFS3hwcm9LTFI5aEgwUTBDTm1FRnhJSHQ5ZTNoMUUxUFJDRjdXX2N1UGtSU0twUDhYdkNGenRRZ3Bta2FKVzA0Z0RIUHl0UHh3UWh3?oc=5)
-- [Brasil 61](https://news.google.com/rss/articles/CBMinAFBVV95cUxQeEsyeWQ1Q1Y3Sm92R0VoT1lXQV9SamhGRjFNeHV1NkphbEdfWk8yQUJfbGViMzlKdGczckphNTIxRGw0Vk10SmRvWXhBZHZmbUNtanFNV1M1QVR1ZDNRUlZiUDViYzdFXzFzRThCcUVQQnFTeWlzblloRDlUSDNuVVp6dmpYTUNMQXRKSmhIYnAxSDNlVUtvZnA0Xy3SAaIBQVVfeXFMTmZNV05Bek5Jd2VfSEtXQWdob1hMQkpub05kSG1wZWc5VmhpMkgzVF9kdEpydG1NYXV2b19pQ1FxNEYtNERxYVhlakZ0Mm9MQnJfYXNUOWNfd1lXT3BPYUs5V0htbWM2Sm0yc3NhWlllOTlxTy1pVzJDZFAwSW9acVJ0czIxZ1ByUzZKa0M5NUFoUkhpUXpfYU1Sc1EydEpFUy13?oc=5)
-- [Conexão In](https://news.google.com/rss/articles/CBMipAFBVV95cUxOWS1ZckdhUkQ5RTUxWjcwcWlrZkRXWlozd0ItQ0ZBdFNiVE40aGV0SEFNbTdNcndtM0I2UEZWcHBTak4xMW1JdEFVVE51Um1Cam1iajduRDVMYTB2MVpxNU8yMTVQU2lJczJyRmstNUxuVENpVjJESmhsYmFsdXdSalQyckIzQlJ3OWROVVcxMVVXYkh1ZFM5YmctVml3a3REMWFKcw?oc=5)
-- [Agência iNFRA](https://news.google.com/rss/articles/CBMiswFBVV95cUxOc2RhNENpeHpFdVE3Y2toeEdwekNkQmVtcVlZbEprZk44N3hqcFhFUGVEUnY4VzhFSmJNYWk1WWIwcVZRS3IyTWpTRTlLcEZma2Y3bGNXTk9PN0tDTVg4NVcySExwWnBMMWg3UmJYeU80d0JTdmNLQ2k3Mmh4TmZ2TEVCeWhxZjRiazdnY3hyT1dZdXR6d2FIM2F2NmgwLXlEUi1zX1NJLUI5cDVkWUp2ckd0UQ?oc=5)
-- [Estadão Blue Studio](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRHlrdVBobDljbThleGZyWExhQXRXc0VTMElLWTM5aUQ0aGh3RUpyNzJVWlgwY2tzM0hzblNPSk91QUxEVzNxWnRkLW9SOUU1SXFuSExBSVVGa1pTblZmbmtyVXIyamVLNVFqQlFfRWE1QktsSlJTdm9IeW45UnBxN0U1ejV6UmhhNG9EbEEwZlRxOFI4WFVoS0tpYlNsVmVTQjlWb3B1TFhwbjdfdDJmV1p4V25wNGd0TzNuTEJXc2M1U0k?oc=5)
+
+- [Royalties da mineração impulsionam economia local](https://news.google.com/rss/articles/CBMimwJBVV95cUxPQXdKaTZ2ZWVwNkFOdUNNZ2k2c2FhZTFNc3Y1dDE0ZUV1a2Z5VklxQXdHS3Z5ZmRCT2piaEZqbVZubUFkLUs5U05sN2w4UnRrOExCVW9MbElYcU9oTWRtYkpqY0dlcklkSTI5d2d5a1FrZ21qaXhfRFlVN3JOV3dEOU02R2JIRUt3bElIaWZGTlI3a2FiRE16SjB4ZVRWY19RWDQta0Q5SHRUTGUyWDRyMGdhb3R4alQyczBSYWY5RkRRRUZ3cjJ3OE9VOHpEdDNXeXVLaXctb2NQTDdDdUdROEhkdGhNVUwwVGNLb0NIRlAtWFBQdHk4dTV0Y2F2b0hMdFpjb21JQkZHb2xNWWU5ZmdlWnY2QWJfUkU4?oc=5)
+- [Cedro e Gás Verde inovam com descarbonização da logística de mineração](https://news.google.com/rss/articles/CBMilwFBVV95cUxOUzRVQWtiazdXQ21YUVpHR3p3MEZSa2RzTjA3N3Y5Mld3bDl2UmVQTW5ocU1TdnpGVl9ZSk5TWl9VekhUR3phSVdMNGlLdmVUajVkcHVKVVpYNWdpbGFnNzFoQUUzSUg5TkM3MmRSQkQ3Y3oyUWhuNzFpU1pESWlWTWp0bWNORmlJRlppTERzYzg1U0ZZZFFV?oc=5)
+- [Aura Minerals inaugura operação comercial em Borborema](https://news.google.com/rss/articles/CBMinAFBVV95cUxNS01uYzEwcnhydTN3VTVxTllyV2FvRWZpekQyM3B0Z201emh0c0VQekx4Y3ZhVlhIcUpjVkJkTS1aMkxkaXNCeFlfSEFEYUg5elFKbm5QUk4xX040S25OWVdtUkNVb2VtV2hoUVBfdG5uZS1pMDRFYXBxVzVHX2Z4eHhEelJQTDc4X3k1aG5IZWdEOGI1T0k0bTJZX04?oc=5)
 
 — Fonte automatizada via Google News (PT-BR/BR).

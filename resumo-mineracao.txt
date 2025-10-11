@@ -1,41 +1,39 @@
-Resumo diário de mineração — 09/10/2025
-(Gerado em 10/10/2025 07:20 BRT)
+Resumo diário de mineração — 10/10/2025
+(Gerado em 11/10/2025 07:17 BRT)
 
-### Resumo das Notícias de Mineração - 09/10/2025
+### Resumo das Notícias de 10/10/2025
 
-1. **Royalties da Mineração**: A ANM repassou R$ 504 milhões a municípios produtores, fortalecendo a economia local e promovendo sustentabilidade financeira.
-2. **Descarbonização na Logística**: A Cedro e Gás Verde estão implementando inovações para descarbonizar a logística de mineração, utilizando caminhões a GNV.
-3. **EXPOSIBRAM 2025**: O evento em Salvador destaca o papel do Nordeste no setor mineral brasileiro, promovendo networking e inovações.
-4. **Seminário em Bahia**: A Bahia sediou um seminário nacional focado em soluções sustentáveis para a mineração, reforçando sua importância no setor.
-5. **Aura Minerals**: A empresa inaugurou a operação comercial em Borborema, ampliando suas atividades no Brasil.
-6. **Compromisso Ambiental**: O Ibram anunciou que mineradoras se comprometem a reduzir 90% das emissões até 2050.
-7. **Política de Minerais Críticos**: Especialistas defendem a necessidade de uma política para financiar projetos de minerais críticos no Brasil.
-8. **Relatório da ONU**: A ONU pediu investimentos responsáveis em minerais de transição energética, destacando a importância da sustentabilidade.
+1. O setor de mineração de terras raras considera o orçamento atual insuficiente para um plano de supermapeamento.
+2. O Brasil enfrenta desafios para se posicionar na cadeia de minerais críticos, enquanto países vizinhos avançam.
+3. Chile e Argentina estão se destacando na cadeia do lítio, enquanto o Brasil ainda se limita à exportação do mineral bruto.
+4. O Nordeste do Brasil se consolida como um hub mineral, buscando aumentar a produtividade.
+5. Goiás reporta crescimento na produção mineral, destacando-se no cenário nacional.
+6. Tocantins recebe royalties significativos da mineração e inicia um mapeamento do subsolo para impulsionar a sustentabilidade.
+7. Um estudo indica que o setor mineral pode reduzir suas emissões em até 90% até 2050.
 
 ### Principais Manchetes
 
-1. **Royalties da mineração impulsionam economia local: repasse de R$ 504 milhões da ANM fortalece municípios produtores e garante maior sustentabilidade financeira** (CPG Click Petróleo e Gás)  
-   A Agência Nacional de Mineração (ANM) anunciou um repasse de R$ 504 milhões para municípios que dependem da mineração, o que deve fortalecer a economia local e garantir maior sustentabilidade financeira para essas regiões.
+1. **Terras raras: setor de mineração considera orçamento atual insuficiente para plano de supermapeamento** (CBN)  
+   O setor de mineração de terras raras no Brasil expressou preocupações sobre a insuficiência do orçamento atual para implementar um plano de supermapeamento. A falta de recursos pode comprometer a capacidade do país de explorar e desenvolver esses minerais estratégicos, que são essenciais para diversas tecnologias.
 
-2. **Cedro e Gás Verde inovam com descarbonização da logística de mineração** (ISTOÉ Independente)  
-   A Cedro e Gás Verde estão desenvolvendo um projeto inovador para descarbonizar a logística de mineração, utilizando caminhões movidos a Gás Natural Veicular (GNV), visando reduzir a pegada de carbono do setor.
+2. **O Brasil na encruzilhada dos minerais críticos** (Valor Econômico)  
+   O Brasil está em uma posição crítica em relação aos minerais essenciais, como lítio e terras raras. Enquanto países como Chile e Argentina avançam na cadeia produtiva, o Brasil enfrenta dificuldades para se integrar efetivamente, limitando-se à exportação de matérias-primas sem agregar valor.
 
-3. **EXPOSIBRAM 2025 chega a Salvador e reforça o protagonismo do Nordeste no Brasil** (ISTOÉ Independente)  
-   A EXPOSIBRAM 2025, um dos principais eventos do setor mineral, está ocorrendo em Salvador, destacando o papel do Nordeste como um centro importante para a mineração no Brasil, com foco em inovações e parcerias.
+3. **Chile e Argentina avançam na cadeia do lítio, mas Brasil segue focando apenas o mineral** (Folha de S.Paulo)  
+   Chile e Argentina estão se destacando na produção e processamento de lítio, enquanto o Brasil continua a exportar apenas o mineral bruto. Essa abordagem pode prejudicar o potencial do Brasil de se tornar um player relevante no mercado global de lítio, que está em expansão devido à demanda por baterias.
 
-4. **Bahia se destaca mais uma vez na mineração e recebe seminário nacional com foco em soluções sustentáveis** (Classe Politica)  
-   A Bahia foi palco de um seminário nacional que discutiu soluções sustentáveis para a mineração, reafirmando sua posição de destaque no setor e promovendo práticas que visam a preservação ambiental.
+4. **Nordeste se consolida como hub mineral e mira ganhos de produtividade** (al1.com.br)  
+   O Nordeste do Brasil está se firmando como um importante centro mineral, com iniciativas voltadas para aumentar a produtividade e a eficiência na exploração de recursos minerais. A região busca atrair investimentos e desenvolver tecnologias sustentáveis.
 
-5. **Aura Minerals inaugura operação comercial em Borborema** (Brasil Mineral)  
-   A Aura Minerals anunciou a inauguração de sua operação comercial na mina de Borborema, o que representa um avanço significativo em suas atividades de mineração no Brasil, contribuindo para a economia local.
-
-6. **Mineradoras vão reduzir 90% das emissões até 2050, diz Ibram** (Agência iNFRA)  
-   O Instituto Brasileiro de Mineração (Ibram) revelou que as mineradoras se comprometeram a reduzir suas emissões de gases de efeito estufa em 90% até 2050, como parte de um esforço maior para a sustentabilidade ambiental.
+5. **Cresce a produção de minerais em Goiás** (Jornal Opção)  
+   Goiás está experimentando um aumento significativo na produção mineral, destacando-se como um dos principais estados mineradores do Brasil. O crescimento é impulsionado por investimentos em infraestrutura e tecnologia.
 
 ### Links-chave
 
-- [Royalties da mineração impulsionam economia local](https://news.google.com/rss/articles/CBMimwJBVV95cUxPQXdKaTZ2ZWVwNkFOdUNNZ2k2c2FhZTFNc3Y1dDE0ZUV1a2Z5VklxQXdHS3Z5ZmRCT2piaEZqbVZubUFkLUs5U05sN2w4UnRrOExCVW9MbElYcU9oTWRtYkpqY0dlcklkSTI5d2d5a1FrZ21qaXhfRFlVN3JOV3dEOU02R2JIRUt3bElIaWZGTlI3a2FiRE16SjB4ZVRWY19RWDQta0Q5SHRUTGUyWDRyMGdhb3R4alQyczBSYWY5RkRRRUZ3cjJ3OE9VOHpEdDNXeXVLaXctb2NQTDdDdUdROEhkdGhNVUwwVGNLb0NIRlAtWFBQdHk4dTV0Y2F2b0hMdFpjb21JQkZHb2xNWWU5ZmdlWnY2QWJfUkU4?oc=5)
-- [Cedro e Gás Verde inovam com descarbonização da logística de mineração](https://news.google.com/rss/articles/CBMilwFBVV95cUxOUzRVQWtiazdXQ21YUVpHR3p3MEZSa2RzTjA3N3Y5Mld3bDl2UmVQTW5ocU1TdnpGVl9ZSk5TWl9VekhUR3phSVdMNGlLdmVUajVkcHVKVVpYNWdpbGFnNzFoQUUzSUg5TkM3MmRSQkQ3Y3oyUWhuNzFpU1pESWlWTWp0bWNORmlJRlppTERzYzg1U0ZZZFFV?oc=5)
-- [Aura Minerals inaugura operação comercial em Borborema](https://news.google.com/rss/articles/CBMinAFBVV95cUxNS01uYzEwcnhydTN3VTVxTllyV2FvRWZpekQyM3B0Z201emh0c0VQekx4Y3ZhVlhIcUpjVkJkTS1aMkxkaXNCeFlfSEFEYUg5elFKbm5QUk4xX040S25OWVdtUkNVb2VtV2hoUVBfdG5uZS1pMDRFYXBxVzVHX2Z4eHhEelJQTDc4X3k1aG5IZWdEOGI1T0k0bTJZX04?oc=5)
+1. [Terras raras: setor de mineração considera orçamento atual insuficiente para plano de supermapeamento - CBN](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU19VQ0xMNTlYckJaLTRmeFJCSUE4UE9EUmMyZnlsbDFOMGN4cXhhTUM0QmRGY0ZkYkRWQkotUkk3QTVaSmsydEhrOVg2ejktQ3VWVlBtdXpEMEJualJ0NWw4RHF1TXh3WGZHY2VvVnlHSFMzbWM3NV9RZFFmWHI5SEEyYlZQM3hqUTNjeHR2LXlXY2dnMXk0am5jU3NPR0pzVDkxUjM5cHlubkEtYmF1V01MeDA4M1lOWjBPTDg1NE1UV1FNWm1iY01RZm1tY2Jwc1VoTFBCZm5MalJFemRTV3REOGNnTXFGQVHSAfgBQVVfeXFMTUVXMjQ1Q19TUjA3MmpIQlRwaWlQUHFadmNsWk90SkdjX3BpSVhoakpURmkxeUZzbXp6MWNTN2QwczFBMVlGc0g4S0RNX0liRi14Y2llbXdtMXh3WE5iOGxrb05jRHQtLUtYREU4OFRCMnZqSlBKWkw4X25YZVBRcDVGaF9Wa3REZU1tNURJa1M2MGQxVVc5OF8wcjY0NTZWdUJNdWFiVW1LYU5IQ0xkSFFfQUpiWTNQN2Y2QlFVRy03MzRoNW01NFZDeG5RcVFWR1J5UF9BMk1ieVNYY2xIN1JtMlVYVXJKOHVueXZ1MU9LSDJlY1BXeE4?oc=5)
+
+2. [O Brasil na encruzilhada dos minerais críticos - Valor Econômico](https://news.google.com/rss/articles/CBMilgFBVV95cUxNT2JvMTN4ZzJjZ0FsOEYwXzY4YXQ1ODdUSmVROGdubTRpdFFpcGEzMmJLc2RGVHJMREtmOFpiN1FrRHVQemlXamdTbFFpejdKOXFHRExsRlh2VUFVQ3NyTXlaVU5RZ1Y5RUgxc2l4c1B0M2NpMGFmV1luWm1BOHctdEY1NU4tdkszXzJJbmxJSGxXR3Zxa0HSAaQBQVVfeXFMTy1wRHNZblBKZ2J1M2FiOThwTkJSTnpTQThiNEJ3dHZ0NEVhd3Z3dmlCVkd4VFRadGpveTBmcExpeHNtX2pUdFpianh4a0tJOG9OTkdvai1uS1JKRUlkRTB0UUVzdGFYY3k2eFBQNTVoU2lJdVJkOFo1TlRxeUY4SVBneHk3TzV3SFlQYzVtUFRNNDM3ZFhLM3gwZ2F1WjkwV0ZldEY?oc=5)
+
+3. [Chile e Argentina avançam na cadeia do lítio, mas Brasil segue focando apenas o mineral - Folha de S.Paulo](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcmVsYmFYQ1k3bDhNbGQ2ZG8tQmR4MGNfd0g0THRpVU85ZHBkbkxLNnZEdl9nWTNJNGp3R1lyNzNBa1E2MU8zbkxpcEkwUlFCQV9YTFdNZnpWRUhBSWVRS2J6SFhBTG9UWi01bkRvX0hiR2pkaWtVUER0ZW1haXY3OUE4Z282TlFselhFc0dKUHBsdnpuNlo4M3NuOWsxaHluR0xCak5rdzdQWjh0RXdhQnlldXRUZVczemtJTDc0WUFzZFo2d0FfX3JlNDdFRTUtc3dSadIB2gFBVV95cUxPdXB5U0hpb2wtRUV5Vmd3OG03WUJrRW9ETDdqXzBSa2JDWGZLczBBUE9kWWZ4el9wblV5N0swanp4alViTmhqTlJPVkpzcmxyQTRSb1VOQldTMkVpbUcycjNNWExGdFBnS0gzaGdvVVl5VmdnQmxpTG5hTXFnSzdkNEl4anF4RW5JOVZra2lER1hjSXBHVEFUekZCb3dLMW9GWUc0SWk0LVVUT0hfTjN6YTJZR3hmRnpoZ3FvZ3RQQjhZVEhRY251ajU0TEhFZWxTLTBlemtRWjF3UQ?oc=5)
 
 — Fonte automatizada via Google News (PT-BR/BR).

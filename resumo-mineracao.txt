@@ -1,35 +1,40 @@
-Resumo diário de mineração — 13/10/2025
-(Gerado em 14/10/2025 07:20 BRT)
+Resumo diário de mineração — 14/10/2025
+(Gerado em 15/10/2025 07:21 BRT)
 
-### Resumo das Notícias de Mineração - 13/10/2025
+### Resumo das Notícias de Mineração - 14/10/2025
 
-1. A indústria de mineração busca descarbonização, mas enfrenta desafios significativos que exigem apoio governamental e investimentos.
-2. O Piauí se destaca como um novo polo de mineração no Brasil, atraindo investimentos devido a suas reservas de metais críticos, como ferro e níquel.
-3. Um relatório recente indica avanços na segurança das barragens de mineração no Brasil, promovendo maior estabilidade e redução de riscos.
-4. A distribuição de royalties da mineração resultou na antecipação de R$44 milhões, beneficiando municípios e infraestrutura nacional.
-5. O setor mineral está em busca de uma personalidade do ano, destacando figuras influentes na indústria.
+1. **Reforma Tributária**: A nova reforma tributária deve aumentar os custos operacionais das empresas de mineração, exigindo adaptações a partir de 2026.
+2. **Expansão no Nordeste**: O setor mineral no Nordeste do Brasil está em fase de expansão, com foco em aumentar a produtividade.
+3. **Investimento em Minerais Críticos**: A St. George levantou R$ 255 milhões para desenvolver o projeto Araxá, que envolve minerais críticos.
+4. **Transição Energética**: Um mutirão destaca os avanços no setor mineral e energético, enfatizando a importância da transição energética.
+5. **Parceria para Descarbonização**: ABB e LKAB firmaram uma parceria global para descarbonizar a mineração e acelerar a transição energética.
+6. **Demonização da Mineração**: O diretor-presidente do Ibram defende que a mineração é injustamente demonizada por discursos extremistas.
+7. **Programa para Municípios Mineradores**: Proposta de programa para impulsionar municípios mineradores no Ceará foi apresentada.
+8. **Política Nacional de Minerais Críticos**: Arnaldo Jardim propõe uma política focada na transição energética e segurança industrial relacionada a minerais críticos.
 
 ### Principais Manchetes
 
-- **Mineração quer descarbonizar, mas precisa de um empurrão** (eixos)  
-  A indústria de mineração está se esforçando para reduzir suas emissões de carbono, porém, enfrenta barreiras que dificultam essa transição. Especialistas apontam que a falta de incentivos e apoio governamental é um dos principais obstáculos. Para que a descarbonização seja viável, é necessário um esforço conjunto entre o setor privado e o governo.
+1. **Reforma Tributária deve elevar custos e exigir adaptação das empresas de mineração a partir de 2026** (Jornal Grande Bahia)
+   - A nova reforma tributária, que entra em vigor em 2026, promete aumentar os custos para as empresas de mineração. As empresas precisarão se adaptar às novas exigências fiscais, o que pode impactar sua rentabilidade e operações.
 
-- **Corrida por metais críticos transforma o Piauí em novo polo da mineração brasileira e reacende disputa por investimentos** (CPG Click Petróleo e Gás)  
-  O estado do Piauí está emergindo como um novo centro de mineração no Brasil, especialmente por suas grandes reservas de metais críticos. Essa transformação está atraindo investimentos significativos, mas também gerando disputas entre empresas e investidores. O potencial do Piauí pode mudar o cenário da mineração no país.
+2. **Setor mineral do Nordeste vive fase de expansão e mira ganhos de produtividade** (NE9)
+   - O setor mineral no Nordeste do Brasil está experimentando um crescimento significativo, com empresas buscando aumentar a produtividade. Essa expansão é vista como uma oportunidade para fortalecer a economia regional e atrair mais investimentos.
 
-- **Mais estabilidade, menos risco: relatório confirma avanços na segurança das barragens de mineração no Brasil** (GOV.BR)  
-  Um novo relatório revela que houve melhorias na segurança das barragens de mineração no Brasil, resultando em maior estabilidade e redução de riscos de acidentes. As novas medidas implementadas visam proteger comunidades e o meio ambiente, refletindo um compromisso crescente da indústria com a segurança.
+3. **MINERAIS CRÍTICOS | St. George levanta R$ 255 milhões para desenvolver projeto Araxá** (Brasil Mineral)
+   - A empresa St. George anunciou a captação de R$ 255 milhões para o desenvolvimento do projeto Araxá, que se concentra na exploração de minerais críticos. O investimento é considerado crucial para atender à demanda crescente por esses recursos.
 
-- **Distribuição dos royalties da mineração reforça economia local com antecipação de R$44 milhões, beneficiando municípios afetados, portos e ferrovias nacionais** (CPG Click Petróleo e Gás)  
-  A recente distribuição de royalties da mineração resultou na antecipação de R$44 milhões, que será utilizado para beneficiar municípios impactados pela atividade mineradora, além de portos e ferrovias. Essa injeção de recursos é vista como uma forma de fortalecer a economia local e melhorar a infraestrutura.
+4. **Mutirão da Transição Energética destaca avanços no setor mineral e energético** (Ministério de Minas e Energia)
+   - Um mutirão foi realizado para discutir os avanços na transição energética, com foco no setor mineral e energético. O evento destacou a importância de integrar práticas sustentáveis e inovadoras na mineração.
 
-- **Piauí desponta como novo polo da mineração com grandes reservas de ferro e níquel** (G1)  
-  O Piauí está se consolidando como um novo polo de mineração, com grandes reservas de ferro e níquel. A descoberta dessas reservas está atraindo a atenção de investidores e empresas do setor, o que pode impulsionar a economia local e nacional.
+5. **ABB e LKAB firmam parceria global para descarbonizar a mineração e acelerar a transição energética do setor** (Cenário Energia)
+   - A ABB e a LKAB anunciaram uma parceria estratégica com o objetivo de descarbonizar as operações de mineração. A colaboração visa acelerar a transição energética, promovendo tecnologias mais limpas e eficientes.
 
 ### Links-chave
 
-1. [Mineração quer descarbonizar, mas precisa de um empurrão - eixos](https://news.google.com/rss/articles/CBMisAFBVV95cUxOTkxlWmNWU1Bybld5Q0oweFBYdElkYXVWWjNWSUE5ak04NXpPRk1BVW02aVlyOWVsMnJPdVE3U2s5RmtLM0lRRXBfb3NoMVBRd1k2LWRGY0VRek12Y2liYXJajalJ2LU1abFlvOS1hQzVrbUNLYWVYbTJrMlQ4bU1mMzRfbUpNd0V3UDY0UU55Tm1KQ2dzbklOLUc1WUFJcGRuTndyQXBKTDhiRHdCLWZtRg?oc=5)
-2. [Corrida por metais críticos transforma o Piauí em novo polo da mineração brasileira - CPG Click Petróleo e Gás](https://news.google.com/rss/articles/CBMikAFBVV95cUxQZFRfMnpxWUxPcHNXWFJuQk9mS19tdnl2aDd1N3FYUnpCb1JKSzh4RENyN1MxMjdjdDE1enM3V09vMFp2UDhKaFdjdkY5YUh5NXhhVl9IRGJnVTI1ZThPZW5wU1hyaEJZTHZHc0t3UTFNbC16VDlQcjN3QUt6YWFLOEM0VDVRTDZlVGp6Y0JNOW8?oc=5)
-3. [Mais estabilidade, menos risco: relatório confirma avanços na segurança das barragens de mineração no Brasil - GOV.BR](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOXlDYmNlY0N3MXFXSVo3WmQ0eUlPS2dLeUNEM0hyTWxTZFRvcWZCVnpncG0tYmRjbEpCb1gzNDdNUVBiQnZDaDRfWFMtaF9tbE5SZmVFU0R0UVFKcURwcV9fcV90ODB3M0FNVEVVelhIZjVYVk5LYzdXdnBEUmpyM0hXUU80QVdfb2FzSjNmdVFNVWVvT213ZjJKY3BBdDZlRUpVRDVVT3ltUzBDNF8tLWRPcXRCMmJJVk5zb3F3aTRjMFlnOHpLb0hHY2VQeWRsOUtuZjlMblJkTURLR1pvZDNERjg3TW5B?oc=5)
+1. [Reforma Tributária deve elevar custos e exigir adaptação das empresas de mineração a partir de 2026 - Jornal Grande Bahia](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVVlTbG5VZlFzaC1kdGt1eloyMDR3a3JSbURkaHd1UzlBQ0J2VC1oU29PRTlGbGU5QWI3MDcydkdCaUpXZVc1SkNOanBwb2l5N2JRUllyTlIxSjlMZzRRbHJjd0RFODdnWktfbXFBZE9QNXh6NmI0RkJ5WnY0cW9fV1FXa3JrbjRBckZDWXhjdERCaXoyck9hWWVhQXdibUhpczd4NW1BczVWYlFyYVo5WHY2Rlh4ZEx5ajNtdlFWT0FVSW40a2NKSGRXeTFwTjJLR2NlOTZfZWQ?oc=5)
+
+2. [Setor mineral do Nordeste vive fase de expansão e mira ganhos de produtividade - NE9](https://news.google.com/rss/articles/CBMinwFBVV95cUxQQVZKdHYyMm8tSW43ZkdNa01kRUQ0NjdPWm1xUmhiNG9faENaOEhEX0xCR09uaEI5YTMwVmpVanVlSEJ2eUR5ZGZJVkx3NGF3OThFRGg2eTBmaVUzLTM5bmxOQ2tqM2UwMzZ4cVI1OGtCN0J0UjNhM3lhTE9pZk0yRzJGRDQ2ZFpWWGRYYXhvWU9vek1XekpwUWRnME9NdTQ?oc=5)
+
+3. [MINERAIS CRÍTICOS | St. George levanta R$ 255 milhões para desenvolver projeto Araxá - Brasil Mineral](https://news.google.com/rss/articles/CBMipwFBVV95cUxQOFppaFQzcHNWOGxLUVhHeTBzdnZXeHpreE9ocWg1bUNfZi1kYW9GXzduVklmYUVZVG9FVHBkSnRlZXFIaDhpcVl2RHB5WUpBdndka0plLUJsREpqWVhhdkI4SjQ3MTdpZER2SkRZYmlvaWlRVWpsZEo2WFltb21IXzlCVTc5Q2lHZnNRUEVxcVhBWGxPc2w1c2FsWUpxWWxXUlo2UmlWMA?oc=5)
 
 — Fonte automatizada via Google News (PT-BR/BR).

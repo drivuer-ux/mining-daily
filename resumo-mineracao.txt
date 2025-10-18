@@ -1,45 +1,38 @@
-Resumo diário de mineração — 16/10/2025
-(Gerado em 17/10/2025 07:20 BRT)
+Resumo diário de mineração — 17/10/2025
+(Gerado em 18/10/2025 07:17 BRT)
 
-### Resumo das Notícias de Mineração - 16/10/2025
+### Resumo das Notícias de Mineração - 17/10/2025
 
-1. **Atração de Investimentos**: O setor de mineração no Brasil está atraindo o interesse de instituições financeiras, indicando um potencial crescimento no financiamento de projetos minerários.
-   
-2. **Crescimento da Produção**: A produção mineral no Paraná cresceu 43% desde 2019, impulsionada pela economia local, destacando a importância do estado no setor mineral.
-
-3. **Governança do CNPM**: Um novo decreto estabelece a governança do Conselho Nacional de Política Mineral (CNPM) e define um plano para o setor de mineração.
-
-4. **Acompanhamento em Tempo Real**: Um novo sistema foi implementado para permitir o acompanhamento em tempo real dos processos minerários, aumentando a transparência e eficiência.
-
-5. **Incentivos Fiscais**: O governo está buscando incentivos fiscais e financiamentos para minerais críticos, visando fortalecer a produção e a cadeia de suprimentos.
-
-6. **Prioridade a Minerais Críticos**: A Câmara dos Deputados está debatendo um projeto de lei que prioriza a exploração de minerais críticos e estratégicos.
-
-7. **Criação de Conselhos**: O governo anunciou a criação de conselhos para tratar de minerais críticos e terras raras, com foco em políticas públicas para o setor.
-
-8. **Nova Era de Governança**: O governo federal iniciou uma nova era de governança para o setor mineral, com ênfase em desenvolvimento sustentável e soberania sobre recursos estratégicos.
+1. O plano nacional de mineração será submetido a consulta pública, visando obter contribuições da sociedade.
+2. O governo brasileiro instalou um novo conselho de mineração, em meio a negociações com os EUA.
+3. O presidente Lula ativou um conselho estratégico focado em minerais críticos e terras raras.
+4. A primeira reunião do Conselho Nacional de Política Mineral (CNPM) foi realizada, definindo prioridades para o setor.
+5. A Agência Nacional de Mineração (ANM) enfrenta risco de paralisação devido a insuficiência orçamentária.
+6. A ANM suspendeu novos processos minerários e reduziu a fiscalização de barragens por falta de recursos.
+7. O Morro do Ipê anunciou uma nova planta, destacando a importância de Minas Gerais na mineração.
+8. A ONU ressaltou a importância do financiamento responsável para a transição energética no setor mineral.
 
 ### Principais Manchetes
 
-1. **Mineração atrai o olhar dos bancos no Brasil** (BNamericas)  
-   O setor de mineração no Brasil está se tornando cada vez mais atraente para instituições financeiras, que veem oportunidades de investimento em projetos minerários. Essa mudança pode indicar um aumento no financiamento e no desenvolvimento de novas iniciativas no setor.
+1. **Plano nacional de mineração deve ir a consulta pública** (Valor Econômico)  
+   O governo brasileiro anunciou que o plano nacional de mineração será disponibilizado para consulta pública, permitindo que a sociedade civil e stakeholders contribuam com sugestões e críticas. A iniciativa busca aprimorar as políticas do setor mineral e garantir maior transparência nas decisões governamentais.
 
-2. **Impulsionada pela economia do Paraná, produção mineral cresce 43% desde 2019** (Governo do Paraná)  
-   A produção mineral no Paraná aumentou significativamente, com um crescimento de 43% desde 2019. Esse crescimento é atribuído a uma economia local robusta e ao investimento em infraestrutura e tecnologia no setor.
+2. **Governo instala conselho de mineração em meio a avanços nas negociações com Trump** (eixos)  
+   O governo federal criou um novo conselho de mineração, que terá a tarefa de coordenar as políticas do setor. A instalação do conselho ocorre em um contexto de negociações comerciais com os Estados Unidos, visando fortalecer a parceria entre os dois países na área mineral.
 
-3. **Decreto define governança do CNPM e dispõe sobre plano de mineração** (Agência iNFRA)  
-   Um novo decreto foi publicado, estabelecendo a governança do Conselho Nacional de Política Mineral (CNPM) e delineando um plano estratégico para o desenvolvimento do setor de mineração no Brasil.
+3. **Lula ativa conselho estratégico para minerais críticos e terras raras** (Folha de Cianorte)  
+   O presidente Lula instituiu um conselho estratégico focado na exploração e gestão de minerais críticos e terras raras. O objetivo é garantir que o Brasil se posicione de forma competitiva no mercado global, considerando a crescente demanda por esses recursos essenciais para tecnologias modernas.
 
-4. **Novo sistema permite acompanhar processos minerários em tempo real** (Agência Nacional de Mineração - GOV.BR)  
-   O governo lançou um sistema inovador que permite o acompanhamento em tempo real dos processos minerários, aumentando a transparência e facilitando o acesso à informação para investidores e cidadãos.
+4. **Conselho Nacional de Política Mineral realiza primeira reunião** (Portal BE News)  
+   O Conselho Nacional de Política Mineral (CNPM) realizou sua primeira reunião, onde foram discutidas as prioridades e diretrizes para o setor mineral no Brasil. O conselho foi criado para planejar e coordenar as ações relacionadas à exploração e uso sustentável dos recursos minerais.
 
-5. **Governo quer incentivos fiscais e financiamentos para minerais críticos** (CNN Brasil)  
-   O governo brasileiro está buscando implementar incentivos fiscais e opções de financiamento para estimular a produção de minerais críticos, essenciais para a indústria e tecnologia.
+5. **Alerta de insuficiência orçamentária e risco de paralisação de atividades essenciais** (Agência Nacional de Mineração - GOV.BR)  
+   A Agência Nacional de Mineração (ANM) emitiu um alerta sobre a insuficiência orçamentária que pode levar à paralisação de atividades essenciais de fiscalização e regulação no setor mineral. A falta de recursos compromete a segurança e a supervisão das operações minerárias no país.
 
 ### Links-chave
 
-- [Mineração atrai o olhar dos bancos no Brasil - BNamericas](https://news.google.com/rss/articles/CBMiigFBVV95cUxQd0l0RWNXRC1pWkJtT1FPdHJYc1NuTWUzNzY3QVYxUE1HRWRpVjdpTHMxVHlfc0tRNFVCUG1pSEgyMkZodXlnOEphbGprb3FQRjdyNUpkOWwyYk5VeU5VdTNTTGxydThrVWJDX2w5YzVsdjMyMmtmTk1Ub3JsVlhXVkJSUmN5Z0ZMaGc?oc=5)
-- [Impulsionada pela economia do Paraná, produção mineral cresce 43% desde 2019 - Governo do Paraná](https://news.google.com/rss/articles/CBMitgFBVV95cUxOUXdTbEtWb3NWdGhEbWhHYmp6LTNFNW9tY0dxNnRKMWkxbW9qTnZpQlpMZHFVR2dzbXVpM25Zc3Z5cmhmdFdtWHBlLXJqSW1ra0owZ3M3NjNkOU5fVHpqSEJhaUxHZHNxWWd6VmlrMXlzTzVrbWlqajdNWm5kSktYUmlmdkNsQ2dmSWo4Z1NkWTBIdVJTZWN0UVBiV2x0S0F1Tlplc0R6TW9LdzdkZVVVMExXUHVkZw?oc=5)
-- [Decreto define governança do CNPM e dispõe sobre plano de mineração - Agência iNFRA](https://news.google.com/rss/articles/CBMinwFBVV95cUxQNnBpS2I3T2IyT1dnQmliNC1ZSlBuRDV4YnRXQmdHNEZyUi1fU0hzbmZjQXNHMFVJSHN5RUFRV2JlOGFqY0o1cW14YkpPTjhvQm93SkdvY0xPRU1GMERVSWZnUmRGTlo0b0ZNbGVJazdPdlkzXy1KX083ZkZmUVFVQ2J0bEVJcjN4QklmdWU0ZUt2QzVwOTNEWFZMWkRpR1k?oc=5)
+- [Valor Econômico - Plano nacional de mineração deve ir a consulta pública](https://news.google.com/rss/articles/CBMirwFBVV95cUxQYWJZZ2I4MEJfMU93TXBqZjNHNlhodXREUzk2RHpTaEdUSDBFUmJzVWhFckFlcFpoQ0tLZjc4bzZjWS11bTY2SURZcC1qckR2UmQzV0REUG5Qa0dxTmhPSVFJb2RMWDNBLTd3VllTZ09pZlNNU2Nib2FkaEZQbG1oc3NRN3RxdXFEV3l0QWJSeEMxTG13T2dBa2lfajI5QXc4WF8wZG1VNHNuY3VXaTZN0gG-AUFVX3lxTFBvVV9pakp2UWM2dWVFV3FMTm9mdGQ3aTUwZWZvdk5CeDl6eEZ2a29SX0VCcnNGYUc0NHgyUm1ZQ3hzczJ3OF9fS1lpYllTTTd6NjFFMWJIRUY1bXJNaFExakZrOF9DM29HTFU0b254ZUdtN1BNY1FlbFdqdFQyZlo2Q3pFeGV1aXRsV05MU3E1bEZMaUJSSDVpZmREcmtRU0ZwWllxZS14S01RMl9hcFAzaGN6MVo4LWxoUVJnb0E?oc=5)
+- [eixos - Governo instala conselho de mineração em meio a avanços nas negociações com Trump](https://news.google.com/rss/articles/CBMiygFBVV95cUxNb05jekUtUThIMGJWXzY5ZnFEaGY5aDB0NnZ5d21wRnVmLVJxc2hJRjFnZlFGZ2lhY2J0Y1AtQzJPNkg4elZEUDRxRjVvaXFULUpmUmJnMGg1bU9JNzJvTzJQMkVNcFRpa2E1eHpqOXhwWldVMXoyeVZ6aFBBemJUaUU3Nlp3NXQ3cHFtcjhLY0VrTHFBd0g1UGVhcGFWUmo1d3hPSUpGZkl0WDhGdDZJSnllS3V6eURaZEdwYzl1S3lJckstSEp4UTdB?oc=5)
+- [Folha de Cianorte - Lula ativa conselho estratégico para minerais críticos e terras raras](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdENRWlhqTlVUdjZLbl9ZT1ZrUlVBdUxHQUcwN1pROTZBRWRPekRGOFZpVVNLZXB3WGV5TTF5ekdzR0ZQOXBnd1VCWUhnbE1aQW5zUU5yMk9EQXYycnlaRkJwaW9Bb01zUWhZLWJkTFRvR3BqSXBWN3VjUVlmVHFmbE0wSlliVXFzUTBBVC0tLWlobjNWaDQ1cmtQMDE1a0xpRzNvWGVMNzVZQQ?oc=5)
 
 — Fonte automatizada via Google News (PT-BR/BR).

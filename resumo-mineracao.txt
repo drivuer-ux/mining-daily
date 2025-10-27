@@ -1,31 +1,25 @@
-Resumo diário de mineração — 25/10/2025
-(Gerado em 26/10/2025 07:18 BRT)
+Resumo diário de mineração — 26/10/2025
+(Gerado em 27/10/2025 07:23 BRT)
 
-### Resumo de Notícias - 25/10/2025
+### Resumo das Notícias de Mineração - 26/10/2025
 
-1. A Bahia se destaca na mineração com a realização do SEMBA 2025, reencontrando a EXPOSIBRAM em Salvador.
-2. O faturamento do setor de mineração no Brasil teve um aumento de 34% em comparação ao ano anterior.
-3. O crescimento do setor mineral brasileiro ultrapassou 30% em 2025, refletindo um cenário positivo para a indústria.
-4. A Companhia Baiana de Pesquisa Mineral (CBPM) firmou parceria com o Programa de Parcerias de Investimentos (PPI) para atrair investimentos e fortalecer a mineração na Bahia.
+1. **Integração de Inteligência Artificial**: A mineração está adotando inteligência artificial para melhorar a eficiência e a segurança nas operações.
+2. **Licença Social**: A importância da "Licença Social" para a operação de minas é cada vez mais reconhecida, sendo um fator crucial para a aceitação pública.
+3. **Desafios do Governo**: O governo enfrenta dificuldades na implementação de estratégias para minerais críticos devido à falta de dados organizados e fiscalização inadequada.
+4. **Fiscalização Precária**: A falta de uma fiscalização robusta compromete a segurança e a sustentabilidade das atividades mineradoras.
+5. **Relevância dos Minerais Críticos**: A demanda por minerais críticos está crescendo, mas a gestão ineficaz pode prejudicar o setor.
 
 ### Principais Manchetes
 
-- **SEMBA 2025 reforça protagonismo da Bahia na mineração e marca reencontro com a EXPOSIBRAM em Salvador** (Jornal Grande Bahia)  
-  O evento SEMBA 2025, realizado em Salvador, destacou a importância da Bahia no setor mineral brasileiro. A feira, que reuniu diversos stakeholders da mineração, serviu como um ponto de reencontro com a EXPOSIBRAM, promovendo discussões sobre inovações e desafios do setor.
+- **Mineração, inteligência artificial e a 'Licença Social'** (A TARDE)  
+  A reportagem discute como a inteligência artificial está sendo integrada nas operações de mineração, aumentando a eficiência e a segurança. Além disso, enfatiza a importância da "Licença Social", que se refere à aceitação da comunidade local para a operação das minas, destacando que essa licença é essencial para a continuidade das atividades mineradoras.
 
-- **Mineração tem alta de 34% no faturamento** (Folha do Povo Itatiaiuçu)  
-  O setor de mineração no Brasil registrou um crescimento significativo de 34% em seu faturamento, refletindo uma recuperação robusta após desafios econômicos anteriores. Esse aumento é atribuído a fatores como a demanda crescente por minerais e a melhoria nas condições de mercado.
-
-- **Setor de mineração do Brasil cresce mais de 30% em 2025** (TV BRICS)  
-  Em 2025, o setor mineral brasileiro experimentou um crescimento superior a 30%, impulsionado por investimentos e uma recuperação na demanda global. Este crescimento é um sinal positivo para a economia do país, que busca diversificar suas fontes de receita.
-
-- **CBPM firma parceria com PPI para atrair investimentos e fortalecer mineração baiana** (Muita Informação)  
-  A Companhia Baiana de Pesquisa Mineral (CBPM) estabeleceu uma parceria com o Programa de Parcerias de Investimentos (PPI) com o objetivo de atrair novos investimentos para o setor mineral na Bahia. A colaboração visa fortalecer a infraestrutura e a competitividade da mineração na região.
+- **Estratégia do governo para minerais críticos esbarra em dados desorganizados e fiscalização precária** (Folha de S.Paulo)  
+  O artigo analisa as dificuldades que o governo enfrenta ao tentar implementar estratégias para o desenvolvimento de minerais críticos. A falta de dados organizados e uma fiscalização ineficaz são apontadas como barreiras significativas que podem comprometer a segurança e a sustentabilidade das operações mineradoras, além de dificultar a atração de investimentos no setor.
 
 ### Links-chave
 
-1. [Jornal Grande Bahia - SEMBA 2025](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQakFMODNvdXNrZXhvaERKd0ZGZmNZVDFNNnQtT1llaFhoUEdUdW1kTFpFTGprTWpHTTNqVnpyQVpVdldCTkVXU3pRRDk0Q2xXYmFXSDFPMEFrSmEwd3R6WENpc0pGeEQwdHdPWTBSTUxwQzJOWUNneUkwTVFoQjdBWENxcjV1dTdOVWJfUkViVGI3ODB3bmpfNm9ZLXhhNkg4NUlJcHNIelhVRXJUclFfTHNmNl9uMHRCUk5QVlFULVpJU19tNUhObVoyWE52N0JoOG8yT3JfS3BMejA?oc=5)
-2. [Folha do Povo Itatiaiuçu - Alta de Faturamento](https://news.google.com/rss/articles/CBMigAFBVV95cUxQNVl0MnpJZFRWTGVabFRkclpMTEtiSlpPbU5yX2RKQVdZT09rOFdNSjVZR0dJX0VsS2RXNVVTeWxuUHlHZWZrcEtxa1RMZWhTSUZvXy1JbERwTDBBNy11VnNNbzJwUzRLUlpRcUJxOVJkYlJIdGQyemU1czZTci1XVA?oc=5)
-3. [TV BRICS - Crescimento do Setor Mineral](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONUlRVWFNN2RMQk5BdjItRnhIb2Y5YzNhSktMeEkzT2RjVnNUMGU5U0hBbzZRbGw2SzNIXzdFanBKa1cteHU3dExyWlBPX2J2SjRMMlB2RGhSNEJmak5yTWpGN0lMMVRfRmdqa0FVRUxXcUlwVzBxTUdIRmhqM1RPeDl1M24ydE80WHhB?oc=5)
+1. [A TARDE - Mineração, inteligência artificial e a 'Licença Social'](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcVdPZ0dZX1hXRFlNX2t0bDdFNzFjaDQ4OXdBZ09EN0tiSF9sdG8wbTBHa05QMExyVXVkUkp0NEcwZUZLMUVPckJuOXk3SGtsWTAyU05mZ2I1WTZhd1ExLW9iWWJHZXVaMzJGclFkeFAydzR2RGpRSVVQUURseHNWZXdZTHFzYU82eUdweVZ5UWtuWVExUVZhbEhn0gGiAUFVX3lxTE13eTlwUVBqVG5SM0ZuLTVzRVlBNXhoR3dBbzZUYnNxeEtwNjZEY2VOdHlpSHpXeXhSaklSbnBnUzE1OUNoQTh3VGxJR25TazRnUkNYTnl6S0xWbFlSNnBNOFZqMnZhMmc4dy1XYmVOZjg1aWRrbmFIcHphbUF6QWE2bWQ4bEhfcG1rd0l0d0RPQjNfUnRiUnZqME5GT3Y4SmJJQQ?oc=5)
+2. [Folha de S.Paulo - Estratégia do governo para minerais críticos esbarra em dados desorganizados e fiscalização precária](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOUcyendnbmVIaEljQXJ1NndIYkpXWkg1M0Z4MHdScllxVnplNXRRMkhnSV92RUhCOHRkem9KbVBKMFNzbmlHVjhibXZaVldXZjZ3NXlvY0paYnQwSzdVak51SW5OYUN0Z2h1Vjd5MjdiMGhJN0t2cmVRX3UxSEhyZ0tvbGZ1OFRneVFSLWxsc0l2NkZSSnZrbUJjM0U2elVzTXhKRzI5RHdXQnlHX201SE1qUHdjN0wzZFBDRTgtWlhzR3dYUmdNWVMzNUJVLUpaTGVMYzQ5d2ZTOXlFZ0w3dEd5c295TGpZcVZmMg?oc=5)
 
 — Fonte automatizada via Google News (PT-BR/BR).

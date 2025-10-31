@@ -1,38 +1,6 @@
-Resumo diário de mineração — 29/10/2025
-(Gerado em 30/10/2025 07:21 BRT)
+Resumo diário de mineração — 30/10/2025
+(Gerado em 31/10/2025 07:21 BRT)
 
-### Resumo das Notícias - 29/10/2025
-
-1. **Ibram na COP 30**: O Instituto Brasileiro de Mineração (Ibram) se compromete a promover a sustentabilidade e a redução de emissões, com foco na Amazônia durante a COP 30.
-2. **Personalidade do Ano**: Luís Maurício Azevedo foi reconhecido como a Personalidade do Ano do Setor Mineral, destacando sua contribuição à indústria.
-3. **Novas Regras da ANM**: A Agência Nacional de Mineração (ANM) implementou novas diretrizes para a exploração mineral em obras públicas, incluindo uma cartilha digital e simplificação regulatória.
-4. **Minerais Estratégicos**: A Vale reafirma seu foco em minerais estratégicos para a descarbonização, conforme declarado pelo presidente Gustavo Pimenta.
-5. **Governança dos Minerais Críticos**: O governo brasileiro avança na governança de minerais críticos e estratégicos, com discussões sobre sustentabilidade e inovação industrial.
-6. **Parceria Brasil-Canadá**: O embaixador do Canadá destaca o potencial do Brasil na mineração e a intenção de estreitar parcerias.
-7. **Sustentabilidade na EXPOSIBRAM**: O setor mineral brasileiro planeja divulgar metas de sustentabilidade durante a EXPOSIBRAM 2025.
-8. **Movimentos Sociais**: Grupos socioambientais pedem cautela na análise de projetos de extração de minerais críticos, enfatizando a necessidade de avaliação cuidadosa.
-
-### Principais Manchetes
-
-1. **Ibram promete salvação climática e redução de emissões com Amazônia no centro da mineração global** (Observatório da Mineração)  
-   O Ibram anunciou sua intenção de mudar a imagem do setor mineral durante a COP 30, destacando a Amazônia como um foco central para a sustentabilidade e a redução de emissões de carbono.
-
-2. **Luís Maurício Azevedo é a Personalidade do Ano do Setor Mineral** (Brasil Mineral)  
-   O setor mineral homenageou Luís Maurício Azevedo como Personalidade do Ano, reconhecendo suas contribuições significativas para a indústria e seu papel em promover práticas sustentáveis.
-
-3. **Exploração mineral para obras públicas ganha novas regras da ANM** (CPG Click Petróleo e Gás)  
-   A ANM lançou novas diretrizes que simplificam a exploração mineral para obras públicas, incluindo uma cartilha digital para facilitar o entendimento e a aplicação das regras.
-
-4. **Foco da Vale está em minerais estratégicos para a descarbonização** (Estadão Blue Studio)  
-   O presidente da Vale, Gustavo Pimenta, afirmou que a empresa está concentrando seus esforços em minerais que são essenciais para a descarbonização, alinhando-se às tendências globais de sustentabilidade.
-
-5. **Silveira recebe Arnaldo Jardim e avança na governança dos minerais críticos e estratégicos** (www.gov.br)  
-   O governo brasileiro, por meio de Silveira, discutiu a governança de minerais críticos e estratégicos, buscando promover a sustentabilidade e a inovação no setor.
-
-### Links-chave
-
-- [Ibram promete salvação climática e redução de emissões com Amazônia no centro da mineração global](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPblM4a1BXZHpNRGlEWkZaNEZSQndQOHVSVG9RSDhYcVJrVTdNOEloc3BUSFJzUHhkR0VkeVV2Q0tJYmdOQUp3ZDdRY2Vlc0ZRNEFmc1ZjM09LaDVrdXlJVmRnMHlMWjdOdkxYaGpRNjBVVVQtU2lyd3JVdHJlcHZPM1JFNW9yeUlUN045UE1fWUM5b1hwY0p4RHoxNklaOGRoMi12akh1ZFRuX2RqNFBNWG9lN21xbDZJaVhuNEY4MFlIS3NPaHJJNVZLZlQ5MWJPU3UyQ2gxTWgyb0Q5U1d2RF9OcXZsbHVtam5nbDl5VlZNUQ?oc=5)
-- [Luís Maurício Azevedo é a Personalidade do Ano do Setor Mineral](https://news.google.com/rss/articles/CBMiowFBVV95cUxPRzd4dUZnRlRvb29tSXY2em9xUHVwbUstd19KM2U0MXJ0eXNtd3M5dlVBV2phZWEtXzZSb2pJZGpxNC1mTWRCSDBhNVR3bENxOUlmSDFKRnFFXzJWbWdEOGFsLXJYTkJfQUVpcUl1RFkwODRfR1RJd2pnbmtjNDhpVW1heTJFMHlFcU9ueUN2N29peUo4ZGdTVHI0MzVtZkUyVmRR?oc=5)
-- [Exploração mineral para obras públicas ganha novas regras da ANM](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQQUdwTlh0dERFaWNBdUE0ZFNnX04xRGhSaGRnX3l5YU8zT3JwNGwzdlRpM2dpOG5mQWNkdXZDRV9SX0gzbEY0WGxiVzlQeFVTOGk5YllWM014NFhmRGZNVkRTLVlkMGd0OWhVT3E4d0tFdnYxNG1rVkVEaEd3TjNzWXhDM0dpT21SV2JuTmdxN29yZXJXZVp6bmFkdmU1MHZTcXhRTExSSTNIMi1QdTFPRmlMRDdDTHlrVzR1S2g0Tnc3YS1KYmdoRDc2ZExnU1NNVTJyMjJuRXQ1SDcyaVRzWGIzZ2ZTSmJRTEdCZTA0Skdmb1ROM0hHQl9Eb3I?oc=5)
+Não foi possível gerar o resumo hoje. Erro: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=60)
 
 — Fonte automatizada via Google News (PT-BR/BR).

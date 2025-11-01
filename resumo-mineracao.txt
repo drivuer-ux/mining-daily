@@ -1,6 +1,43 @@
-Resumo diário de mineração — 30/10/2025
-(Gerado em 31/10/2025 07:21 BRT)
+Resumo diário de mineração — 31/10/2025
+(Gerado em 01/11/2025 07:18 BRT)
 
-Não foi possível gerar o resumo hoje. Erro: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=60)
+### Resumo das Notícias de Mineração - 31/10/2025
+
+1. **Minerais para um mundo mais verde**: A importância de minerais críticos para a transição energética e sustentabilidade ambiental foi destacada, enfatizando seu papel na descarbonização.
+   
+2. **Fragilidade do setor mineral**: A operação "Rejeito" revelou vulnerabilidades no setor mineral, levantando preocupações sobre a gestão de resíduos e práticas de mineração.
+
+3. **Liderança do Brasil em mineração sustentável**: O Brasil reafirmou sua posição como líder em mineração sustentável durante um encontro global no Itamaraty, promovendo a soberania mineral.
+
+4. **Investimentos em descarbonização**: A agenda em Salvador focou em atrair investimentos internacionais para a mineração voltada à descarbonização, destacando a relevância do setor na economia verde.
+
+5. **Expansão da mina do Salobo**: A demanda global por cobre está impulsionando a expansão da mina do Salobo, refletindo a crescente necessidade desse mineral no mercado.
+
+6. **Capacitação em terras raras**: Iniciativas de capacitação estão sendo implementadas em Goiás para aprimorar a gestão da mineração de terras raras, visando inovação e sustentabilidade.
+
+### Principais Manchetes
+
+1. **Saibam quais são os minerais fundamentais para tornar o mundo mais verde** (Jornal Correio)  
+   A reportagem discute a relevância de minerais como lítio, cobalto e níquel na transição para uma economia de baixo carbono. Esses minerais são essenciais para a produção de baterias e tecnologias renováveis, destacando a necessidade de uma mineração responsável e sustentável.
+
+2. **Operação Rejeito revela fragilidade do setor mineral** (O TEMPO)  
+   A operação "Rejeito" trouxe à tona questões críticas sobre a gestão de resíduos na mineração, evidenciando a fragilidade do setor em relação à sustentabilidade e à responsabilidade ambiental. O relatório sugere a necessidade de melhorias nas práticas de manejo de rejeitos.
+
+3. **Brasil reforça liderança em mineração sustentável e soberania mineral em encontro global no Itamaraty** (Cenário Energia)  
+   Durante um encontro internacional, o Brasil destacou suas iniciativas em mineração sustentável, promovendo a soberania mineral e a importância de práticas responsáveis. O evento reuniu líderes do setor para discutir estratégias de desenvolvimento sustentável.
+
+4. **Investimentos internacionais em mineração focada na indústria de descarbonização são tema de agenda em Salvador** (Agência Brasileira de Promoção de Exportações e Investimentos)  
+   A agenda em Salvador abordou a atração de investimentos internacionais para a mineração voltada à descarbonização. O foco está em como o setor pode contribuir para a redução das emissões de carbono e a transição energética.
+
+5. **Demanda global por cobre impulsiona expansão da mina do Salobo** (zedudu.com.br)  
+   A mina do Salobo está se expandindo devido à crescente demanda global por cobre, um mineral vital para diversas indústrias, incluindo a eletrônica e a construção. A expansão visa atender a essa demanda crescente e fortalecer a posição do Brasil no mercado global.
+
+### Links-chave
+
+- [Jornal Correio - Minerais para um mundo mais verde](https://news.google.com/rss/articles/CBMivAFBVV95cUxPQTk4Nmg1TU5nb2tOcVdpeE1FYjdKNWFFQ053NExaRTZRZU91SGJycDhTMmxnTmNaVXh2VkhmY0hIUGxUTjZqRDBJU1BMbUpXeDJkWThuanpGdFQzX1FnSUNjUS1hVWxfYmRVellqanFJakhGRzBBUnEwejBFOGFFX3BnOFRPQkhJUDg4RXljMnY3RkFLM2NIX1p0T0JpZ3NseUNCbUx5dzFJczJkdWV3dEFKcDN4X3NIeEZHZQ?oc=5)
+
+- [O TEMPO - Fragilidade do setor mineral](https://news.google.com/rss/articles/CBMivAFBVV95cUxPSDY4dU93X3JYeEJEanRRcExpUVE1YnZjOTNLX1drczBHVVc4Y0FtWW5pdS10dGxJdTVjZ2dJMGZVRVdLUVFtLVhZV0oyRHdCUnFxQVpIYWRia29TaVdtc0s5aTBKVlA3N2RGZGNZQUk1bXJZQW5EVEgtbEZ3R3A0SFQ4dGl3MGNqSHVtU0JZQ1BzejlhVXlwVzh5SFE2Vi1vbVN4NjFTZFBZTlI3ZTNLdWtUVU5NV3dEeEFHNg?oc=5)
+
+- [Cenário Energia - Liderança em mineração sustentável](https://news.google.com/rss/articles/CBMi2wFBVV95cUxON0xhQzZZTUhUbGtSN0ZvTUFKSU1YdGhjMFVOajVYa1pEc050eFNnaWpGQ29aT042XzRlTTRMVGlhcjBpME8xLVZtaXlXemJwcjdKWGV5VzBsZm5zNi1IOEF4XzBaTm5kUXc4NDR3MExWZWlxeV8yeExBalBpSUY3aV83YTVCd3ZzYjJldnpESlNlaXZ6NjNnWUtjVnRCcndfaTJWeEtMcnEtOUVlbFFsWWoxT0J6c3QzOVNMOUlkaFQ1VEZScEpJV0YyN1JzTmhWMFVHb0o2ZXZrZjjSAdsBQVVfeXFMTjdMYUM2WU1IVGxrUjdGb01BSklNWHRoYzBVTmo1WGtaRHNOdHhTZ2lqRkNvWk9ONl80ZU00TFRpYXIwaTBPMS1WbWl5V3picHI3SlhleVcwbGZuczYtSDhBeF8wWk5uZFF3ODQ0dzBMVmVpcXlfMnhMQWpQaUlGN2lfN2E1Qnd2c2IyZXZ6REpTZWl2ejYzZ1Z0QnJ3X2kyVnhLTHJxLTlFZWxRbFlqMU9CenN0MzlTTDlJZGhUNVRGUnBKSVdGMjdSc05oVjBVR29KNmV2a2Y4?oc=5)
 
 — Fonte automatizada via Google News (PT-BR/BR).

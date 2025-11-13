@@ -1,49 +1,34 @@
-Resumo diário de mineração — 11/11/2025
-(Gerado em 12/11/2025 07:22 BRT)
+Resumo diário de mineração — 12/11/2025
+(Gerado em 13/11/2025 07:22 BRT)
 
-### Resumo das Notícias de Mineração - 11/11/2025
+### Resumo das Notícias de Mineração - 12/11/2025
 
-1. **Investimentos na Bahia**: O setor de mineração na Bahia atraiu investimentos de US$ 9 bilhões, destacando o potencial mineral da região.
-2. **Otimismo na Indústria**: A transição energética está gerando um otimismo crescente na indústria de mineração, apesar dos desafios enfrentados.
-3. **Demandas por Modernização**: O setor mineral clama por modernização e segurança jurídica para melhorar a competitividade e atratividade para investidores.
-4. **Exploração de Terras Raras**: A corrida por terras raras está levando a exploração ao fundo do mar, refletindo a crescente demanda por esses minerais.
-5. **Atuação da China**: A China está expandindo sua atuação na mineração em outros países, aumentando sua influência global no setor.
-6. **Recordes em Preços**: A alta nos preços do ouro e da prata está levando a recordes nas bolsas de valores, impactando o setor mineral.
-7. **Desafios Tecnológicos**: O Brasil avança em tecnologia no setor de mineração, mas ainda está atrás de seus principais concorrentes globais.
-8. **Participação Feminina**: As mulheres representam 18% da força de trabalho no setor mineral, indicando um leve avanço na diversidade.
-9. **Mapeamento Geológico**: A falta de investimentos contínuos limita o mapeamento geológico do solo brasileiro, prejudicando o desenvolvimento do setor.
-10. **Leilão de Áreas de Mineração**: A ANM e a B3 estão se unindo para leiloar áreas de mineração represadas, buscando aumentar a atividade no setor.
+1. **Suspeitas em Itabirito**: Projeto ambiental relacionado a restos de mineração e desmatamento gera preocupações.
+2. **CFEM e Municípios**: Municípios têm a oportunidade de participar da avaliação da norma que regula a distribuição da Compensação Financeira pela Exploração de Recursos Minerais (CFEM).
+3. **Reunião com Indígenas**: Presidente da Coopejur expressa descontentamento após reunião com comunidades indígenas sobre mineração.
+4. **Audiência Pública**: Debate sobre regras para oferta pública e leilão de áreas para mineração ocorre em audiência pública.
+5. **Mineração na COP30**: Discussões sobre mineração responsável e sua relação com a transição energética são destaque na COP30 em Belém.
 
 ### Principais Manchetes
 
-1. **Mineração da Bahia atrai investimentos de US$ 9 bilhões** (Valor Econômico)  
-   A mineração na Bahia recebeu um impulso significativo com a atração de investimentos de US$ 9 bilhões, destacando o potencial mineral da região e seu papel no desenvolvimento econômico local.
+1. **Itabirito: suspeitas em projeto ambiental com restos de mineração e desmate** (Estado de Minas)  
+   O município de Itabirito enfrenta investigações sobre um projeto ambiental que envolve restos de mineração e desmatamento. As autoridades estão analisando as práticas de manejo ambiental e sua conformidade com as leis vigentes.
 
-2. **Transição energética eleva otimismo da indústria de mineração em meio a desafios** (Valor Econômico)  
-   O otimismo na indústria de mineração está crescendo devido à transição energética, que, embora apresente desafios, também oferece novas oportunidades para inovação e crescimento no setor.
+2. **Municípios podem contribuir com avaliação da norma que define distribuição da CFEM** (Brasil 61)  
+   A nova norma que regulamenta a distribuição da Compensação Financeira pela Exploração de Recursos Minerais (CFEM) permite que municípios participem da avaliação, buscando garantir uma distribuição mais justa dos recursos gerados pela mineração.
 
-3. **Setor mineral cobra modernização e segurança jurídica** (Valor Econômico)  
-   O setor mineral brasileiro está demandando uma modernização urgente e segurança jurídica para se tornar mais competitivo e atrativo para investidores, visando um futuro mais sustentável.
+3. **“Hoje foi um dia triste para mineração”, diz presidente da Coopejur, após reunião com indígenas** (Juína News)  
+   Após uma reunião com representantes indígenas, o presidente da Coopejur expressou sua tristeza em relação ao descontentamento das comunidades com as práticas de mineração. O encontro destacou a necessidade de diálogo e respeito aos direitos dos povos indígenas.
 
-4. **Corrida por terras raras leva exploração ao fundo do mar** (Valor Econômico)  
-   A crescente demanda por terras raras está impulsionando a exploração no fundo do mar, refletindo a importância desses minerais para a tecnologia moderna e a transição energética.
+4. **Audiência pública debate regras de oferta pública e leilão de áreas aptas para mineração** (www.gov.br)  
+   Uma audiência pública foi realizada para discutir novas regras sobre a oferta pública e leilão de áreas destinadas à mineração. O evento reuniu especialistas e representantes do setor para avaliar as propostas e suas implicações.
 
-5. **China expande atuação na área de mineração em outros países** (Valor Econômico)  
-   A China está ampliando sua presença no setor de mineração global, buscando garantir acesso a recursos minerais essenciais e aumentar sua influência econômica.
-
-6. **Alta de ouro e prata leva a recordes nas bolsas** (Valor Econômico)  
-   O aumento nos preços do ouro e da prata está resultando em recordes nas bolsas de valores, impactando positivamente o setor mineral e atraindo investidores.
-
-7. **Setor de mineração no Brasil avança em tecnologia, mas continua atrás de principais rivais** (Valor Econômico)  
-   Apesar dos avanços tecnológicos, o Brasil ainda se encontra atrás de seus principais concorrentes no setor de mineração, destacando a necessidade de mais investimentos e inovação.
-
-8. **Mulheres representam 18% da força de trabalho no setor mineral** (Valor Econômico)  
-   A participação feminina no setor mineral é de 18%, indicando um leve progresso na inclusão e diversidade, embora ainda haja espaço para melhorias.
+5. **Mineração responsável no Brasil fomenta debates globais na COP30 em Belém** (CPG Click Petróleo e Gás)  
+   A COP30 em Belém trouxe à tona discussões sobre a mineração responsável, destacando a importância do setor na sustentabilidade e na transição energética. Especialistas discutem como a mineração pode contribuir para práticas mais ecológicas.
 
 ### Links-chave
-
-- [Mineração da Bahia atrai investimentos de US$ 9 bilhões](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNUFwRHRnOFR1MXgzNmJKQ0VqY0lrZzBGSUtWektzQWQyN0JQSXVaVEpsR3dQMlJFLVF6Rl9OMzRiN0Rpa1drUUZYVE9BaUZDbzlxWGRwcnR6MGlCSkVjNFBaNVlFb0JDakRtVVpZT0ZpUjYzZEZVeWJCazQtWWp4bVNJYUJfZ1h5R1FxQ1RENFRTczFnZE9WTVlSYVBCRWtYc1U5ZFU0SW1lak5ycHc2UlJRTV9ZS0RpVV9RN0R3bDZGZ09EWlA4WmRYU0JzZTA00gHfAUFVX3lxTFBra3pydGFidWM5aF9ya0t0WVFuWkVHX3lES2RILWtfbTRsQnVjQzQwVlgtb25kZDZoM1Z0dzk3Z3pkLU13aGRkb2RTd0JZU3c3QTFGRURaV1N4RDlIVzF0eC1YN3hXRG1GWWlnN1VubUMwVHVnencza20yMndUNHNKb2FzQnRLR3lzUzBoUnNKOVNVZjJVQXdWSUVMclVDYkZVekt0bzBNQV9IbVJfem1xSVdBMlhobGNJT1RDOF95ZVN3THJmQ3Z2amJpZkRXRktOTnp2RVJLVkdKeGt3Nzg?oc=5)
-- [Transição energética eleva otimismo da indústria de mineração em meio a desafios](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeUFfUVo5ZHVhcE8zTWw0dGlhemNvRTVrRjdWSkUtWXRXUHpXUGtzNDE3cThmRzZfODE1ZGhIRHo4NDNkcWJSeWY0VlprX3V3VW53dW9nTXpiMnZ1bmlQeU80N0owZUJqM0xjZGFUVERoYmJrTGNWUVY4YXplOU1Rb1d1Q0VxODh1Z0Y3S3otcWpLVU5Xa0tSSnpFMlJoX21DS0lNdFRHSjFHNy1HOWNqeDVRSW1lVDRTTWZlVm5QME9aUW56RGpoUEdEUDBFbDJsVWtNY0lyZ3RfQnRnWktXZ3ZrY1gyRG8wVEdLbERLV1RIUFnSAYICQVVfeXFMTW1RemRCZHpwdGlCeUMzNnFvSjBFM2VfNE9SU25WaWJyYVptb3dpUmkzNFI3a01Md2ZwcU1EM0FZTUo4TUhHdllhSlo0bHFFaGVnaTRtbTRIdGxyOGVpcHR1Nmo1NWExNUNDT2JWQ090SFJRV25Ld25qbFU3M3k4eWhBM2Q2ekF1QU8yNjlyTmJOclZ4SDVRRDlWM0l6Sk1GdnlDVUF2bE9fbThiRFg1T2o0Q1dybjdPLWFEVXdnY3lRY3VvZlR0VUZJRGc4YlpsUXBIUTU5bFRvVzJWdmJoUUdTOWw3QWFveEE3UVFHbWVyblZoOTdmRlY2cTBZTnFCS05R?oc=5)
-- [Setor mineral cobra modernização e segurança jurídica](https://news.google.com/rss/articles/CBMizwFBVV95cUxQREFmdmJQREN0M28xM1dxM0VWQ25PdzREdzl3Q3M5MkxfWGZZTVVEQVJhMm03c1JrdUhoZURCOWpscWQ0eU9lb0dnbXNTRUdIUmo0eGRLaS05RjQwNHA4eVZkZ01vNDhpVUxDU0ppOW1uR2hkZTFiUWN5TEVkeWxfWjZpY2hSdWNKanRfUFh6MVAtS3FqejUxa1J4Z1VzVlVaYWR0XzRGTUk5dERVVjlpNFZjYnk1OWktanltQTdneUp0bzBleHZsek1vdXA5T2fSAd4BQVVfeXFMUHdKVmctanpmYk5vVXdFVVhXcldOMFFKbmRYaWMxV0VfalVNTlNudEZnZm0teVhMR3RQWWNZR1p0c1EzMEpCc1oyYkVjMGNUYkZpdGh6UEF5NUVfRTNuTVQzN1FsYTJ2a3pVNkduRFVOcnpSMTFKdnZlZFpkcEpNTExNVUREZW5hSnNhSjBHLWlSaXdJbnlHRU1ScG9BSWJ0c3loalNUVnlaRmxZWjdZaGNRc3FqYXRRWThXbUFHeHdiTUM3TjY1T2tDeWZqZ214eV9UVnlfSm1pd1BMRXdR?oc=5)
+- [Estado de Minas - Itabirito: suspeitas em projeto ambiental](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcVZMWHZzUGVTd2Nzc01VYVlVWnlsZm9Ka3hHN2x3RFpnQWV6ZVJDTS11clJFam5nTEdrU1ZjTXpIOXFWTWZVcFJjMEJBMUkzVmRqdmhIZFo4ZFUxRjBMYkJ3NmFmOWpUWlZHNGpxYlNRd2pNVVFHOEJ3ZnFaeEJUNTU5NkJoclBaV21sSzdyUzNYTWo5QjVXX0hxckVkR2hFLTMzNGRza0RkY09kZm4teUdLRWxFZ3RMcUVCamp3amhrQdIBxwFBVV95cUxQNDhTdS1PRV9GblR6WjBudDhHY0x3bV93R3VBRWVkNWplVV9KME0yek83a2F4MVUyMTdiTGN1eEZua3MxZ3ZPbnJOOVhPS0wtR19MUUFjQkI5OEdKNDVrRjY4TkRfUWhXaFpBODV2VTEtR1BERWRxWFplVHhKX1B4NEx4N0FVXzJJVXJBazRoVC1OVXpSS2lXdUhvdER5LXUtUVkyeGQ4WUlXSlFVMF9xZ2dIZ2tOOU81RGZIVTRXS1FUQ2JoR0Rz?oc=5)
+- [Brasil 61 - Municípios podem contribuir com avaliação da norma da CFEM](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN0lYbzNVU2FZTkJtTXpERk5PNkVWeDFvYXpGQ3hDVlBPcHBfY2JXYzhha1E5NVFUbFdickU5akFWQU1rc2JMbUlwaHpCckVzT0tjMHJWWHd1MkdNaG55T1duSWNzLTNsbWhueTBybDBQZmtsZ0RIRXB4V1E4V2hqWTRxd1J0Q0FOY2RjS2YzQjRyYXRBek41SnBiZHpGRUZPbzRqSWJQa2VRYnZ0VWxBekNmeXJJcDlx0gG-AUFVX3lxTFB0cHlPX0xvVnRPTjZHS24zVVBtek96NHo4bDlEeEdLdm9pcUhiYlcweEI5b0hnamdnQ3kyV2NjVEtnZWlobVJMYUFzbzZabmRuSHlBMHo5b2xRSmxQT09oQTkxVmkwMGw1VVlSR3NKdU9CSlQxa3FDRGxpTG1yRml1eDIxZUJnWkJyWG5iNkgxSTAxTzJIOGo3ZFpUdFozUm9Hdm9ENmNSeV9Tb01OLXY5LXM0Wk1DMHZ4UUc2UXc?oc=5)
+- [Juína News - “Hoje foi um dia triste para mineração”](https://news.google.com/rss/articles/CBMizAFBVV95cUxQN1U1N1NuSFFqTGFhX2lJODE2aVhpb1V5NVpjSE5hNjBkMWZVRlBBcFo1R1BsRi02bV9HTTRYeV9mYXRMNTl3R0QyOXlOZE5MOXBTLUxaWGdiQmtzTkRma1hrZjdSSXFNbEwwaVBiSUtyd2lsdWNsVXd1d0dvS2YxSmwzUTdvMXpXNlNlRWFMTHVPVHFjLUQ5VHlocTlRaVhZdHVjb1laZzFqWThGLWNTa3M4VVI5YlBZV0VCemp4TWY4dmxfZjV5cWlFaVc?oc=5)
 
 — Fonte automatizada via Google News (PT-BR/BR).

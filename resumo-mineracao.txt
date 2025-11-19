@@ -1,43 +1,39 @@
-Resumo diário de mineração — 17/11/2025
-(Gerado em 18/11/2025 07:23 BRT)
+Resumo diário de mineração — 18/11/2025
+(Gerado em 19/11/2025 07:23 BRT)
 
-### Resumo das Notícias de 17/11/2025
+### Resumo das Notícias de Mineração - 18/11/2025
 
-1. **Geopolítica da Mineração**: Discussão sobre a relação entre a transição energética e a mineração, destacando o combate ao racismo ambiental.
-2. **Debêntures para Minerais Estratégicos**: O Brasil anunciou a liberação de debêntures incentivadas para fortalecer a cadeia de minerais estratégicos.
-3. **Mineração Sustentável na COP30**: O Ministério de Minas e Energia reafirmou seu compromisso com práticas sustentáveis no setor mineral durante a COP30.
-4. **Plataformas Digitais na Bahia**: A CBPM lançou novas plataformas digitais para facilitar o acesso a dados geológicos na Bahia.
-5. **Novas Cadeias Globais de Minerais**: Durante a COP30, foi defendida a construção de novas cadeias globais para minerais críticos.
-6. **Desconhecimento de Modelos de Extração**: Prefeituras enfrentam riscos de penalidades por desconhecerem modelos de extração mineral para obras públicas.
-7. **Expominério 2025**: Evento de mineração reúne 17 painéis em três dias de debates sobre o setor.
+1. O governo brasileiro aprovou debêntures incentivadas para projetos de transformação mineral, visando impulsionar investimentos no setor.
+2. A empresa TOMRA destacou como a tecnologia de classificação baseada em sensores está aumentando a vida útil de depósitos minerais essenciais.
+3. O estado do Piauí recebeu mais de R$ 237 mil em royalties da mineração, com Teresina sendo a cidade que mais recebeu repasses.
+4. A Viridis Mining recebeu uma carta de interesse de US$ 100 milhões da EDC para investimentos em terras raras.
+5. O Ministério de Minas e Energia (MME) lançou anuários estatísticos para promover a modernização e transparência na mineração brasileira.
+6. Um debate sobre a mineração em terras indígenas foi proposto, enfatizando a necessidade de ampliar o conhecimento geológico na área.
 
 ### Principais Manchetes
 
-1. **A geopolítica da transição energética e militar baseada na Mineração** (Combate Racismo Ambiental)  
-   A discussão aborda como a mineração influencia a transição energética e militar, enfatizando a necessidade de combater o racismo ambiental associado a essas práticas.
+- **Governo aprova debêntures incentivadas para projetos de transformação mineral** (Brasil 61)  
+  O governo brasileiro anunciou a aprovação de debêntures incentivadas, que visam financiar projetos de transformação mineral. Essa iniciativa é parte de uma estratégia para atrair investimentos e modernizar o setor mineral, promovendo a sustentabilidade e a inovação.
 
-2. **Brasil libera debêntures incentivadas para fortalecer cadeia de minerais estratégicos** (BNamericas)  
-   O governo brasileiro anunciou a liberação de debêntures incentivadas, visando fortalecer a cadeia produtiva de minerais estratégicos, essenciais para o desenvolvimento econômico e tecnológico do país.
+- **TOMRA: como a classificação baseada em sensores está prolongando a vida útil de depósitos minerais essenciais** (Diário Indústria & Comércio)  
+  A TOMRA apresentou soluções tecnológicas que utilizam sensores para classificar minerais, o que tem contribuído para a eficiência na extração e prolongamento da vida útil de depósitos minerais. Essa tecnologia permite uma melhor recuperação de recursos e redução de desperdícios.
 
-3. **MME reafirma compromisso com a mineração sustentável durante a COP30** (Ministério de Minas e Energia)  
-   Durante a COP30, o Ministério de Minas e Energia do Brasil reafirmou seu compromisso com a mineração sustentável, destacando a importância de práticas que minimizem os impactos ambientais.
+- **Piauí recebe mais de R$ 237 mil em royalties da mineração; Teresina lidera repasses no estado** (Portal O Dia)  
+  O estado do Piauí recebeu um total de R$ 237 mil em royalties provenientes da mineração, com a cidade de Teresina se destacando como a principal beneficiária dos repasses. Esses recursos são essenciais para o desenvolvimento local e investimentos em infraestrutura.
 
-4. **CBPM lança plataformas digitais para facilitar o acesso a dados geológicos da Bahia** (Estadão Blue Studio)  
-   A Companhia Baiana de Pesquisa Mineral (CBPM) lançou novas plataformas digitais que visam facilitar o acesso a dados geológicos, promovendo maior transparência e eficiência na exploração mineral.
+- **TERRAS RARAS | Viridis Mining recebe carta de interesse de US$ 100 milhões da EDC** (Brasil Mineral)  
+  A Viridis Mining anunciou que recebeu uma carta de interesse da Export Development Canada (EDC) no valor de US$ 100 milhões. O investimento está direcionado para o desenvolvimento de projetos relacionados a terras raras, um setor estratégico para a economia global.
 
-5. **Na COP30, PLS defende construção de novas cadeias globais para minerais críticos** (Estadão Blue Studio)  
-   Durante a COP30, o PLS (Partido da Liberdade e Solidariedade) defendeu a criação de novas cadeias globais para minerais críticos, enfatizando a necessidade de diversificação e segurança na oferta desses recursos.
+- **MME lança anuários estatísticos e reforça modernização e transparência da mineração brasileira** (Cenário Energia)  
+  O Ministério de Minas e Energia lançou novos anuários estatísticos que visam aumentar a transparência e modernização do setor mineral no Brasil. Os dados apresentados são fundamentais para a tomada de decisões e planejamento estratégico na mineração.
 
-6. **Prefeituras têm gastos extras e correm risco de penalidade por desconhecer modelo de extração mineral para obras públicas** (www.gov.br)  
-   Prefeituras estão enfrentando gastos adicionais e potenciais penalidades devido à falta de conhecimento sobre os modelos de extração mineral aplicáveis a obras públicas, o que pode impactar a execução de projetos.
-
-7. **Expominério 2025 reúne 17 painéis em três dias de debates** (MidiaNews)  
-   O evento Expominério 2025 está programado para reunir especialistas e interessados em mineração, com 17 painéis de debates que abordarão diversos aspectos do setor mineral.
+- **Mineração em terras indígenas: é preciso ampliar debate e conhecimento geológico** (Senado)  
+  Um novo debate foi iniciado sobre a mineração em terras indígenas, enfatizando a necessidade de um maior entendimento geológico e a importância de envolver as comunidades locais nas discussões sobre exploração mineral.
 
 ### Links-chave
 
-1. [Combate Racismo Ambiental](https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0szRWRUbXpPeHdIQ1hlVnVEOG9zNGJKcV9SempFRUJYVUFxN3c3bEpvcUY0dWp3M0JFcE9UbDJaQWp0SXNyNFV5b29ib1ZGR0ZmVEFtSkRHMWpaVXRRdFBSX1ZrQ3NBQmxNSF95RmRZYm9ZY1dvZGJHNmM0YkFlV1Bid0NOTk9jZTFuSENISFIzSWppVDdjR0hqdGJ0RjBqWlpoMmF1UXBVd1M4N2RwVnR3?oc=5)  
-2. [BNamericas](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORkdEUUxkZHU0UDZjbXgtRVM4cE5obXE3QnZhdW5XTC1xaHJENThLUzhNVjlBRXVqTjN3Y1F1Nll1TU04UHN0a2pfVzBnUWZ1d1ZiUnVrWkEwYzNhRjB3YW9kUFp4dlhQNnpNRnZMSEdyVVpER0JjamprbzN2bjIzbUJMOFVmbkJKeENKLUFIUXUwSU9DckRsTWxab3BnelBjNWFXZExmeVY4OFQ0RVBybGZHM3FEMXd0cFJzRU1XS0w?oc=5)  
-3. [Ministério de Minas e Energia](https://news.google.com/rss/articles/CBMitgFBVV95cUxQLWhUQ18ycFQzdnpCd29iZnZvX0VRTkpUTW45NmJWZndnX29pNU43aFdIb1gzN2ZHZnpBOU1hN1ZBVy01cXZzWUxfemlta1lXZlEwQ1hURGVJQWdUMlgwRTQ2ak1iVnBTamVHYl9lUUxaWG5FN0VWWmNpMHRrN1ZiS20tc29JWFJOWTFpdGV1MXl4aVJIVFRiclpKc0I2QmRhLU4tNjJwWGM4RjRTY0hLZ2ZHbmtZZw?oc=5)
+- [Governo aprova debêntures incentivadas para projetos de transformação mineral](https://news.google.com/rss/articles/CBMisAFBVV95cUxOR2RrOHc2V282Mnp3VEdoYi1LNmxOWmR5bWpGNUU4SFY1RjV2Sng5VWhXVG5Fc1lkSm9RTjRNbkJoMHJ4M0lRQkpRVXhtakVYUXNvRzBrc205bmotTVlSd1N6V2RxUlZzdlVpWnlBWTdpMnlWczN3akVYc1lSU213WE1fQVBoVnNYZkMzOTBNVkk4ZEdmcjZTeVUzNkZjYVpVOXgtUXl0NDR4dzQ1R0E4cdIBtgFBVV95cUxQNDkyWkh5dEtvYnhaQnVKRVNSNEpiMXVmM3YwMVBMQ3BFbzdYR2dKMjdzN2xOUXBGbWhRRjF0YkZzajlQbDh2bnRha2RpV0oyLWpNaE02b051N0MtVmwxTC1mMG9HTmRPeExNV3MtdnVkb0RGdW5KMWliOTQzNTAzVjU3UU1WcU1IeUtXa2NBWjlvdkdSei1IMlMtNkpiaGt3ODZ6Mk9uRFRBVWdCSlJwaENVWFRaUQ?oc=5)
+- [TOMRA: como a classificação baseada em sensores está prolongando a vida útil de depósitos minerais essenciais](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTWJqOUJFTU55VXN6a2J3WVdUX25feXRKTVhsQVNGRHVHc1VuXzZiRDZ2aVBUakJYbURkQXhMZGN2MmdON25KZjhqazZMNVY4bTFFRjhqQUZlRnNrcFVuS0tGLTctWjIxOEpYT3lpUFdtREJCck5obzhGSkNMeEVfRFJQUmR6aXhYbzRkR1VGZjFVbW4wblg4RlVlX0JUTXBlaFNWT3pvamYyWnZfX2xnVEtoeTRNMVVDTlJvMm5sOXVhemFRU2pqYUR3WnNkWjNHN2h0OFdmbGRGMWg2YWZhTzVFendGdE1kNFl1eUJ6bWw?oc=5)
+- [Piauí recebe mais de R$ 237 mil em royalties da mineração; Teresina lidera repasses no estado](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNlVoMU9XclVQdHNSeHZpZ3hoU2JRQlQ5QmVBZHp5N0E4SHJrb0hwQmdFamNxUVFOcXkybVRRTHFISDdlNElSVVVpNDM4NDl3ZDF0UXF0TWhmTnRhMjZKV0xneldmQ290QWhoWVAzOFdLc3RrVGdNY2hQWjZwU1BGMzdlSDZpajRpMWVyNnNWRER5M2N3Y1RINEdCakROZ29QRXl0VFpsdGRyRlJ1S2trcGRfUGdaSDgzcWVGNThjQ1N0c2NYSy12VTM5YktRLU16VzBzVnRvSTA?oc=5)
 
 — Fonte automatizada via Google News (PT-BR/BR).

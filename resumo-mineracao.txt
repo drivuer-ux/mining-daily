@@ -1,31 +1,47 @@
-Resumo diário de mineração — 30/11/2025
-(Gerado em 01/12/2025 07:24 BRT)
+Resumo diário de mineração — 01/12/2025
+(Gerado em 02/12/2025 07:23 BRT)
 
-### Resumo das Notícias de Mineração - 30/11/2025
+### Resumo das Notícias de Mineração - 01/12/2025
 
-1. **Riscos para Mineração**: Discussão sobre os riscos associados à mineração no Brasil, com foco em regulamentos e legislações.
-2. **Potencial Mineral de MT**: O senador Wellington Fagundes enfatiza a importância do potencial mineral de Mato Grosso e a necessidade de fortalecer a Agência Nacional de Mineração (ANM) para garantir a sustentabilidade do setor.
-3. **Industrialização Mineral**: Análise crítica sobre a industrialização mineral no Brasil, comparando-a com práticas de extrativismo de commodities e questionando sua eficácia.
-4. **Desafios Regulatórios**: A necessidade de uma abordagem regulatória mais robusta para mitigar riscos ambientais e sociais na mineração.
-5. **Sustentabilidade**: A sustentabilidade é um tema central nas discussões sobre o futuro da mineração no Brasil, com apelos por práticas mais responsáveis.
+1. **Ouro supera US$ 4 mil**: O aumento significativo no preço do ouro está levando à reativação de minas e projetos paralisados, além de fusões no setor.
+2. **Experimento no Pará**: Um projeto de R$ 250 milhões no Pará visa desenvolver uma alternativa às barragens de mineração, prometendo maior segurança.
+3. **Colaboração em minerais críticos**: Empresas brasileiras estão se unindo para acelerar o desenvolvimento do setor de minerais críticos, essencial para a indústria.
+4. **Diálogo Brasil-EUA**: O Brasil e os EUA retomaram discussões sobre a cooperação em minerais críticos, buscando fortalecer parcerias estratégicas.
+5. **Aniversário da ANM**: A Agência Nacional de Mineração celebra 7 anos de atuação, destacando conquistas e avanços no setor.
+6. **Workshop sobre minerais críticos**: O Consulado Britânico em Belo Horizonte promoveu um workshop focado em minerais críticos, visando aumentar a colaboração internacional.
+7. **Potencial mineral em MT**: Um senador destacou a importância do potencial mineral de Mato Grosso e a necessidade de fortalecer a Agência Nacional de Mineração (ANM).
+8. **Premiação para implosão**: Um projeto de implosão no Brasil está concorrendo a uma premiação mundial, destacando inovações na engenharia de minas.
 
 ### Principais Manchetes
 
-- **PL e riscos para mineração - MidiaNews**  
-  A matéria aborda os riscos associados à mineração no Brasil, destacando a importância da legislação atual e as possíveis mudanças que podem impactar o setor. O texto enfatiza a necessidade de um equilíbrio entre desenvolvimento econômico e proteção ambiental.
+1. **Ouro dispara, supera US$ 4 mil e impulsiona a reativação de minas, fusões e projetos paralisados** (Estadão)  
+   O preço do ouro ultrapassou a marca de US$ 4 mil, resultando em um aumento na atividade de reativação de minas e fusões de empresas no setor mineral. Essa alta é vista como uma oportunidade para revitalizar projetos que estavam paralisados.
 
-- **Wellington Fagundes destaca potencial mineral de MT e defende fortalecimento da ANM para garantir sustentabilidade - cuiabanonews.com.br**  
-  O senador Wellington Fagundes discute o potencial mineral de Mato Grosso, ressaltando a importância de fortalecer a Agência Nacional de Mineração (ANM). Ele argumenta que uma ANM mais robusta pode ajudar a garantir práticas sustentáveis e responsáveis no setor mineral.
+2. **O experimento de R$ 250 milhões no Pará que pode aposentar as barragens da mineração** (Capital Reset)  
+   Um novo projeto no Pará, com investimento de R$ 250 milhões, busca desenvolver tecnologias que substituam as barragens de mineração, proporcionando uma alternativa mais segura e sustentável para a gestão de rejeitos.
 
-- **Por que a industrialização mineral brasileira é a velha fórmula do extrativismo de commodities reciclada - The Conversation**  
-  Este artigo analisa criticamente a industrialização mineral no Brasil, argumentando que as práticas atuais são uma repetição de estratégias de extrativismo que não promovem um desenvolvimento sustentável. O texto sugere que é necessário repensar a abordagem para evitar os erros do passado.
+3. **Empresas unem forças para acelerar setor de minerais críticos no Brasil** (BNamericas)  
+   Um grupo de empresas brasileiras está colaborando para acelerar o desenvolvimento do setor de minerais críticos, que são essenciais para a produção de tecnologias avançadas e energias renováveis.
+
+4. **Em Washington, Brasil e EUA retomam diálogo sobre minerais críticos** (CNN Brasil)  
+   O Brasil e os Estados Unidos reabriram o diálogo sobre a cooperação em minerais críticos, com o objetivo de fortalecer as relações comerciais e garantir o fornecimento de recursos essenciais.
+
+5. **Semana de aniversário: agência celebra 7 anos de conquistas para mineração** (www.gov.br)  
+   A Agência Nacional de Mineração (ANM) comemora seu sétimo aniversário, refletindo sobre as conquistas e avanços na regulação e desenvolvimento do setor mineral no Brasil.
+
+6. **Grupo Fomentas Mining Company reforça protagonismo da mineração em Mato Grosso** (Poconet)  
+   A Fomentas Mining Company está destacando o papel da mineração em Mato Grosso, enfatizando a importância do setor para a economia local e o desenvolvimento sustentável.
+
+7. **Consulado Britânico de BH promove workshop sobre minerais críticos** (Brasil Mineral)  
+   O Consulado Britânico em Belo Horizonte organizou um workshop para discutir a importância dos minerais críticos, promovendo a troca de conhecimentos e experiências entre especialistas do setor.
+
+8. **Senador destaca potencial mineral de MT e defende fortalecimento da ANM** (MidiaNews)  
+   Um senador enfatizou o potencial mineral de Mato Grosso e a necessidade de reforçar a atuação da ANM para garantir um desenvolvimento sustentável e responsável do setor.
 
 ### Links-chave
 
-1. [MidiaNews - PL e riscos para mineração](https://news.google.com/rss/articles/CBMiekFVX3lxTE15b2E2OTEtc2FUSXlfTVFsc1I5dk5NZklPRWJSV0U3TW9jS01MSlhzQkhWeks3TDF4UzBMVXBRbWxieHhabkZSNVp0cFBWdGlPeUtSbTJiZEp2OEpQdG10Qy1GWjRJWkh1dEdxSGNCNEYtSm9wTFNCdi1B?oc=5)
-
-2. [Cuiabanonews - Potencial mineral de MT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPN0hiamZ1elAyT3dUaXd3cDA2RHAzTjcxTklwMlo2OEswR3RiZXpYbDk3RXNEcjl1bmFzTVQwVkowaWg4SkNveHBNZnIwTnpkbVRTei1PMzZyMVFKUElicGNoWmViZ0R1M0NhUHVQNDBiWmpPTkJndVMwT05YbUFnTGlKaXowTjNsX3J0MWNxRnVSMGluSUowRHh3NjNhVktta0xRWEJnQnJ0UWNCRlU0TFZDSHdMUlBMTVBielJDQk9KUXB4cUdWVVRKck5qMkZiVkt0a1gxbDRQWVk?oc=5)
-
-3. [The Conversation - Industrialização mineral brasileira](https://news.google.com/rss/articles/CBMi1gFBVV95cUxORXJFS3RGRDhTUW9pWHlJdkkyRzVjdU5TTThlNDdDRnM0STBtQlJaMFhpZFVZRlhaV21wSE9NOTEzbklhQ2hJR2w2QUxjZE5nRzl6RGZNMU1XZTFlWFh4SlZJZmRuR25XaHlKRUw0LThFSHlsMmJHU29OSy1xTHZtbEwwcHhDRHF0V3VidHRwVWlYMDVuNHlrV2loZDhKalFtbWdLN1Ayd1VOZEFUX0U4TXBFN2tvZVBIQUdLM21qN25tajBuSlRhSjN5Wm9HOHdwU3UxTGxB?oc=5)
+- [Estadão - Ouro dispara, supera US$ 4 mil](https://news.google.com/rss/articles/CBMiygFBVV95cUxOV3VHckhzZkhONWs3RmpkMlJqM19SZ0FoNVg2cmw1S2dudjZoS24zUWFLN1JCSEtiajBWQ2ZGbXc5TjJSUUxsR0d0S0NNWGJZUnkzVnA0QVE0Q0hrUDMyN3VKTFJWcF9RdEhCNllmTkI0ekk3enlVckZYeHgyRS05Vjg3czVzVEZxMndNczFDUlFHeVMyMGh1a0JyQ2N2anNySUd5MFpEMDRfUVZyMzRqeTd0aEJZZDJtOW1xSWlubTY2WVEzcnd5ZGFn?oc=5)
+- [Capital Reset - Experimento no Pará](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcTFBRC15cDV5cGVRT3dVUWFVcFczVUlDVjhaMFZ2d0luZ2VrV3Z0WFhXVUtHX3hSMWxFYTlKX3FVMUpSTjZlaWlOV1hENlJjaFMtUk4tYW9jLV9Sd2VxcEE1MkxnUERzVDRMSzJodzNqeEQyVFRfY3pDdU1kTzVhd193WDh2VXNYa2MzRk9TaHFfVjJ5U3JfTnpYeGlISm5QU3pld29EOHQzS01IUkhKYU5CXzF3SDVwb0RTclhLWG16MG8?oc=5)
+- [BNamericas - Colaboração em minerais críticos](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNTNxUE1lTDJpWUpEWDBkVV9LZno1ZmtCTzZweHRMWXdXU2EzYXVSc0pybHI4d0lWR1dzMFZvQl9FOE5DYk1sZW9MVWpEWDhoSzM4aTZ1ZFg0RlV0UHpfLXVRcnlQdWp6MGtTYVpUQmNFS0NRVEJnem85dldmUXdFbE1Xbk9jcnF6anBlVHdoM2VsMGd3SGh1R09keEZjT2VmYUlKOUVZQmRWaFVST3RTX1pn?oc=5)
 
 — Fonte automatizada via Google News (PT-BR/BR).

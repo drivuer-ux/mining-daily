@@ -1,47 +1,35 @@
-Resumo diário de mineração — 01/12/2025
-(Gerado em 02/12/2025 07:23 BRT)
+Resumo diário de mineração — 02/12/2025
+(Gerado em 03/12/2025 07:24 BRT)
 
-### Resumo das Notícias de Mineração - 01/12/2025
+### Resumo das Notícias de Mineração - 02/12/2025
 
-1. **Ouro supera US$ 4 mil**: O aumento significativo no preço do ouro está levando à reativação de minas e projetos paralisados, além de fusões no setor.
-2. **Experimento no Pará**: Um projeto de R$ 250 milhões no Pará visa desenvolver uma alternativa às barragens de mineração, prometendo maior segurança.
-3. **Colaboração em minerais críticos**: Empresas brasileiras estão se unindo para acelerar o desenvolvimento do setor de minerais críticos, essencial para a indústria.
-4. **Diálogo Brasil-EUA**: O Brasil e os EUA retomaram discussões sobre a cooperação em minerais críticos, buscando fortalecer parcerias estratégicas.
-5. **Aniversário da ANM**: A Agência Nacional de Mineração celebra 7 anos de atuação, destacando conquistas e avanços no setor.
-6. **Workshop sobre minerais críticos**: O Consulado Britânico em Belo Horizonte promoveu um workshop focado em minerais críticos, visando aumentar a colaboração internacional.
-7. **Potencial mineral em MT**: Um senador destacou a importância do potencial mineral de Mato Grosso e a necessidade de fortalecer a Agência Nacional de Mineração (ANM).
-8. **Premiação para implosão**: Um projeto de implosão no Brasil está concorrendo a uma premiação mundial, destacando inovações na engenharia de minas.
+1. **Irregularidades em Processos de Mineração**: Um estudo revela que 37% dos processos de mineração no Brasil apresentam irregularidades, o que levanta preocupações sobre a conformidade e a eficácia regulatória no setor.
+2. **Falhas em Registros**: Especialistas apontam que a quantidade de falhas nos registros é um gargalo significativo para o setor de mineração, impactando a eficiência e a transparência das operações.
+3. **Impacto no Setor**: As irregularidades e falhas nos registros podem afetar a confiança do investidor e a sustentabilidade das operações mineradoras no Brasil.
+4. **Aquisição de Aura Minerals**: A Aura Minerals concluiu a aquisição da MSG por US$ 76 milhões, incluindo royalties, destacando a movimentação no mercado de mineração.
+5. **Eventos do Setor**: Estudantes e docentes de geologia participam de eventos focados no setor mineral, promovendo a educação e a troca de conhecimentos na área.
 
 ### Principais Manchetes
 
-1. **Ouro dispara, supera US$ 4 mil e impulsiona a reativação de minas, fusões e projetos paralisados** (Estadão)  
-   O preço do ouro ultrapassou a marca de US$ 4 mil, resultando em um aumento na atividade de reativação de minas e fusões de empresas no setor mineral. Essa alta é vista como uma oportunidade para revitalizar projetos que estavam paralisados.
+1. **Estudo aponta irregularidade em 37% dos processos de mineração no país** (Agência Brasil)  
+   Um estudo recente revelou que 37% dos processos de mineração no Brasil têm irregularidades. Essa situação levanta questões sobre a supervisão e a regulamentação do setor, indicando a necessidade de melhorias na conformidade e na transparência.
 
-2. **O experimento de R$ 250 milhões no Pará que pode aposentar as barragens da mineração** (Capital Reset)  
-   Um novo projeto no Pará, com investimento de R$ 250 milhões, busca desenvolver tecnologias que substituam as barragens de mineração, proporcionando uma alternativa mais segura e sustentável para a gestão de rejeitos.
+2. **Quantidade de falhas em registros são gargalo no setor de mineração, avaliam especialistas** (G1)  
+   Especialistas alertam que as falhas nos registros de mineração representam um gargalo crítico para o setor. Essas falhas podem comprometer a eficiência operacional e a confiança nas práticas mineradoras, exigindo uma revisão dos processos de registro e monitoramento.
 
-3. **Empresas unem forças para acelerar setor de minerais críticos no Brasil** (BNamericas)  
-   Um grupo de empresas brasileiras está colaborando para acelerar o desenvolvimento do setor de minerais críticos, que são essenciais para a produção de tecnologias avançadas e energias renováveis.
+3. **Cerca de 37% da mineração no país tem irregularidades, aponta estudo** (metro1.com.br)  
+   Um estudo detalhado revelou que uma proporção significativa da mineração no Brasil apresenta irregularidades. Isso não apenas afeta a reputação do setor, mas também pode ter implicações legais e financeiras para as empresas envolvidas.
 
-4. **Em Washington, Brasil e EUA retomam diálogo sobre minerais críticos** (CNN Brasil)  
-   O Brasil e os Estados Unidos reabriram o diálogo sobre a cooperação em minerais críticos, com o objetivo de fortalecer as relações comerciais e garantir o fornecimento de recursos essenciais.
+4. **OURO | Aura minerals conclui aquisição da MSG, por US$ 76 milhões mais royalties** (Brasil Mineral)  
+   A Aura Minerals finalizou a aquisição da MSG por um total de US$ 76 milhões, além de royalties. Esta transação destaca a atividade de fusões e aquisições no setor mineral, refletindo o interesse contínuo em expandir operações e recursos.
 
-5. **Semana de aniversário: agência celebra 7 anos de conquistas para mineração** (www.gov.br)  
-   A Agência Nacional de Mineração (ANM) comemora seu sétimo aniversário, refletindo sobre as conquistas e avanços na regulação e desenvolvimento do setor mineral no Brasil.
-
-6. **Grupo Fomentas Mining Company reforça protagonismo da mineração em Mato Grosso** (Poconet)  
-   A Fomentas Mining Company está destacando o papel da mineração em Mato Grosso, enfatizando a importância do setor para a economia local e o desenvolvimento sustentável.
-
-7. **Consulado Britânico de BH promove workshop sobre minerais críticos** (Brasil Mineral)  
-   O Consulado Britânico em Belo Horizonte organizou um workshop para discutir a importância dos minerais críticos, promovendo a troca de conhecimentos e experiências entre especialistas do setor.
-
-8. **Senador destaca potencial mineral de MT e defende fortalecimento da ANM** (MidiaNews)  
-   Um senador enfatizou o potencial mineral de Mato Grosso e a necessidade de reforçar a atuação da ANM para garantir um desenvolvimento sustentável e responsável do setor.
+5. **Monitor nacional revela alta irregularidade em processos de mineração brasileiros** (novojornal.com.br)  
+   Um monitoramento nacional indicou que a irregularidade nos processos de mineração é alarmante, com 37% dos casos analisados apresentando problemas. Isso sugere a necessidade urgente de intervenções regulatórias e melhorias na supervisão do setor.
 
 ### Links-chave
 
-- [Estadão - Ouro dispara, supera US$ 4 mil](https://news.google.com/rss/articles/CBMiygFBVV95cUxOV3VHckhzZkhONWs3RmpkMlJqM19SZ0FoNVg2cmw1S2dudjZoS24zUWFLN1JCSEtiajBWQ2ZGbXc5TjJSUUxsR0d0S0NNWGJZUnkzVnA0QVE0Q0hrUDMyN3VKTFJWcF9RdEhCNllmTkI0ekk3enlVckZYeHgyRS05Vjg3czVzVEZxMndNczFDUlFHeVMyMGh1a0JyQ2N2anNySUd5MFpEMDRfUVZyMzRqeTd0aEJZZDJtOW1xSWlubTY2WVEzcnd5ZGFn?oc=5)
-- [Capital Reset - Experimento no Pará](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcTFBRC15cDV5cGVRT3dVUWFVcFczVUlDVjhaMFZ2d0luZ2VrV3Z0WFhXVUtHX3hSMWxFYTlKX3FVMUpSTjZlaWlOV1hENlJjaFMtUk4tYW9jLV9Sd2VxcEE1MkxnUERzVDRMSzJodzNqeEQyVFRfY3pDdU1kTzVhd193WDh2VXNYa2MzRk9TaHFfVjJ5U3JfTnpYeGlISm5QU3pld29EOHQzS01IUkhKYU5CXzF3SDVwb0RTclhLWG16MG8?oc=5)
-- [BNamericas - Colaboração em minerais críticos](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNTNxUE1lTDJpWUpEWDBkVV9LZno1ZmtCTzZweHRMWXdXU2EzYXVSc0pybHI4d0lWR1dzMFZvQl9FOE5DYk1sZW9MVWpEWDhoSzM4aTZ1ZFg0RlV0UHpfLXVRcnlQdWp6MGtTYVpUQmNFS0NRVEJnem85dldmUXdFbE1Xbk9jcnF6anBlVHdoM2VsMGd3SGh1R09keEZjT2VmYUlKOUVZQmRWaFVST3RTX1pn?oc=5)
+- [G1 - Falhas em registros são gargalo no setor de mineração](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaFBvZ0YwTXVidU1GbkdFWmU4QW5CLVE0LXR0cS1wRjJSMzEtelAzcVEtenp5VjlVMzEtbXZOSkFhYXhuU1NJXzMxdlZvTndLWXdVdmtoZm4yNXBhY0o2YjhqVnhmY181UmRBeEUyQVJQZVFhUkRGNWJtTkc0TlFpT1JmTktySG9hOFdULW41VWJYdG94d01XODg2QzZwUHh1MkcxNnZmOV9ONHEtbDhEcXNJQThrQmdVLU1EQVNfNTItbDhIWWZJcG56Z1M5Y3pkODctVXg2V2pwel9l0gHrAUFVX3lxTE43SHQySDE3WGZ5LXNleXloanc1c0RFZ1dfUV92bVBkYWdGaW1VNVVFcWwwVzEyd0plVVN2WEQ1RXBuUkRzTlZNNTdUbnZJUUhLSHpVa0NfMkIzQzZxdE51aF9xZThTTmhVWUs0OWIyUGdsNjZRNkFwSjBPMGdRdXhtZ004ZGpkNEc4b3V4T2M2VmFoc1l6dlExNlBULUs3SURVZGc5c1h0MDRvNXBvYW9Ib25XRU4yVk9EcnBYc0JQZklGVmxsV202T3l3OU1wRWhmUGpxcjFtNUlTMk1DX0VwZ1ROcnIzd3lOUWc?oc=5)
+- [Agência Brasil - Irregularidades em processos de mineração](https://news.google.com/rss/articles/CBMizAFBVV95cUxNY3VJZmNUWmZlblBybTFsZ1NhSFBXR3RPUHdtb21nc21uVVFmRXpaYkROM0UxcXFWbnZVdmpEUHN4ZjBQSjI2TzVmMUNFcnprcGs3SThtcmRIQlU3VW9qc0lPdUc2T1pFZ0Fmd2pqVVBtR1RxRXBBYzVxNFRrQVhpcWlqMk1mVlBrUlBJVWtLeC13aEJHd0dYZDR3SWtFVW1pMjVNQzJ0RzgxUUNBVV82U1BzQ3I4cnB4NnBoUGNiMmdlR01oLW42MW5qRFU?oc=5)
+- [Brasil Mineral - Aura Minerals conclui aquisição da MSG](https://news.google.com/rss/articles/CBMiswFBVV95cUxNcTFHdVJ3U2w3U0xuRE90REItVGFUNTdPM2ZndWpuX0VuYVlSaDlrZGxqd29NTWVaY2k3OUIzY2t5S0paNExXcjNvNUJ6Zjh3dG8zVW8tVzdQLVhkREl5cDJUWC15cXZRYnFKRGNEcDJ2eUVxTjhaRWVBNEhwdktwYjRmOXJBNi1HdDFwMUxJNzl4R3JEYi1xUTVDME1YeXRSeDlzVUhtLVZNOUFJQ1E0eExRQQ?oc=5)
 
 — Fonte automatizada via Google News (PT-BR/BR).

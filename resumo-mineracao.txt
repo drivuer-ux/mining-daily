@@ -1,35 +1,47 @@
-Resumo diário de mineração — 02/12/2025
-(Gerado em 03/12/2025 07:24 BRT)
+Resumo diário de mineração — 03/12/2025
+(Gerado em 04/12/2025 07:25 BRT)
 
-### Resumo das Notícias de Mineração - 02/12/2025
+### Resumo das Notícias de Mineração - 03/12/2025
 
-1. **Irregularidades em Processos de Mineração**: Um estudo revela que 37% dos processos de mineração no Brasil apresentam irregularidades, o que levanta preocupações sobre a conformidade e a eficácia regulatória no setor.
-2. **Falhas em Registros**: Especialistas apontam que a quantidade de falhas nos registros é um gargalo significativo para o setor de mineração, impactando a eficiência e a transparência das operações.
-3. **Impacto no Setor**: As irregularidades e falhas nos registros podem afetar a confiança do investidor e a sustentabilidade das operações mineradoras no Brasil.
-4. **Aquisição de Aura Minerals**: A Aura Minerals concluiu a aquisição da MSG por US$ 76 milhões, incluindo royalties, destacando a movimentação no mercado de mineração.
-5. **Eventos do Setor**: Estudantes e docentes de geologia participam de eventos focados no setor mineral, promovendo a educação e a troca de conhecimentos na área.
+1. A participação feminina na mineração avançou, mas a participação geral permanece estagnada.
+2. Municípios de Mato Grosso receberam R$ 7,4 milhões em compensação pelos impactos da mineração.
+3. Um estudo revelou que 37% das operações de mineração no Brasil apresentam irregularidades.
+4. Um novo gerente regional de Minas Gerais foi empossado pela Agência Nacional de Mineração.
+5. A digitalização de processos e o cuidado com as pessoas estão impulsionando a eficiência no setor.
+6. A discussão sobre a inclusão de mulheres negras e pardas na mineração ainda é uma preocupação.
+7. A Fieg debateu o futuro da mineração em Goiás, abordando desafios e oportunidades.
+8. O MapBiomas identificou que quase 10% dos processos de mineração no Brasil têm inconsistências.
 
 ### Principais Manchetes
 
-1. **Estudo aponta irregularidade em 37% dos processos de mineração no país** (Agência Brasil)  
-   Um estudo recente revelou que 37% dos processos de mineração no Brasil têm irregularidades. Essa situação levanta questões sobre a supervisão e a regulamentação do setor, indicando a necessidade de melhorias na conformidade e na transparência.
+1. **Mineração tem avanço na liderança feminina, mas participação geral está estagnada** (Diário do Comércio)  
+   Um estudo recente mostra que, apesar do aumento na presença de mulheres em posições de liderança na mineração, a participação feminina no setor como um todo permanece estagnada. Isso indica a necessidade de políticas mais eficazes para promover a inclusão e a diversidade.
 
-2. **Quantidade de falhas em registros são gargalo no setor de mineração, avaliam especialistas** (G1)  
-   Especialistas alertam que as falhas nos registros de mineração representam um gargalo crítico para o setor. Essas falhas podem comprometer a eficiência operacional e a confiança nas práticas mineradoras, exigindo uma revisão dos processos de registro e monitoramento.
+2. **Municípios de MT recebem R$ 7,4 mi de compensação por impactos da mineração** (pnbonline.com.br)  
+   O governo de Mato Grosso anunciou a liberação de R$ 7,4 milhões em compensação para municípios afetados pela atividade mineradora. Esses recursos visam mitigar os impactos ambientais e sociais causados pela mineração na região.
 
-3. **Cerca de 37% da mineração no país tem irregularidades, aponta estudo** (metro1.com.br)  
-   Um estudo detalhado revelou que uma proporção significativa da mineração no Brasil apresenta irregularidades. Isso não apenas afeta a reputação do setor, mas também pode ter implicações legais e financeiras para as empresas envolvidas.
+3. **Estudo aponta irregularidade em 37% da mineração no país** (CPG Click Petróleo e Gás)  
+   Um novo estudo revelou que 37% das operações de mineração no Brasil estão irregulares, levantando preocupações sobre a conformidade ambiental e a segurança das atividades mineradoras. A pesquisa destaca a necessidade de fiscalização mais rigorosa.
 
-4. **OURO | Aura minerals conclui aquisição da MSG, por US$ 76 milhões mais royalties** (Brasil Mineral)  
-   A Aura Minerals finalizou a aquisição da MSG por um total de US$ 76 milhões, além de royalties. Esta transação destaca a atividade de fusões e aquisições no setor mineral, refletindo o interesse contínuo em expandir operações e recursos.
+4. **Novo gerente regional de Minas Gerais toma posse** (Agência Nacional de Mineração)  
+   A Agência Nacional de Mineração anunciou a posse de um novo gerente regional em Minas Gerais, que terá a responsabilidade de supervisionar as operações mineradoras e implementar políticas de desenvolvimento sustentável na região.
 
-5. **Monitor nacional revela alta irregularidade em processos de mineração brasileiros** (novojornal.com.br)  
-   Um monitoramento nacional indicou que a irregularidade nos processos de mineração é alarmante, com 37% dos casos analisados apresentando problemas. Isso sugere a necessidade urgente de intervenções regulatórias e melhorias na supervisão do setor.
+5. **Digitalização de processos e cuidado com as pessoas impulsionam eficiência** (Agência Nacional de Mineração)  
+   A digitalização de processos na mineração está se mostrando uma estratégia eficaz para aumentar a eficiência operacional. Além disso, a ênfase no cuidado com os trabalhadores é vista como essencial para melhorar as condições de trabalho no setor.
+
+6. **Mulheres crescem na mineração, mas ainda há pouca participação de negras e pardas** (Brasil Mineral)  
+   Embora a presença de mulheres na mineração esteja aumentando, a inclusão de mulheres negras e pardas continua sendo um desafio. A indústria precisa adotar medidas para garantir uma representação mais equitativa.
+
+7. **Fieg discute o futuro da mineração em Goiás** (Notícia Toda Hora)  
+   A Federação das Indústrias do Estado de Goiás (Fieg) promoveu um debate sobre o futuro da mineração no estado, abordando os desafios enfrentados pelo setor e as oportunidades para o desenvolvimento sustentável.
+
+8. **MapBiomas: quase 10% dos processos para mineração no Brasil apresentam inconsistências** (ClimaInfo)  
+   O MapBiomas revelou que quase 10% dos processos de mineração no Brasil apresentam inconsistências, o que levanta preocupações sobre a transparência e a legalidade das operações mineradoras.
 
 ### Links-chave
 
-- [G1 - Falhas em registros são gargalo no setor de mineração](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaFBvZ0YwTXVidU1GbkdFWmU4QW5CLVE0LXR0cS1wRjJSMzEtelAzcVEtenp5VjlVMzEtbXZOSkFhYXhuU1NJXzMxdlZvTndLWXdVdmtoZm4yNXBhY0o2YjhqVnhmY181UmRBeEUyQVJQZVFhUkRGNWJtTkc0TlFpT1JmTktySG9hOFdULW41VWJYdG94d01XODg2QzZwUHh1MkcxNnZmOV9ONHEtbDhEcXNJQThrQmdVLU1EQVNfNTItbDhIWWZJcG56Z1M5Y3pkODctVXg2V2pwel9l0gHrAUFVX3lxTE43SHQySDE3WGZ5LXNleXloanc1c0RFZ1dfUV92bVBkYWdGaW1VNVVFcWwwVzEyd0plVVN2WEQ1RXBuUkRzTlZNNTdUbnZJUUhLSHpVa0NfMkIzQzZxdE51aF9xZThTTmhVWUs0OWIyUGdsNjZRNkFwSjBPMGdRdXhtZ004ZGpkNEc4b3V4T2M2VmFoc1l6dlExNlBULUs3SURVZGc5c1h0MDRvNXBvYW9Ib25XRU4yVk9EcnBYc0JQZklGVmxsV202T3l3OU1wRWhmUGpxcjFtNUlTMk1DX0VwZ1ROcnIzd3lOUWc?oc=5)
-- [Agência Brasil - Irregularidades em processos de mineração](https://news.google.com/rss/articles/CBMizAFBVV95cUxNY3VJZmNUWmZlblBybTFsZ1NhSFBXR3RPUHdtb21nc21uVVFmRXpaYkROM0UxcXFWbnZVdmpEUHN4ZjBQSjI2TzVmMUNFcnprcGs3SThtcmRIQlU3VW9qc0lPdUc2T1pFZ0Fmd2pqVVBtR1RxRXBBYzVxNFRrQVhpcWlqMk1mVlBrUlBJVWtLeC13aEJHd0dYZDR3SWtFVW1pMjVNQzJ0RzgxUUNBVV82U1BzQ3I4cnB4NnBoUGNiMmdlR01oLW42MW5qRFU?oc=5)
-- [Brasil Mineral - Aura Minerals conclui aquisição da MSG](https://news.google.com/rss/articles/CBMiswFBVV95cUxNcTFHdVJ3U2w3U0xuRE90REItVGFUNTdPM2ZndWpuX0VuYVlSaDlrZGxqd29NTWVaY2k3OUIzY2t5S0paNExXcjNvNUJ6Zjh3dG8zVW8tVzdQLVhkREl5cDJUWC15cXZRYnFKRGNEcDJ2eUVxTjhaRWVBNEhwdktwYjRmOXJBNi1HdDFwMUxJNzl4R3JEYi1xUTVDME1YeXRSeDlzVUhtLVZNOUFJQ1E0eExRQQ?oc=5)
+- [Mineração tem avanço na liderança feminina, mas participação geral está estagnada - Diário do Comércio](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdC1kNElLSFhnOFhueVI4dVk1cnBQdkRKczFQc201Wk5ibkZZNTNIQzNGcURaSzBrNnhqQlYwT0dCNHVUb3dIbUhTYWpobE91NTFiVzUwcEZMc1BhVGZSV1NVX3g3S0JHYjEycVhaUFFHNFFzaTAxN29sdlJ1ZjM1OHYyWWpHVFJ4QXpr?oc=5)
+- [Municípios de MT recebem R$ 7,4 mi de compensação por impactos da mineração - pnbonline.com.br](https://news.google.com/rss/articles/CBMioAFBVV95cUxQaWlYdmRVd0UzNEdtak5UVjFZLUVNLU9LRHZ6c1h5aGdDLWVoYUh1YV8wRXMwdWNUR2FtcEtOUFdwelhmRm5LMVVEX3NscEtmZTJhUkRZd0dYblpIbEZDYUdHbHdzRFl5b1NyaTY2Z3VjNXB5QXlEXzl5OUE1NUswVWV4X1M1bVpkR3dJZGY5WTB0aVNKN09RVVVFOGM0RDN3?oc=5)
+- [Estudo aponta irregularidade em 37% da mineração no país - CPG Click Petróleo e Gás](https://news.google.com/rss/articles/CBMinAFBVV95cUxOT0E3ZTE4Rkc0ZFhKQlgwMFBaYVdHV2lUbTFneHZkdkoyR0YyUUEyU0FHRFctbENlMHVUN2ZsXzNrWTIyaVBIUW80SXBjdkpvSnZPNHVUTHB3X3hiaU1mOHJRemJZaTl4dGt4TXZzSnlia3hMVWxEc1E2T21VNUE2RlRBNVlXRmVYbGpydm16QWt2MFpWM3ZzNTV0UWk?oc=5)
 
 — Fonte automatizada via Google News (PT-BR/BR).

@@ -1,26 +1,29 @@
-Resumo diário de mineração — 18/12/2025
-(Gerado em 19/12/2025 07:23 BRT)
+Resumo diário de mineração — 19/12/2025
+(Gerado em 20/12/2025 07:20 BRT)
 
-# Resumo de Notícias - 18/12/2025
+### Resumo de Notícias - 19/12/2025
 
-1. A Agência Nacional de Mineração (ANM) repassou R$ 564 milhões a estados e municípios produtores de minerais.
-2. O leilão de áreas com potencial para minerais críticos no Brasil foi adiado.
-3. A importância da mineração para a vida cotidiana foi destacada em uma nova publicação.
+1. Projeto de mineração no Amapá receberá investimento de US$ 200 milhões.
+2. Seminário nacional destaca o crescimento do cooperativismo no setor mineral.
+3. Avanço no inventário de minas abandonadas com nova metodologia internacional.
 
-## Principais manchetes
+### Principais Manchetes
 
-### CFEM: ANM repassa mais de R$ 564 milhões a estados e municípios produtores minerais (Brasil 61)
-A Agência Nacional de Mineração (ANM) anunciou o repasse de mais de R$ 564 milhões aos estados e municípios que são produtores minerais. Este valor refere-se à Compensação Financeira pela Exploração de Recursos Minerais (CFEM), que é uma forma de compensação financeira destinada a apoiar o desenvolvimento local e a infraestrutura das regiões mineradoras.
+1. **Retomada de projeto no Amapá deve receber US$ 200 milhões** (Brasil 61)  
+   O projeto de mineração no Amapá, que havia sido suspenso, está sendo retomado com um investimento previsto de US$ 200 milhões. A iniciativa visa revitalizar a economia local e aumentar a produção mineral na região, que é rica em recursos naturais. O investimento deve gerar novos empregos e impulsionar o desenvolvimento sustentável.
 
-### Brasil posterga leilão de áreas com potencial para minerais críticos (BNamericas)
-O governo brasileiro decidiu adiar o leilão de áreas que possuem potencial para a exploração de minerais críticos, como lítio e níquel. A decisão foi tomada para garantir que todos os aspectos regulatórios e ambientais sejam adequadamente considerados, visando um processo mais transparente e eficiente para os investidores interessados.
+2. **Cooperativismo mineral ganha protagonismo em seminário nacional** (MundoCoop)  
+   Durante um seminário nacional, o cooperativismo no setor mineral foi destacado como uma alternativa viável para pequenos mineradores. O evento reuniu especialistas e representantes de cooperativas, que discutiram estratégias para fortalecer a atuação coletiva e melhorar a competitividade do setor. A proposta é fomentar a união entre mineradores para enfrentar desafios comuns.
 
-### O porquê a mineração é importante para sua vida? (Alochapada)
-Uma nova publicação explora a relevância da mineração na vida cotidiana das pessoas, destacando como os minerais são essenciais para a produção de diversos produtos e serviços. A matéria enfatiza a interconexão entre a mineração e o desenvolvimento econômico, além de seu impacto na infraestrutura e na tecnologia.
+3. **Inventário de minas abandonadas e suspensas avança com metodologia internacional testada em campo** (www.gov.br)  
+   O governo brasileiro anunciou avanços significativos na elaboração de um inventário de minas abandonadas e suspensas. A nova metodologia, que foi testada em campo, visa identificar e avaliar os impactos ambientais e sociais dessas minas. O objetivo é promover a recuperação de áreas degradadas e garantir a segurança das comunidades locais.
 
-## Links-chave
-- [Brasil 61 - CFEM: ANM repassa mais de R$ 564 milhões a estados e municípios produtores minerais](https://news.google.com/rss/articles/CBMitwFBVV95cUxPdm4tY0NzcGxfVElERGhNM3pRZHVyV1ZUaWVSUG1lcTA0T3J0dkkxdTd0QUh0WkNDc09zVV9QZzRDY2JiZUlqRjhZTjhGb2xGMlJ5bWJCdGwzTktkQ2otaHE3ckNRNi16ZHdBcklzV0loSFoxSU5ZTndxeUs3SDBrTjh5T0drZlZ1bXpsSkxkYzR1TEwzcmxUV0VsLUxCRGpxSXlXWm5pdUVmOFVIWWdFdk5fOEc5YzjSAbwBQVVfeXFMUHp6TDN4TXllZWJOM2QxOUFNSGxSMVhZS2ExYWNWcWx0VUxzMlhVMTBicEcxOWJrRnNKUWpNYWR3ZGhUbUdXOGhLS01zeTFySXVNUTAyRDZmRGlnT3h3YjRCNmEyazFQNzdGdFhxVjMtTHNCb2JWcHBJTWN6eG9ncC1fdUZXbXdiSFRCMjFoRDV0Rll4NjhjR1hpLWNHWWFnekdmYkdPcERZSFh0MHE2MHdQUkhKeUNIMFNpY24?oc=5)
-- [BNamericas - Brasil posterga leilão de áreas com potencial para minerais críticos](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZHRFUmVfSmxTY0pzeUlaSi1qVHpVd2Nxbi1BQjFURzR2WDBLZV9LZEFUdmRHVjVqQm1QMnJCbExvMTRKNjRaMzBFYnQxNk5aUTkzQTk2aEZUMmxwd0tnVnUwUDVwcmZwWnBQX1oyVVQtOExSQUhDZk4yQTRjOUNHYmlFcEFiODBlLTFKNzhHMWF6VzZZcmNrYUxhWlcyT3I5RDlvNE8yT2VsZw?oc=5)
-- [Alochapada - O porquê a mineração é importante para sua vida?](https://news.google.com/rss/articles/CBMilgFBVV95cUxQd0dNUVhDZVpRcUFJcHRtT3hIRGN6b3VFcVJlRktmeE1BQmMzZ1BUSVdtdDZRSTdOZm8yQUZpWmdiWWtkR0N2WUlBUWU5dW9fOS1lbW5NbnBScEV0NVF6TUVvd1R4RkRJdkMxU0ZaLTl6TGFseVRxZjhST01RUFd6UTk3MkxwRXNpQUNNcldVT0stSFZibEE?oc=5)
+### Links-chave
+
+- [Retomada de projeto no Amapá deve receber US$ 200 milhões - Brasil 61](https://news.google.com/rss/articles/CBMilAFBVV95cUxPRmhjUnM3RkVpQkdkWEh2T2RObUxfQVlxeUdnRjV4eGE5aGduX1NEZXJiMURQcmMtS2VEcmdIbzc1M0I5NzRfWll3RGEtODZJUEl0YW80Z0FRRWdSTThJYkFEc0hFYmF4TThXeTN2SWRwZlQwVThwaVU3Q0owaFhmUkI5RkRmNkVldHdfa1owREtuNlA20gGaAUFVX3lxTFBUcW0wc1NRUUFzWHpYUmFZNW83UFpCSThMZ1JuYm1lX0ViR21xd0Fpb1BRS3JjcG9kd3BtWG9pTU1OS1Z5eFA0dzAtcHpTRmVJWVVRQnJaeVhsbXNJaHFMZnY5WF9ZUi10dGoyM3lRSEtpcVM0QVBnMVhfV1Nmb0hiLW9Mam1tVk0tNWtLbDJ4cjFwTkFucXNmTEE?oc=5)
+
+- [Cooperativismo mineral ganha protagonismo em seminário nacional - MundoCoop](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdUFkMzg4NGItV1N3RVNUeDNjdWlvV3FfVDhrRTNDeUFUSzlrQ3hTRmFRYTdDSjFqaElfMHBNcnlpOU9KeGl3cWNqT09RM1F1Zmt3YzdVWXlxRnFzOGxQZ285dFhEQjlsaS1LLTBBTUlxY2dCWkZuRjNBakpUYWNxRDFTa1RjS2tadkZGSTdDNk80YjRjczhSakw0cG1WS0lZSlJzZ2lqeVFLUTQ?oc=5)
+
+- [Inventário de minas abandonadas e suspensas avança com metodologia internacional testada em campo - www.gov.br](https://news.google.com/rss/articles/CBMi3AFBVV95cUxORmtCajhmUFY4YlZxLWJob0tIM1Z3TTdfTFMwSzM3dUZJUUZTZTVYR2N5aldhN3VFdDE5R2VQTWdPS2RVbTUwelo0MmRDZXF2djVxRm85Rlh6MTBvR2N2V1NVZm5BY2JDOUFnLVFPSndLdTFCNHJ1N0dqRmlOWXBnVmZXcG0xTHFSbjU4Tjk3X0JDNnhKMUtQREFSWFBqSnpnT243ZC1OemVvYXBzNW9OYjF4ZGxaR252Smx3c1dJZWxDVmZZdUhjZVZ1VWRxWmVoOFRPbDBXckk2emw2?oc=5)
 
 — Fonte automatizada via Google News (PT-BR/BR).

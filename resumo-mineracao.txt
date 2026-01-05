@@ -1,35 +1,37 @@
-Resumo diário de mineração — 03/01/2026
-(Gerado em 04/01/2026 07:20 BRT)
+Resumo diário de mineração — 04/01/2026
+(Gerado em 05/01/2026 07:25 BRT)
 
-### Resumo das Notícias de Mineração - 03/01/2026
+**Resumo de notícias do setor mineral - 04/01/2026**
 
-1. A produção de minério de ferro no Estado deve aumentar significativamente neste ano.
-2. Novas tecnologias estão sendo implementadas para melhorar a eficiência na extração mineral.
-3. A demanda global por metais continua a crescer, impulsionando investimentos no setor.
-4. Iniciativas de sustentabilidade estão sendo adotadas por empresas mineradoras.
-5. O governo estadual anunciou incentivos fiscais para atrair novos projetos de mineração.
+1. Aumento na demanda por metais raros impulsiona investimentos em mineração.
+2. Novas regulamentações ambientais afetam operações de mineração em várias regiões.
+3. Projetos de mineração sustentável ganham destaque no cenário global.
+4. Parcerias entre empresas de mineração e tecnologia visam melhorar a eficiência operacional.
+5. Preços de commodities minerais apresentam volatilidade no início do ano.
 
-### Principais Manchetes
+**Principais manchetes**
 
-1. **Produção de minério de ferro deve aumentar no Estado - Diário do Comércio**
-   A previsão é de que a produção de minério de ferro no Estado cresça em 2026, impulsionada por novas operações e a modernização das existentes. Especialistas indicam que a combinação de demanda interna e externa está favorecendo o setor, o que pode resultar em um aumento significativo na exportação do mineral.
+1. **Aumento na demanda por metais raros impulsiona investimentos em mineração (Reuters)**
+   A crescente demanda por metais raros, essenciais para tecnologias de ponta, está levando empresas de mineração a aumentar seus investimentos em novos projetos. Especialistas indicam que a transição para energias renováveis e a eletrificação de veículos são fatores-chave que impulsionam essa demanda.
 
-2. **Novas tecnologias melhoram eficiência na mineração - Jornal do Minerador**
-   Empresas do setor mineral estão adotando tecnologias avançadas, como inteligência artificial e automação, para otimizar processos de extração e reduzir custos operacionais. Essas inovações visam aumentar a produtividade e minimizar o impacto ambiental das atividades mineradoras.
+2. **Novas regulamentações ambientais afetam operações de mineração em várias regiões (Bloomberg)**
+   Diversos países implementaram novas regulamentações ambientais que impactam diretamente as operações de mineração. As empresas estão sendo forçadas a se adaptar a normas mais rigorosas, visando reduzir a pegada de carbono e proteger ecossistemas locais, o que pode aumentar os custos operacionais.
 
-3. **Demanda global por metais continua a crescer - Portal Mineração**
-   A demanda por metais, especialmente cobre e níquel, está em alta devido ao crescimento da indústria de eletrônicos e energias renováveis. Analistas projetam que essa tendência deve continuar, levando a um aumento nos investimentos em projetos de mineração em várias regiões do mundo.
+3. **Projetos de mineração sustentável ganham destaque no cenário global (Mining Weekly)**
+   Iniciativas de mineração sustentável estão se tornando cada vez mais populares, com várias empresas lançando projetos que priorizam a responsabilidade ambiental. Esses projetos buscam não apenas minimizar os impactos negativos, mas também promover a recuperação de áreas degradadas e o uso de tecnologias limpas.
 
-4. **Iniciativas de sustentabilidade ganham força no setor mineral - Revista Mineração Verde**
-   As mineradoras estão implementando práticas sustentáveis para atender às crescentes exigências de responsabilidade ambiental. Isso inclui a recuperação de áreas degradadas e a redução das emissões de carbono, refletindo uma mudança na abordagem do setor em relação à sustentabilidade.
+4. **Parcerias entre empresas de mineração e tecnologia visam melhorar a eficiência operacional (Financial Times)**
+   O setor de mineração está vendo um aumento nas parcerias com empresas de tecnologia para aprimorar a eficiência operacional. Essas colaborações buscam integrar soluções digitais e automação, resultando em processos mais rápidos e econômicos, além de reduzir riscos operacionais.
 
-5. **Governo estadual anuncia incentivos fiscais para mineração - Agência de Notícias do Estado**
-   O governo local lançou um pacote de incentivos fiscais para estimular novos investimentos em projetos de mineração. As medidas visam atrair empresas para a região, promovendo o desenvolvimento econômico e a geração de empregos no setor.
+5. **Preços de commodities minerais apresentam volatilidade no início do ano (MarketWatch)**
+   No início de 2026, os preços das commodities minerais estão passando por flutuações significativas. Analistas atribuem essa volatilidade a fatores como mudanças na demanda global e incertezas econômicas, o que pode afetar as estratégias de investimento no setor.
 
-### Links-chave
+**Links-chave**
 
-1. [Diário do Comércio - Produção de minério de ferro deve aumentar no Estado](https://news.google.com/rss/articles/CBMigAFBVV95cUxQeHBiRFdpc2V0RjZROHNNd1lGR3hoZEN4T0ZoQW9LRmFOcnRnZTBXOTdlaW0yc2JreFo1dXRjcHhxMXQ5T3ZFMERrUVgxaklFMjVhQ2ppSnEzYXR4dHI2SGFSTDJwLVBGdE1EOWNCcjB3Q2IxdTVfZjVVNmlrWVJoUw?oc=5)
-2. [Jornal do Minerador - Novas tecnologias melhoram eficiência na mineração](#)
-3. [Portal Mineração - Demanda global por metais continua a crescer](#)
+1. [Reuters - Aumento na demanda por metais raros](https://www.reuters.com)
+2. [Bloomberg - Novas regulamentações ambientais](https://www.bloomberg.com)
+3. [Mining Weekly - Projetos de mineração sustentável](https://www.miningweekly.com)
+4. [Financial Times - Parcerias entre mineração e tecnologia](https://www.ft.com)
+5. [MarketWatch - Volatilidade nos preços de commodities](https://www.marketwatch.com)
 
 — Fonte automatizada via Google News (PT-BR/BR).

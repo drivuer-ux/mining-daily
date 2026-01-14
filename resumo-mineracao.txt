@@ -1,34 +1,6 @@
-Resumo diário de mineração — 12/01/2026
-(Gerado em 13/01/2026 07:25 BRT)
+Resumo diário de mineração — 13/01/2026
+(Gerado em 14/01/2026 07:25 BRT)
 
-### Resumo das Notícias de Mineração - 12/01/2026
-
-1. **Carajás como laboratório de mineração sustentável**: A região de Carajás é destacada como um modelo para práticas de mineração com menor impacto ambiental.
-2. **Atualização do plano nacional de mineração**: O Brasil revisou seu plano de mineração de longo prazo, visando maior sustentabilidade e eficiência no setor.
-3. **Cooperação Brasil-Arábia Saudita**: O Brasil e a Arábia Saudita avançam em parcerias estratégicas focadas em minerais críticos e investimentos no setor mineral.
-4. **Grupo de trabalho para minerais críticos**: Foi criado um grupo de trabalho entre Brasil e Arábia Saudita para fortalecer a colaboração em minerais estratégicos.
-5. **Busca por investimentos na Arábia Saudita**: O Brasil está ativamente buscando investimentos sauditas no setor mineral, com foco em minerais críticos.
-
-### Principais Manchetes
-
-1. **Carajás vira laboratório de mineração de menor impacto** (Valor Econômico)  
-   A região de Carajás no Brasil está sendo transformada em um laboratório para práticas de mineração que visam reduzir o impacto ambiental. Iniciativas estão sendo implementadas para promover a sustentabilidade e a eficiência na extração mineral.
-
-2. **Brasil atualiza plano nacional de mineração de longo prazo** (BNamericas)  
-   O governo brasileiro anunciou uma atualização significativa em seu plano nacional de mineração, que inclui diretrizes para práticas mais sustentáveis e uma melhor gestão dos recursos minerais. O objetivo é alinhar o setor às demandas ambientais e sociais contemporâneas.
-
-3. **Silveira e Sauditas avançam em cooperação estratégica para minerais críticos e investimentos no setor mineral** (www.gov.br)  
-   O ministro de Minas e Energia do Brasil, Silveira, e representantes da Arábia Saudita discutiram a ampliação da cooperação em minerais críticos. O foco é fortalecer os laços comerciais e atrair investimentos sauditas para o setor mineral brasileiro.
-
-4. **Brasil e Arábia Saudita avançam na aliança em minerais críticos com criação de grupo de trabalho** (Agência eixos)  
-   Um novo grupo de trabalho foi estabelecido entre Brasil e Arábia Saudita para coordenar esforços em minerais críticos. A iniciativa visa facilitar a troca de informações e promover investimentos mútuos no setor mineral.
-
-5. **Brasil busca ampliar com sauditas parcerias em minerais críticos** (Agência Brasil)  
-   O Brasil está em negociações para expandir parcerias com a Arábia Saudita, focando em minerais críticos. O objetivo é fortalecer a colaboração e aumentar os investimentos sauditas no setor mineral brasileiro.
-
-### Links-chave
-- [Carajás vira laboratório de mineração de menor impacto - Valor Econômico](https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUw4RVVTSFZON2U1TFBPUEV3cUl2SXpqMjZwdlk0d0YwS0txNnFON0RDbTFoQWwwX29XUHRTX21qa0VFYlBPWUZ1ZHVNSFMzTXg2STZjMDRmV1lMMTd4ek80YlNmaWdHY2JWLW16aUdpQTNFQ015QzFTRXF2X0FOY1NScHQwTlhOal9ZRGRDTC13ZWdqZ3RJTTVyQXd2bHc5azVhYlVYeWRjalVfZjIySENlU0JCT1nSAcYBQVVfeXFMTWRHcm9vY3l5bVE4M1BkZmRFY3FraTFKNmhtYm9Kc182djZ2UEhXdk5JQy02Tm1hMzdLTWU1eU1xYU1TSjNXbXdycW9xeDlzSWlVa242UWxxQk9ScmxRMmEwQV96WFU2NmFNX2F2anZyVkJzRWtybGl0QjFCejVOckY2WkpDaV9hRlBNemc3T2NUdUpxQXVpdldneTFtdzNjbHlGOTJuWnF3d2swSmJtM0QxVjNkWUR3bFBMNHg1ZDl6OUVFcDhn?oc=5)
-- [Brasil atualiza plano nacional de mineração de longo prazo - BNamericas](https://news.google.com/rss/articles/CBMingFBVV95cUxObHg5bzc5Y2ZTTi1WZHBGMmVPMURFSXdTNFl0TW00MmFmQUo1dVJjdUM0OXpoN2VtR2RxRFhzZTdNR3poOFFEUlhlZURTYmtKREE4ZEVLS1NaSWRRcm8yTnVVZDhYOXJLQ2lfWl90Zy1BZUxna1hpWEhqTmhyZEc0a3Q4aWZxOFNIZkhHSUpFQ3NDbVdtLXVoOGpzeThCZw?oc=5)
-- [Silveira e Sauditas avançam em cooperação estratégica para minerais críticos e investimentos no setor mineral - www.gov.br](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdlE5V2ZoZmRRaHI2S2FFbEswMGt4dUdKZGdqU0NrNG8xYW1ldWl4RThfZ3dCaDN5enJYTGhQZHlOOVpyOUkxOVVyMDNsbU1XVXdPbW1Jb3k0a0Z0YlJpcXdBY3hFM1pNN2JNQTNtUExfVkpxQlUwVnQ3dkdMdWEzSE9LUGZESUFFcC1ib1hLVWdJamJjSkZINmRzLWVJcGJxcU5FZ1lqS2ZSSk9Ca3gzZzBUdzR4UDlOenBfU1dLRlB5ZnBHeFVrRkplWlZVNEZvT25uTkI0NnJFTXhSQUJoN2k3eVU4RTBVY25Hcw?oc=5)
+Não foi possível gerar o resumo hoje. Erro: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions
 
 — Fonte automatizada via Google News (PT-BR/BR).

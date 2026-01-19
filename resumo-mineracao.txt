@@ -1,5 +1,5 @@
-Resumo diário de mineração — 17/01/2026
-(Gerado em 18/01/2026 07:21 BRT)
+Resumo diário de mineração — 18/01/2026
+(Gerado em 19/01/2026 07:29 BRT)
 
 Não foi possível gerar o resumo hoje. Erro: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions
 
